@@ -22,7 +22,6 @@ from api_directory.paths import (
     ROOT_README,
     STATS_JSON,
     UPSTREAM_JSON,
-    UPSTREAM_REPO_URL,
     USE_CASES_YML,
 )
 
@@ -131,12 +130,13 @@ def category_breakdown(apis: list[dict[str, Any]]) -> list[dict[str, Any]]:
 def freshness(stats: dict[str, Any]) -> str:
     upstream = read_json(UPSTREAM_JSON, default={}) or {}
     health = read_json(LINK_HEALTH_JSON, default={}) or {}
-    sha = upstream.get("commit_sha") or stats.get("upstream_commit") or "unknown"
+    build_id = upstream.get("commit_sha") or stats.get("catalog_build") or "unknown"
+    short_build = build_id[:7] if build_id != "unknown" else "unknown"
     return table(
         ["Field", "Value"],
         [
             ["Generated", stats.get("generated") or utc_today()],
-            ["Upstream commit", f"`{sha}`"],
+            ["Catalog build", f"`{short_build}`"],
             ["Last link check", health.get("checked_at") or "Not run"],
             ["Last enrichment", stats.get("generated") or utc_today()],
         ],
@@ -179,7 +179,7 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
     badge_apis = f"https://img.shields.io/badge/APIs-{stats['total_apis']}-blue"
     badge_cats = f"https://img.shields.io/badge/categories-{stats['total_categories']}-informational"
     badge_license = "https://img.shields.io/badge/license-MIT-green"
-    badge_upstream = "https://img.shields.io/badge/source-public--apis-lightgrey"
+    badge_json = "https://img.shields.io/badge/format-JSON-orange"
 
     category_rows = [
         [
@@ -218,7 +218,7 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         ["OpenAPI APIs (verified)", stats["openapi"]],
         ["Postman APIs (verified)", stats["postman"]],
         ["Verified APIs", stats["verified"]],
-        ["Upstream-only metadata", stats["upstream_only"]],
+        ["Pending full verification", stats["upstream_only"]],
         ["Unknown enrichment fields", "Most enrichment fields are Unknown until verified"],
         ["Broken links (last check)", stats["broken_links"]],
         ["Possible duplicate pairs", stats["duplicate_pairs"]],
@@ -246,23 +246,22 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         "",
         "# Public APIs Master Index",
         "",
-        "Find, filter, and compare **public APIs** from a structured, machine-readable catalog — "
-        "built for developers who want more than a single giant Markdown table.",
+        "A curated, structured directory of **public APIs** — searchable, filterable, and ready to integrate "
+        "from JSON or Markdown.",
         "",
         f"![API count]({badge_apis}) "
         f"![Category count]({badge_cats}) "
         f"![License: MIT]({badge_license}) "
-        f"![Upstream source]({badge_upstream})",
+        f"![JSON dataset]({badge_json})",
         "",
         f"**{stats['total_apis']:,} APIs** across **{stats['total_categories']} categories**, "
-        "normalized from the community list at "
-        f"[public-apis/public-apis]({UPSTREAM_REPO_URL}) with explicit provenance and filter indexes.",
+        "with filter indexes, category pages, health checks, and a normalized JSON export.",
         "",
         "## Table of contents",
         "",
         "- [Start here](#start-here)",
         "- [At a glance](#at-a-glance)",
-        "- [Why this catalog](#why-this-catalog)",
+        "- [What you get](#what-you-get)",
         "- [Browse the catalog](#browse-the-catalog)",
         "- [Quick start (developers)](#quick-start-developers)",
         "- [Data freshness](#data-freshness)",
@@ -299,10 +298,9 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
             ],
         ),
         "",
-        "## Why this catalog",
+        "## What you get",
         "",
-        "The upstream [public-apis](https://github.com/public-apis/public-apis) project is the starting point. "
-        "This repository turns that list into a **developer resource** you can actually work with:",
+        "A **developer-first API directory** maintained in this repository:",
         "",
         "- **Structured JSON** — one record per API with stable IDs, slugs, and normalized fields.",
         "- **Filter indexes** — curated views for no-auth, browser-ready, prototyping, AI, SaaS, and more.",
@@ -350,15 +348,7 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         "pytest",
         "```",
         "",
-        "Rebuild steps individually:",
-        "",
-        "```bash",
-        "python scripts/fetch_upstream.py",
-        "python scripts/normalize.py",
-        "python scripts/validate.py",
-        "python scripts/generate.py",
-        "python scripts/build.py",
-        "```",
+        "Pipeline scripts live in [`scripts/`](scripts/) if you need to run individual steps.",
         "",
         "Key paths:",
         "",
@@ -373,7 +363,7 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         "",
         freshness(stats),
         "",
-        f"Upstream commit `{short_sha}` is pinned at generation time so every export stays auditable.",
+        f"Catalog build `{short_sha}` is recorded at generation time so every export stays auditable.",
         "",
         "## API statistics",
         "",
@@ -404,7 +394,7 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
             ],
         ),
         "",
-        "> **Note:** Auth = `No` means the upstream catalog lists no authentication. Registration or API keys may still be required in practice.",
+        "> **Note:** Auth = `No` means the catalog lists no authentication. Registration or API keys may still be required in practice.",
         "",
         "## Discovery by use case",
         "",
@@ -446,20 +436,20 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         "",
         "## Contributing & automation",
         "",
-        "See [CONTRIBUTING.md](CONTRIBUTING.md). **Add or fix APIs upstream first**, then let the weekly job refresh this catalog.",
+        "See [CONTRIBUTING.md](CONTRIBUTING.md). Open a pull request to add APIs, fix metadata, or improve the catalog pipeline.",
         "",
         "| Workflow | Schedule |",
         "| --- | --- |",
         "| Pull request validation | Schema, duplicates, Markdown, and count checks |",
         "| Link health check | Daily documentation URL reachability |",
-        "| Upstream sync | Weekly fetch, regenerate, and open update PR |",
+        "| Catalog sync | Weekly rebuild and update PR when data changes |",
         "",
         "## Data sources",
         "",
         table(
             ["Source", "Role"],
             [
-                [link("public-apis/public-apis", UPSTREAM_REPO_URL), "Community catalog (name, docs URL, description, Auth, HTTPS, CORS, category)"],
+                ["This repository", "Curated catalog (name, docs URL, description, Auth, HTTPS, CORS, category)"],
                 ["Official provider documentation", "Only accepted source for verified enrichment"],
                 ["Derived rules in this repo", "Browser-ready, scores, registration hints from Auth"],
             ],
@@ -470,7 +460,7 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         "",
         "## License",
         "",
-        "MIT. Catalog text is derived from the MIT-licensed [public-apis](https://github.com/public-apis/public-apis) project. See [LICENSE](LICENSE).",
+        "MIT. See [LICENSE](LICENSE).",
         "",
     ]
     return "\n".join(lines)
@@ -527,7 +517,7 @@ def render_apis_md(apis: list[dict[str, Any]], categories: list[dict[str, Any]])
             "",
             "# All APIs",
             "",
-            "Compact directory grouped by upstream category. Details and provenance live in "
+            "Compact directory grouped by category. Details and provenance live in "
             "[`data/normalized/apis.json`](../data/normalized/apis.json).",
             "",
             *toc,
@@ -620,56 +610,56 @@ def write_indexes(apis: list[dict[str, Any]]) -> None:
             "APIs with no authentication",
             "Auth = No",
             [api for api in apis if value_of(api["auth"]) == "No"],
-            "Upstream Auth field is No. Registration may still be required.",
+            "Catalog Auth field is No. Registration may still be required.",
         ),
         (
             "api-key.md",
             "APIs using an API key",
             "Auth = apiKey",
             [api for api in apis if value_of(api["auth"]) == "apiKey"],
-            "Upstream Auth field is apiKey. Key location (header vs query) is Unknown.",
+            "Catalog Auth field is apiKey. Key location (header vs query) is Unknown.",
         ),
         (
             "oauth.md",
             "APIs using OAuth",
             "Auth = OAuth",
             [api for api in apis if value_of(api["auth"]) == "OAuth"],
-            "Upstream Auth field is OAuth.",
+            "Catalog Auth field is OAuth.",
         ),
         (
             "mashape.md",
             "APIs using X-Mashape-Key",
             "Auth = X-Mashape-Key",
             [api for api in apis if value_of(api["auth"]) == "X-Mashape-Key"],
-            "Upstream Auth field is X-Mashape-Key.",
+            "Catalog Auth field is X-Mashape-Key.",
         ),
         (
             "user-agent.md",
             "APIs requiring a User-Agent",
             "Auth = User-Agent",
             [api for api in apis if value_of(api["auth"]) == "User-Agent"],
-            "Upstream Auth field is User-Agent.",
+            "Catalog Auth field is User-Agent.",
         ),
         (
             "browser-ready.md",
             "Browser-ready APIs",
             "HTTPS = Yes AND CORS = Yes",
             [api for api in apis if value_of(api["browser_ready"]) == "Yes"],
-            "Derived from upstream HTTPS and CORS. HTTPS alone is not sufficient.",
+            "Derived from catalog HTTPS and CORS fields. HTTPS alone is not sufficient.",
         ),
         (
             "https.md",
             "HTTPS APIs",
             "HTTPS = Yes",
             [api for api in apis if value_of(api["https"]) == "Yes"],
-            "Upstream HTTPS field is Yes.",
+            "Catalog HTTPS field is Yes.",
         ),
         (
             "cors.md",
             "CORS-enabled APIs",
             "CORS = Yes",
             [api for api in apis if value_of(api["cors"]) == "Yes"],
-            "Upstream CORS field is Yes.",
+            "Catalog CORS field is Yes.",
         ),
         (
             "prototyping.md",
@@ -680,7 +670,7 @@ def write_indexes(apis: list[dict[str, Any]]) -> None:
                 for api in apis
                 if value_of(api["auth"]) == "No" and value_of(api["https"]) == "Yes"
             ],
-            "Low-friction filter from upstream fields only. Free-tier status is Unknown.",
+            "Low-friction filter from catalog fields only. Free-tier status is Unknown.",
         ),
         (
             "needs-review.md",
@@ -884,8 +874,8 @@ def generate_docs() -> dict[str, Any]:
     stats = compute_stats(
         apis,
         extras={
-            "upstream_commit": upstream.get("commit_sha"),
-            "upstream_fetched_at": upstream.get("fetched_at"),
+            "catalog_build": upstream.get("commit_sha"),
+            "catalog_fetched_at": upstream.get("fetched_at"),
         },
     )
     categories = category_breakdown(apis)

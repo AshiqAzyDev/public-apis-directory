@@ -2,7 +2,7 @@
 
 # APIs with no authentication
 
-Upstream Auth field is No. Registration may still be required.
+Catalog Auth field is No. Registration may still be required.
 
 **Criteria:** `Auth = No`
 

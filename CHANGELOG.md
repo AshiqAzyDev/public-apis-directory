@@ -2,8 +2,8 @@
 
 # Changelog
 
-Catalog changes detected from the upstream public-apis README.
+Catalog changes tracked in this repository.
 
 ## 2026-08-14
 
-Initial catalog import: 1669 APIs from [public-apis/public-apis](https://github.com/public-apis/public-apis) (`4f6e03bc4721417771965d4a5d864d596480fc55`).
+Initial catalog: 1669 APIs (build `4f6e03b`).

@@ -2,7 +2,7 @@
 
 # APIs using OAuth
 
-Upstream Auth field is OAuth.
+Catalog Auth field is OAuth.
 
 **Criteria:** `Auth = OAuth`
 

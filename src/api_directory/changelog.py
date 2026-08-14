@@ -68,7 +68,7 @@ def render_changelog_section(date: str, diff: dict[str, list[str]], commit: str 
     lines = [f"## {date}"]
     if commit:
         lines.append("")
-        lines.append(f"Upstream commit: `{commit}`")
+        lines.append(f"Catalog build: `{commit[:7]}`")
     empty = True
     for heading, key in (
         ("Added", "added"),
@@ -98,9 +98,8 @@ def write_changelog(
     if previous is None:
         section = (
             f"## {date}\n\n"
-            f"Initial catalog import: {len(current)} APIs from "
-            f"[public-apis/public-apis](https://github.com/public-apis/public-apis)"
-            + (f" (`{commit}`)" if commit else "")
+            f"Initial catalog: {len(current)} APIs"
+            + (f" (build `{commit[:7]}`)" if commit else "")
             + ".\n"
         )
     else:
@@ -122,7 +121,7 @@ def write_changelog(
     header = (
         f"{BANNER}\n\n"
         "# Changelog\n\n"
-        "Catalog changes detected from the upstream public-apis README.\n\n"
+        "Catalog changes tracked in this repository.\n\n"
     )
     body = section + ("\n" + existing if existing.strip() else "")
     write_text(CHANGELOG, header + body)

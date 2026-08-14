@@ -2,7 +2,7 @@
 
 # APIs using an API key
 
-Upstream Auth field is apiKey. Key location (header vs query) is Unknown.
+Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 
 **Criteria:** `Auth = apiKey`
 

@@ -2,7 +2,7 @@
 
 # APIs for AI and machine-learning projects
 
-APIs listed by upstream in Machine Learning or Text Analysis. Capabilities beyond the upstream description are not inferred.
+APIs in Machine Learning or Text Analysis. Capabilities beyond the catalog description are not inferred.
 
 **Criteria:** `Category is Machine Learning or Text Analysis`
 

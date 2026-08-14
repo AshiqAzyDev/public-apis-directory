@@ -2,7 +2,7 @@
 
 # APIs for SaaS development
 
-APIs listed by upstream in business, finance, productivity, storage, email, or development categories. This is a category filter, not a ranking.
+APIs in business, finance, productivity, storage, email, or development categories. This is a category filter, not a ranking.
 
 **Criteria:** `Category is Business, Finance, Documents & Productivity, Cloud Storage & File Sharing, Email, or Development`
 

@@ -2,7 +2,7 @@
 
 # All APIs
 
-Compact directory grouped by upstream category. Details and provenance live in [`data/normalized/apis.json`](../data/normalized/apis.json).
+Compact directory grouped by category. Details and provenance live in [`data/normalized/apis.json`](../data/normalized/apis.json).
 
 - [Animals](#animals) (26)
 - [Anime](#anime) (19)

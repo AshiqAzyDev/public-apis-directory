@@ -2,17 +2,17 @@
 
 # Public APIs Master Index
 
-Find, filter, and compare **public APIs** from a structured, machine-readable catalog — built for developers who want more than a single giant Markdown table.
+A curated, structured directory of **public APIs** — searchable, filterable, and ready to integrate from JSON or Markdown.
 
-![API count](https://img.shields.io/badge/APIs-1669-blue) ![Category count](https://img.shields.io/badge/categories-51-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Upstream source](https://img.shields.io/badge/source-public--apis-lightgrey)
+![API count](https://img.shields.io/badge/APIs-1669-blue) ![Category count](https://img.shields.io/badge/categories-51-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![JSON dataset](https://img.shields.io/badge/format-JSON-orange)
 
-**1,669 APIs** across **51 categories**, normalized from the community list at [public-apis/public-apis](https://github.com/public-apis/public-apis) with explicit provenance and filter indexes.
+**1,669 APIs** across **51 categories**, with filter indexes, category pages, health checks, and a normalized JSON export.
 
 ## Table of contents
 
 - [Start here](#start-here)
 - [At a glance](#at-a-glance)
-- [Why this catalog](#why-this-catalog)
+- [What you get](#what-you-get)
 - [Browse the catalog](#browse-the-catalog)
 - [Quick start (developers)](#quick-start-developers)
 - [Data freshness](#data-freshness)
@@ -46,9 +46,9 @@ Find, filter, and compare **public APIs** from a structured, machine-readable ca
 | HTTPS | 1577 |
 | CORS enabled | 545 |
 
-## Why this catalog
+## What you get
 
-The upstream [public-apis](https://github.com/public-apis/public-apis) project is the starting point. This repository turns that list into a **developer resource** you can actually work with:
+A **developer-first API directory** maintained in this repository:
 
 - **Structured JSON** — one record per API with stable IDs, slugs, and normalized fields.
 - **Filter indexes** — curated views for no-auth, browser-ready, prototyping, AI, SaaS, and more.
@@ -106,15 +106,7 @@ python scripts/build.py
 pytest
 ```
 
-Rebuild steps individually:
-
-```bash
-python scripts/fetch_upstream.py
-python scripts/normalize.py
-python scripts/validate.py
-python scripts/generate.py
-python scripts/build.py
-```
+Pipeline scripts live in [`scripts/`](scripts/) if you need to run individual steps.
 
 Key paths:
 
@@ -130,11 +122,11 @@ Key paths:
 | Field | Value |
 | --- | --- |
 | Generated | 2026-08-14 |
-| Upstream commit | `4f6e03bc4721417771965d4a5d864d596480fc55` |
+| Catalog build | `4f6e03b` |
 | Last link check | Not run |
 | Last enrichment | 2026-08-14 |
 
-Upstream commit `4f6e03b` is pinned at generation time so every export stays auditable.
+Catalog build `4f6e03b` is recorded at generation time so every export stays auditable.
 
 ## API statistics
 
@@ -157,7 +149,7 @@ Full counts from the normalized dataset. Verified enrichment fields remain `Unkn
 | OpenAPI APIs (verified) | 0 |
 | Postman APIs (verified) | 0 |
 | Verified APIs | 0 |
-| Upstream-only metadata | 1621 |
+| Pending full verification | 1621 |
 | Unknown enrichment fields | Most enrichment fields are Unknown until verified |
 | Broken links (last check) | 0 |
 | Possible duplicate pairs | 24 |
@@ -230,7 +222,7 @@ All categories with per-category counts for authentication, transport, and brows
 | X-Mashape-Key | 6 | [Browse](generated/indexes/mashape.md) |
 | User-Agent | 1 | [Browse](generated/indexes/user-agent.md) |
 
-> **Note:** Auth = `No` means the upstream catalog lists no authentication. Registration or API keys may still be required in practice.
+> **Note:** Auth = `No` means the catalog lists no authentication. Registration or API keys may still be required in practice.
 
 ## Discovery by use case
 
@@ -238,7 +230,7 @@ Curated filters with documented criteria — not rankings, not sponsored placeme
 
 ### APIs for frontend projects
 
-APIs whose upstream HTTPS and CORS fields are both Yes. That is the only browser-readiness criterion used here.
+APIs whose HTTPS and CORS fields are both Yes. That is the only browser-readiness criterion used here.
 
 **Criteria:** `HTTPS = Yes AND CORS = Yes`
 
@@ -252,7 +244,7 @@ Every catalog API can be called from a server. CORS is not required. Prefer this
 
 ### APIs with no authentication
 
-APIs whose upstream Auth field is No. This does not prove that registration is never required.
+APIs whose Auth field is No. This does not prove that registration is never required.
 
 **Criteria:** `Auth = No`
 
@@ -260,7 +252,7 @@ APIs whose upstream Auth field is No. This does not prove that registration is n
 
 ### APIs for prototyping and students
 
-Low-friction options based only on upstream fields — no authentication listed, and HTTPS is Yes. Free-tier status is Unknown unless later verified.
+Low-friction options based on catalog fields — no authentication listed, and HTTPS is Yes. Free-tier status is Unknown unless later verified.
 
 **Criteria:** `Auth = No AND HTTPS = Yes`
 
@@ -268,7 +260,7 @@ Low-friction options based only on upstream fields — no authentication listed,
 
 ### APIs for AI and machine-learning projects
 
-APIs listed by upstream in Machine Learning or Text Analysis. Capabilities beyond the upstream description are not inferred.
+APIs in Machine Learning or Text Analysis. Capabilities beyond the catalog description are not inferred.
 
 **Criteria:** `Category is Machine Learning or Text Analysis`
 
@@ -276,7 +268,7 @@ APIs listed by upstream in Machine Learning or Text Analysis. Capabilities beyon
 
 ### APIs for SaaS development
 
-APIs listed by upstream in business, finance, productivity, storage, email, or development categories. This is a category filter, not a ranking.
+APIs in business, finance, productivity, storage, email, or development categories. This is a category filter, not a ranking.
 
 **Criteria:** `Category is Business, Finance, Documents & Productivity, Cloud Storage & File Sharing, Email, or Development`
 
@@ -311,19 +303,19 @@ A single failed check never removes an API from the catalog.
 
 ## Contributing & automation
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). **Add or fix APIs upstream first**, then let the weekly job refresh this catalog.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Open a pull request to add APIs, fix metadata, or improve the catalog pipeline.
 
 | Workflow | Schedule |
 | --- | --- |
 | Pull request validation | Schema, duplicates, Markdown, and count checks |
 | Link health check | Daily documentation URL reachability |
-| Upstream sync | Weekly fetch, regenerate, and open update PR |
+| Catalog sync | Weekly rebuild and update PR when data changes |
 
 ## Data sources
 
 | Source | Role |
 | --- | --- |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Community catalog (name, docs URL, description, Auth, HTTPS, CORS, category) |
+| This repository | Curated catalog (name, docs URL, description, Auth, HTTPS, CORS, category) |
 | Official provider documentation | Only accepted source for verified enrichment |
 | Derived rules in this repo | Browser-ready, scores, registration hints from Auth |
 
@@ -331,4 +323,4 @@ Enrichment priority: official docs → official website → official GitHub → 
 
 ## License
 
-MIT. Catalog text is derived from the MIT-licensed [public-apis](https://github.com/public-apis/public-apis) project. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).

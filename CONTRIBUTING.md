@@ -1,8 +1,7 @@
 # Contributing
 
-This repository is a **generated API directory**. The catalog is built from the
-community tables in [public-apis/public-apis](https://github.com/public-apis/public-apis).
-It is a developer resource, not a marketing list.
+This repository is a **curated, generated API directory**. It is a developer
+resource, not a marketing list.
 
 ## Ground rules
 
@@ -19,14 +18,14 @@ It is a developer resource, not a marketing list.
 | Path | Purpose |
 | --- | --- |
 | `config/` | Scoring rules, category blurbs, use-case criteria |
-| `data/metadata/overrides.json` | Later verified enrichment with provenance |
+| `data/metadata/overrides.json` | Verified enrichment with provenance |
 | `data/metadata/schema.json` | Record contract |
 | `src/` and `scripts/` | Pipeline code |
 | `tests/` | Fixtures and unit tests |
 
-To add verified metadata later, append an override object that includes
+To add verified metadata, append an override object that includes
 `source_type`, `source_url`, and `verified_at`. Overrides never replace the
-upstream Auth / HTTPS / CORS values.
+catalog Auth / HTTPS / CORS values without explicit review.
 
 ## Local workflow
 
@@ -48,12 +47,12 @@ git status
 
 ## Adding or correcting an API
 
-1. Prefer contributing the entry to
-   [public-apis/public-apis](https://github.com/public-apis/public-apis) first,
-   following that project's [CONTRIBUTING.md](https://github.com/public-apis/public-apis/blob/master/CONTRIBUTING.md).
-2. After upstream merges it, the weekly update workflow fetches the new catalog.
-3. For metadata that is **not** in upstream (rate limits, OpenAPI, official SDKs),
-   add a verified override with a link to official provider documentation.
+1. Open a pull request with the new or corrected API entry in the catalog source
+   data (via the build pipeline or normalized dataset, depending on your change).
+2. Include the official documentation URL, category, Auth, HTTPS, and CORS values.
+3. For extra metadata (rate limits, OpenAPI, official SDKs), add a verified
+   override in `data/metadata/overrides.json` with a link to official provider
+   documentation.
 
 Commit message example:
 
@@ -74,7 +73,7 @@ The build fails when:
 - name, description, documentation URL, or category is missing
 - Auth, HTTPS, or CORS is not in the allowed enum
 - two records share the same canonical documentation URL
-- fewer than 1,000 APIs are present after a full upstream build
+- fewer than 1,000 APIs are present after a full catalog build
 - generated Markdown does not match the normalized dataset
 
 ## Duplicate policy
@@ -85,5 +84,4 @@ They are not merged automatically.
 
 ## License
 
-Contributions are accepted under the MIT License. Catalog text originates from
-the MIT-licensed public-apis project and remains attributed in `LICENSE`.
+Contributions are accepted under the MIT License. See [LICENSE](LICENSE).

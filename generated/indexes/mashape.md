@@ -2,7 +2,7 @@
 
 # APIs using X-Mashape-Key
 
-Upstream Auth field is X-Mashape-Key.
+Catalog Auth field is X-Mashape-Key.
 
 **Criteria:** `Auth = X-Mashape-Key`
 

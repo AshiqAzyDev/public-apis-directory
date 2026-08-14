@@ -2,7 +2,7 @@
 
 # CORS-enabled APIs
 
-Upstream CORS field is Yes.
+Catalog CORS field is Yes.
 
 **Criteria:** `CORS = Yes`
 

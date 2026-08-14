@@ -2,7 +2,7 @@
 
 # HTTPS APIs
 
-Upstream HTTPS field is Yes.
+Catalog HTTPS field is Yes.
 
 **Criteria:** `HTTPS = Yes`
 

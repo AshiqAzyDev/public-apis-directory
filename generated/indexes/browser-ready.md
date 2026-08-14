@@ -2,7 +2,7 @@
 
 # Browser-ready APIs
 
-Derived from upstream HTTPS and CORS. HTTPS alone is not sufficient.
+Derived from catalog HTTPS and CORS fields. HTTPS alone is not sufficient.
 
 **Criteria:** `HTTPS = Yes AND CORS = Yes`
 

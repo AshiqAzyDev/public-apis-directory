@@ -2,7 +2,7 @@
 
 # APIs requiring a User-Agent
 
-Upstream Auth field is User-Agent.
+Catalog Auth field is User-Agent.
 
 **Criteria:** `Auth = User-Agent`
 

@@ -20,7 +20,7 @@ def test_browser_ready_derivation():
 
 def test_generated_readme_is_stable_and_valid_markdown(sample_markdown):
     apis = _enriched_sample(sample_markdown)
-    stats = compute_stats(apis, extras={"upstream_commit": "abc123"})
+    stats = compute_stats(apis, extras={"catalog_build": "abc123"})
     categories = category_breakdown(apis)
     markdown = render_root_readme(apis, stats, categories)
     assert markdown.startswith(BANNER)
@@ -28,6 +28,7 @@ def test_generated_readme_is_stable_and_valid_markdown(sample_markdown):
     assert "## Category explorer" in markdown
     assert "## Start here" in markdown
     assert "## Table of contents" in markdown
+    assert "## What you get" in markdown
     assert "Open-Meteo" not in markdown.split("## Category explorer")[0]
     assert str(len(apis)) in markdown
     assert banner() == BANNER

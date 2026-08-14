@@ -2,7 +2,7 @@
 
 # APIs for prototyping and students
 
-Low-friction filter from upstream fields only. Free-tier status is Unknown.
+Low-friction filter from catalog fields only. Free-tier status is Unknown.
 
 **Criteria:** `Auth = No AND HTTPS = Yes`
 

@@ -1,0 +1,36 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Check documentation URLs
+        run: python scripts/check_links.py
+      - name: Re-enrich and regenerate health views
+        run: |
+          python scripts/enrich.py
+          python scripts/generate.py
+      - name: Open health-update pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Update API link-health data"
+          title: "Update API link-health data"
+          body: |
+            Automated documentation URL check.
+
+            Failed checks are recorded. APIs are not deleted after a single failure.
+          branch: automation/link-check

@@ -1,0 +1,51 @@
+frontend:
+  id: frontend
+  title: APIs for frontend projects
+  description: APIs whose upstream HTTPS and CORS fields are both Yes. That is the only browser-readiness criterion used here.
+  criteria_text: HTTPS = Yes AND CORS = Yes
+  index: browser-ready.md
+
+backend:
+  id: backend
+  title: APIs for backend projects
+  description: Every catalog API can be called from a server. CORS is not required. Prefer this path when CORS is No or Unknown.
+  criteria_text: No CORS requirement
+  index: null
+
+no_auth:
+  id: no-auth
+  title: APIs with no authentication
+  description: APIs whose upstream Auth field is No. This does not prove that registration is never required.
+  criteria_text: Auth = No
+  index: no-auth.md
+
+prototyping:
+  id: prototyping
+  title: APIs for prototyping and students
+  description: Low-friction options based only on upstream fields — no authentication listed, and HTTPS is Yes. Free-tier status is Unknown unless later verified.
+  criteria_text: Auth = No AND HTTPS = Yes
+  index: prototyping.md
+
+ai:
+  id: ai
+  title: APIs for AI and machine-learning projects
+  description: APIs listed by upstream in Machine Learning or Text Analysis. Capabilities beyond the upstream description are not inferred.
+  criteria_text: Category is Machine Learning or Text Analysis
+  index: ai.md
+  categories:
+    - Machine Learning
+    - Text Analysis
+
+saas:
+  id: saas
+  title: APIs for SaaS development
+  description: APIs listed by upstream in business, finance, productivity, storage, email, or development categories. This is a category filter, not a ranking.
+  criteria_text: Category is Business, Finance, Documents & Productivity, Cloud Storage & File Sharing, Email, or Development
+  index: saas.md
+  categories:
+    - Business
+    - Finance
+    - Documents & Productivity
+    - Cloud Storage & File Sharing
+    - Email
+    - Development

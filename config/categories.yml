@@ -1,0 +1,156 @@
+# Handwritten category blurbs and related-category hints.
+# Descriptions are about the category, not about individual API capabilities.
+
+Animals:
+  description: APIs related to animals, pets, and wildlife data.
+  related: [Health, Science & Math]
+Anime:
+  description: APIs related to anime catalogs, tracking, and media metadata.
+  related: [Video, Entertainment]
+Anti-Malware:
+  description: APIs related to malware scanning, threat intelligence, and abuse reports.
+  related: [Security, Authentication & Authorization]
+Art & Design:
+  description: APIs related to images, design assets, and creative tooling.
+  related: [Photography, Entertainment]
+Authentication & Authorization:
+  description: APIs related to identity, login, and access control.
+  related: [Security, Development]
+Blockchain:
+  description: APIs related to blockchain networks and on-chain data.
+  related: [Cryptocurrency, Finance]
+Books:
+  description: APIs related to books, literature metadata, and reading data.
+  related: [Documents & Productivity, Open Data]
+Business:
+  description: APIs related to company data, business lookups, and commercial datasets.
+  related: [Finance, Jobs]
+Calendar:
+  description: APIs related to dates, holidays, and calendar events.
+  related: [Events, Open Data]
+Cloud Storage & File Sharing:
+  description: APIs related to file storage, sharing, and transfers.
+  related: [Documents & Productivity, Development]
+Continuous Integration:
+  description: APIs related to CI systems and build automation.
+  related: [Development, Programming]
+Cryptocurrency:
+  description: APIs related to crypto markets, assets, and chain explorers.
+  related: [Blockchain, Finance]
+Currency Exchange:
+  description: APIs related to foreign-exchange rates and currency conversion.
+  related: [Finance, Cryptocurrency]
+Data Validation:
+  description: APIs related to validating emails, phones, VAT numbers, and similar inputs.
+  related: [Development, Phone]
+Development:
+  description: APIs related to software development, testing utilities, and developer tooling.
+  related: [Programming, Continuous Integration]
+Dictionaries:
+  description: APIs related to dictionaries, thesauruses, and language references.
+  related: [Text Analysis, Documents & Productivity]
+Documents & Productivity:
+  description: APIs related to documents, notes, and productivity services.
+  related: [Cloud Storage & File Sharing, Business]
+Email:
+  description: APIs related to sending, receiving, or inspecting email.
+  related: [Business, Data Validation]
+Entertainment:
+  description: APIs related to humor, trivia, and general entertainment content.
+  related: [Games & Comics, Video]
+Environment:
+  description: APIs related to environment, climate, and natural-world measurements.
+  related: [Weather, Science & Math]
+Events:
+  description: APIs related to public events and listings.
+  related: [Calendar, Entertainment]
+Finance:
+  description: APIs related to markets, banking-style datasets, and financial references.
+  related: [Business, Currency Exchange]
+Food & Drink:
+  description: APIs related to recipes, nutrition, and food data.
+  related: [Health, Open Data]
+Games & Comics:
+  description: APIs related to games, comics, and related media metadata.
+  related: [Entertainment, Video]
+Geocoding:
+  description: APIs related to coordinates, addresses, IP location, and maps.
+  related: [Transportation, Open Data]
+Government:
+  description: APIs published by or about government and public-sector datasets.
+  related: [Open Data, Science & Math]
+Health:
+  description: APIs related to health, medical references, and wellness datasets.
+  related: [Science & Math, Food & Drink]
+Jobs:
+  description: APIs related to job listings and employment data.
+  related: [Business, Personality]
+Machine Learning:
+  description: APIs related to machine learning, models, and ML datasets.
+  related: [Text Analysis, Science & Math]
+Music:
+  description: APIs related to music catalogs, audio, and lyrics metadata.
+  related: [Video, Entertainment]
+News:
+  description: APIs related to news headlines and current-events feeds.
+  related: [Open Data, Social]
+Open Data:
+  description: APIs related to open datasets and public data portals.
+  related: [Government, Science & Math]
+Open Source Projects:
+  description: APIs related to open-source project metadata and hosting.
+  related: [Development, Programming]
+Patent:
+  description: APIs related to patents and intellectual-property records.
+  related: [Government, Open Data]
+Personality:
+  description: APIs related to quotes, personality tests, and similar content.
+  related: [Entertainment, Social]
+Phone:
+  description: APIs related to phone numbers and telephony metadata.
+  related: [Data Validation, Business]
+Photography:
+  description: APIs related to photographs and image sources.
+  related: [Art & Design, Video]
+Programming:
+  description: APIs related to programming languages, snippets, and language tools.
+  related: [Development, Open Source Projects]
+Science & Math:
+  description: APIs related to scientific and mathematical datasets.
+  related: [Open Data, Machine Learning]
+Security:
+  description: APIs related to security research, scanning, and defensive tooling.
+  related: [Anti-Malware, Authentication & Authorization]
+Shopping:
+  description: APIs related to products, e-commerce catalogs, and shopping data.
+  related: [Business, Finance]
+Social:
+  description: APIs related to social networks and social content.
+  related: [News, Personality]
+Sports & Fitness:
+  description: APIs related to sports results, teams, and fitness data.
+  related: [Health, Entertainment]
+Test Data:
+  description: APIs that provide fake or sample data for tests and prototypes.
+  related: [Development, Data Validation]
+Text Analysis:
+  description: APIs related to NLP, language detection, and text processing.
+  related: [Machine Learning, Dictionaries]
+Tracking:
+  description: APIs related to parcel, vehicle, or other tracking feeds.
+  related: [Transportation, Business]
+Transportation:
+  description: APIs related to transit, travel, and transport networks.
+  related: [Geocoding, Tracking]
+URL Shorteners:
+  description: APIs related to shortening and expanding URLs.
+  related: [Development, Tracking]
+Vehicle:
+  description: APIs related to cars, VINs, and vehicle datasets.
+  related: [Transportation, Open Data]
+Video:
+  description: APIs related to video platforms, movies, and TV metadata.
+  related: [Entertainment, Photography]
+Weather:
+  description: APIs related to weather forecasts, observations, and climate.
+  related: [Environment, Science & Math]

@@ -1,0 +1,25 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run tests
+        run: pytest
+      - name: Validate catalog
+        run: python scripts/validate.py
+      - name: Confirm generated docs match data
+        run: |
+          python scripts/generate.py
+          git diff --exit-code -- README.md generated data/metadata/stats.json data/metadata/categories.json

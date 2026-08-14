@@ -1,0 +1,18 @@
+# Developer Score — documented criteria only.
+#
+# This score uses fields that are known from upstream or a later verified
+# override. Unknown fields contribute 0. It is not a ranking and is not a
+# quality or popularity claim.
+#
+# Health score is separate and is computed from link-check history.
+
+label: Developer Score (upstream-known fields)
+max: 11
+points:
+  https_yes: 1
+  cors_yes: 1
+  auth_no: 2
+  openapi: 1
+  postman: 1
+  official_sdk: 1
+  free_access_verified: 2

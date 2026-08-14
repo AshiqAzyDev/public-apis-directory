@@ -1,0 +1,15 @@
+[project]
+name = "api-directory"
+version = "0.1.0"
+description = "A generated, provenance-aware public API directory"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"

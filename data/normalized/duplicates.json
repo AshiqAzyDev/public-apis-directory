@@ -1,0 +1,246 @@
+{
+  "count": 24,
+  "policy": "Flag only. Do not merge or delete ambiguous entries.",
+  "items": [
+    {
+      "left_id": "bhagavad-gita-f0fc3dc8",
+      "right_id": "bhagavad-gita-7fecf555",
+      "left_name": "Bhagavad Gita",
+      "right_name": "Bhagavad Gita",
+      "left_url": "https://bhagavadgita.io/api",
+      "right_url": "https://docs.bhagavadgitaapi.in",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'bhagavadgita'"
+    },
+    {
+      "left_id": "bible-api-e7ae103d",
+      "right_id": "the-bible-1c17a2cf",
+      "left_name": "Bible-api",
+      "right_name": "The Bible",
+      "left_url": "https://bible-api.com",
+      "right_url": "https://docs.api.bible",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'bible'"
+    },
+    {
+      "left_id": "cat-facts-a2f0d507",
+      "right_id": "cat-facts-3382c701",
+      "left_name": "Cat Facts",
+      "right_name": "Cat Facts",
+      "left_url": "https://alexwohlbruck.github.io/cat-facts",
+      "right_url": "https://catfact.ninja",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'catfacts'"
+    },
+    {
+      "left_id": "covid-19-894fba1b",
+      "right_id": "covid-19-600b1893",
+      "left_name": "Covid-19",
+      "right_name": "Covid-19",
+      "left_url": "https://covid19api.com",
+      "right_url": "https://github.com/M-Media-Group/Covid-19-API",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'covid19'"
+    },
+    {
+      "left_id": "dog-facts-5ad9fe39",
+      "right_id": "dog-facts-5bd2e9ad",
+      "left_name": "Dog Facts",
+      "right_name": "Dog Facts",
+      "left_url": "https://dukengn.github.io/Dog-facts-API",
+      "right_url": "https://kinduff.github.io/dog-api",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'dogfacts'"
+    },
+    {
+      "left_id": "helium-a3ee5bd5",
+      "right_id": "helium-a81fbfeb",
+      "left_name": "Helium",
+      "right_name": "Helium",
+      "left_url": "https://docs.helium.com/api/blockchain/introduction",
+      "right_url": "https://heliumtrades.com/mcp-page",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'helium'"
+    },
+    {
+      "left_id": "ip-geolocation-2c9f5e50",
+      "right_id": "ipgeolocation-9e4f0525",
+      "left_name": "IP Geolocation",
+      "right_name": "ipgeolocation",
+      "left_url": "https://www.abstractapi.com/ip-geolocation-api",
+      "right_url": "https://ipgeolocation.io",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'ipgeolocation'"
+    },
+    {
+      "left_id": "jokeapi-ec5c96ee",
+      "right_id": "jokeapi-76ac33e4",
+      "left_name": "JokeAPI",
+      "right_name": "JokeAPI",
+      "left_url": "https://v2.jokeapi.dev",
+      "right_url": "https://sv443.net/jokeapi/v2",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'joke'"
+    },
+    {
+      "left_id": "news-42d3bdd1",
+      "right_id": "thenews-e2f92a3a",
+      "left_name": "News",
+      "right_name": "TheNews",
+      "left_url": "https://newsapi.org",
+      "right_url": "https://www.thenewsapi.com",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'news'"
+    },
+    {
+      "left_id": "non-working-days-85320417",
+      "right_id": "non-working-days-54e1781a",
+      "left_name": "Non-Working Days",
+      "right_name": "Non-Working Days",
+      "left_url": "https://github.com/gadael/icsdb",
+      "right_url": "https://isdayoff.ru",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'nonworkingdays'"
+    },
+    {
+      "left_id": "numbers-8d86a669",
+      "right_id": "numbers-3b1a08ea",
+      "left_name": "Numbers",
+      "right_name": "Numbers",
+      "left_url": "http://numbersapi.com",
+      "right_url": "https://math.tools/api/numbers",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'numbers'"
+    },
+    {
+      "left_id": "open-government-mexico-85c4e59b",
+      "right_id": "open-government-mexico-5ab8850d",
+      "left_name": "Open Government, Mexico",
+      "right_name": "Open Government, Mexico",
+      "left_url": "https://datos.gob.mx",
+      "right_url": "https://www.inegi.org.mx/datos",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'opengovernmentmexico'"
+    },
+    {
+      "left_id": "qr-code-81bfcbc8",
+      "right_id": "qr-code-4c6130b1",
+      "left_name": "QR code",
+      "right_name": "QR code",
+      "left_url": "http://goqr.me/api",
+      "right_url": "https://www.qrtag.net/api",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'qrcode'"
+    },
+    {
+      "left_id": "quran-c844cba4",
+      "right_id": "quran-api-77d7821e",
+      "left_name": "Quran",
+      "right_name": "Quran-api",
+      "left_url": "https://quran.api-docs.io",
+      "right_url": "https://github.com/fawazahmed0/quran-api",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'quran'"
+    },
+    {
+      "left_id": "swapi-b5cd2cf5",
+      "right_id": "swapi-b4ef54a7",
+      "left_name": "SWAPI",
+      "right_name": "SWAPI",
+      "left_url": "https://swapi.dev",
+      "right_url": "https://www.swapi.tech",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'sw'"
+    },
+    {
+      "left_id": "spacex-f36c1a98",
+      "right_id": "spacex-cde3ef9a",
+      "left_name": "SpaceX",
+      "right_name": "SpaceX",
+      "left_url": "https://api.spacex.land/graphql",
+      "right_url": "https://github.com/r-spacex/SpaceX-API",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'spacex'"
+    },
+    {
+      "left_id": "steam-81159cde",
+      "right_id": "steam-7e1725f9",
+      "left_name": "Steam",
+      "right_name": "Steam",
+      "left_url": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
+      "right_url": "https://steamapi.xpaw.me",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'steam'"
+    },
+    {
+      "left_id": "transport-for-switzerland-b724dd34",
+      "right_id": "transport-for-switzerland-7eb59c73",
+      "left_name": "Transport for Switzerland",
+      "right_name": "Transport for Switzerland",
+      "left_url": "https://opentransportdata.swiss/en",
+      "right_url": "https://transport.opendata.ch",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'transportforswitzerland'"
+    },
+    {
+      "left_id": "transport-for-the-netherlands-63f90bf9",
+      "right_id": "transport-for-the-netherlands-7a8d17f4",
+      "left_name": "Transport for The Netherlands",
+      "right_name": "Transport for The Netherlands",
+      "left_url": "http://www.ns.nl/reisinformatie/ns-api",
+      "right_url": "https://github.com/skywave/KV78Turbo-OVAPI/wiki",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'transportforthenetherlands'"
+    },
+    {
+      "left_id": "urlhaus-79c3668b",
+      "right_id": "urlhaus-b7d23f88",
+      "left_name": "URLhaus",
+      "right_name": "URLhaus",
+      "left_url": "https://urlhaus-api.abuse.ch",
+      "right_url": "https://urlhaus.abuse.ch/api",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'urlhaus'"
+    },
+    {
+      "left_id": "weather-api-3cb51740",
+      "right_id": "weatherapi-6f0f2728",
+      "left_name": "weather-api",
+      "right_name": "WeatherAPI",
+      "left_url": "https://github.com/robertoduessmann/weather-api",
+      "right_url": "https://www.weatherapi.com",
+      "reason": "normalized_provider_name",
+      "detail": "Normalized provider name 'weather'"
+    },
+    {
+      "left_id": "cloudmersive-validate-0c1e6a63",
+      "right_id": "cloudmersive-validate-e199a235",
+      "left_name": "Cloudmersive Validate",
+      "right_name": "Cloudmersive Validate",
+      "left_url": "https://cloudmersive.com/validate-api",
+      "right_url": "https://cloudmersive.com/phone-number-validation-API",
+      "reason": "same_name_and_domain",
+      "detail": "Same display name and registrable domain"
+    },
+    {
+      "left_id": "jsonplaceholder-85ecbaa4",
+      "right_id": "jsonplaceholder-464c3087",
+      "left_name": "JSONPlaceholder",
+      "right_name": "JSONPlaceholder",
+      "left_url": "https://jsonplaceholder.typicode.com",
+      "right_url": "http://jsonplaceholder.typicode.com",
+      "reason": "same_name_and_domain",
+      "detail": "Same display name and registrable domain"
+    },
+    {
+      "left_id": "mapbox-500e20f9",
+      "right_id": "mapbox-b63b1d17",
+      "left_name": "Mapbox",
+      "right_name": "Mapbox",
+      "left_url": "https://docs.mapbox.com",
+      "right_url": "https://docs.mapbox.com/api",
+      "reason": "same_name_and_domain",
+      "detail": "Same display name and registrable domain"
+    }
+  ]
+}

@@ -167,6 +167,10 @@ def api_table(apis: list[dict[str, Any]], include_category: bool = False) -> str
     return table(headers, rows)
 
 
+def top_categories(categories: list[dict[str, Any]], limit: int = 10) -> list[dict[str, Any]]:
+    return sorted(categories, key=lambda item: (-item["count"], item["name"].lower()))[:limit]
+
+
 def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], categories: list[dict[str, Any]]) -> str:
     use_cases = read_yaml(USE_CASES_YML) or {}
     sha = (read_json(UPSTREAM_JSON, default={}) or {}).get("commit_sha", "unknown")
@@ -187,6 +191,15 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
             item["browser_ready"],
         ]
         for item in categories
+    ]
+
+    top_category_rows = [
+        [
+            link(item["name"], f"generated/categories/{item['slug']}.md"),
+            item["count"],
+            item["browser_ready"],
+        ]
+        for item in top_categories(categories)
     ]
 
     stats_rows = [
@@ -218,15 +231,14 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         criteria = case.get("criteria_text", "")
         description = case.get("description", "")
         index = case.get("index")
-        more = f" See [the matching index](generated/indexes/{index})." if index else ""
         use_case_lines.append(f"### {title}")
         use_case_lines.append("")
         use_case_lines.append(description)
         use_case_lines.append("")
         use_case_lines.append(f"**Criteria:** `{criteria}`")
-        if more:
+        if index:
             use_case_lines.append("")
-            use_case_lines.append(more.strip())
+            use_case_lines.append(f"→ [Browse matching APIs](generated/indexes/{index})")
         use_case_lines.append("")
 
     lines = [
@@ -234,51 +246,145 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         "",
         "# Public APIs Master Index",
         "",
-        "A GitHub-native, developer-first directory of public APIs. The catalog is generated from the community tables in "
-        f"[public-apis/public-apis]({UPSTREAM_REPO_URL}), then normalized with explicit provenance.",
+        "Find, filter, and compare **public APIs** from a structured, machine-readable catalog — "
+        "built for developers who want more than a single giant Markdown table.",
         "",
         f"![API count]({badge_apis}) "
         f"![Category count]({badge_cats}) "
         f"![License: MIT]({badge_license}) "
         f"![Upstream source]({badge_upstream})",
         "",
-        f"**{stats['total_apis']:,} APIs** · **{stats['total_categories']} categories** · "
-        "Search, filter, and compare from structured data — then integrate from official docs.",
+        f"**{stats['total_apis']:,} APIs** across **{stats['total_categories']} categories**, "
+        "normalized from the community list at "
+        f"[public-apis/public-apis]({UPSTREAM_REPO_URL}) with explicit provenance and filter indexes.",
         "",
-        "## Overview",
+        "## Table of contents",
         "",
-        "This is not a handwritten 1,000-row table. Upstream entries are preserved; extra fields stay "
-        "`Unknown` until they can be verified from official provider documentation. Derived fields "
-        "(browser-ready, developer score) are labeled as derived.",
+        "- [Start here](#start-here)",
+        "- [At a glance](#at-a-glance)",
+        "- [Why this catalog](#why-this-catalog)",
+        "- [Browse the catalog](#browse-the-catalog)",
+        "- [Quick start (developers)](#quick-start-developers)",
+        "- [Data freshness](#data-freshness)",
+        "- [API statistics](#api-statistics)",
+        "- [Category explorer](#category-explorer)",
+        "- [Authentication explorer](#authentication-explorer)",
+        "- [Discovery by use case](#discovery-by-use-case)",
+        "- [Developer score & health](#developer-score)",
+        "- [Contributing & automation](#contributing--automation)",
+        "- [Data sources & license](#data-sources)",
+        "",
+        "## Start here",
+        "",
+        "| Goal | Where to go |",
+        "| --- | --- |",
+        f"| Browse by topic | [Category pages](generated/README.md) ({stats['total_categories']} categories) |",
+        f"| Call from the browser | [{stats['browser_ready']} browser-ready APIs](generated/indexes/browser-ready.md) (HTTPS + CORS) |",
+        f"| Skip authentication setup | [{stats['no_auth']} no-auth APIs](generated/indexes/no-auth.md) |",
+        "| Build a hackathon MVP | [Prototyping index](generated/indexes/prototyping.md) (no auth + HTTPS) |",
+        "| Search or integrate programmatically | [`data/normalized/apis.json`](data/normalized/apis.json) · [search.json](generated/indexes/search.json) |",
+        "| See every API in one file | [generated/APIs.md](generated/APIs.md) |",
+        "",
+        "## At a glance",
+        "",
+        table(
+            ["Metric", "Count"],
+            [
+                ["Total APIs", f"{stats['total_apis']:,}"],
+                ["Categories", stats["total_categories"]],
+                ["No authentication", stats["no_auth"]],
+                ["Browser-ready (HTTPS + CORS)", stats["browser_ready"]],
+                ["HTTPS", stats["https_yes"]],
+                ["CORS enabled", stats["cors_yes"]],
+            ],
+        ),
+        "",
+        "## Why this catalog",
+        "",
+        "The upstream [public-apis](https://github.com/public-apis/public-apis) project is the starting point. "
+        "This repository turns that list into a **developer resource** you can actually work with:",
+        "",
+        "- **Structured JSON** — one record per API with stable IDs, slugs, and normalized fields.",
+        "- **Filter indexes** — curated views for no-auth, browser-ready, prototyping, AI, SaaS, and more.",
+        "- **Category pages** — per-topic breakdowns with auth, HTTPS, and CORS counts.",
+        "- **Honest metadata** — enrichment fields stay `Unknown` until verified from official docs.",
+        "- **Derived labels** — browser-ready and developer scores are computed transparently, not guessed.",
+        "- **Health tracking** — documentation links are checked on a schedule; broken links are flagged, not hidden.",
         "",
         "Accuracy is preferred over completeness. Completeness is preferred over decoration.",
         "",
-        "## Quick start",
+        "## Browse the catalog",
+        "",
+        "### Popular categories",
+        "",
+        "Largest categories by API count. See [all categories](#category-explorer) below.",
+        "",
+        table(["Category", "APIs", "Browser ready"], top_category_rows),
+        "",
+        "### Filter indexes",
+        "",
+        "| Filter | APIs |",
+        "| --- | ---: |",
+        f"| [No authentication](generated/indexes/no-auth.md) | {stats['no_auth']} |",
+        f"| [API key](generated/indexes/api-key.md) | {stats['api_key']} |",
+        f"| [OAuth](generated/indexes/oauth.md) | {stats['oauth']} |",
+        f"| [Browser-ready](generated/indexes/browser-ready.md) | {stats['browser_ready']} |",
+        f"| [HTTPS](generated/indexes/https.md) | {stats['https_yes']} |",
+        f"| [CORS enabled](generated/indexes/cors.md) | {stats['cors_yes']} |",
+        f"| [Prototyping & students](generated/indexes/prototyping.md) | — |",
+        f"| [AI & ML](generated/indexes/ai.md) | — |",
+        f"| [SaaS development](generated/indexes/saas.md) | — |",
+        "",
+        "Free-tier, REST, GraphQL, OpenAPI, and Postman indexes list only **verified** entries "
+        f"({stats['free']} free, {stats['rest']} REST, {stats['graphql']} GraphQL today).",
+        "",
+        "## Quick start (developers)",
+        "",
+        "Clone, install, rebuild the catalog, and run tests:",
         "",
         "```bash",
+        "git clone https://github.com/AshiqAzyDev/public-apis-directory.git",
+        "cd public-apis-directory",
         "pip install -r requirements.txt",
         "python scripts/build.py",
         "pytest",
         "```",
         "",
-        "- Browse by [category](#category-explorer).",
-        "- Filter by [authentication](generated/indexes/no-auth.md), [CORS](generated/indexes/cors.md), or [browser-ready](generated/indexes/browser-ready.md).",
-        "- Use the machine-readable dataset at [`data/normalized/apis.json`](data/normalized/apis.json).",
-        "- See the compact full list in [`generated/APIs.md`](generated/APIs.md).",
+        "Rebuild steps individually:",
+        "",
+        "```bash",
+        "python scripts/fetch_upstream.py",
+        "python scripts/normalize.py",
+        "python scripts/validate.py",
+        "python scripts/generate.py",
+        "python scripts/build.py",
+        "```",
+        "",
+        "Key paths:",
+        "",
+        "| Path | Contents |",
+        "| --- | --- |",
+        "| [`data/normalized/apis.json`](data/normalized/apis.json) | Full normalized catalog |",
+        "| [`generated/`](generated/) | Markdown indexes and category pages |",
+        "| [`config/`](config/) | Scoring rules, category blurbs, use-case criteria |",
+        "| [`src/api_directory/`](src/api_directory/) | Pipeline source code |",
         "",
         "## Data freshness",
         "",
         freshness(stats),
         "",
-        f"Upstream SHA `{short_sha}` is recorded at generation time so the catalog stays auditable.",
+        f"Upstream commit `{short_sha}` is pinned at generation time so every export stays auditable.",
         "",
         "## API statistics",
         "",
-        "Counts below are computed from the normalized dataset. Verified enrichment fields are `Unknown` in v1 unless a later override exists.",
+        "Full counts from the normalized dataset. Verified enrichment fields remain `Unknown` in v1 "
+        "unless recorded in [`data/metadata/overrides.json`](data/metadata/overrides.json).",
         "",
         table(["Metric", "Count"], stats_rows),
         "",
         "## Category explorer",
+        "",
+        "All categories with per-category counts for authentication, transport, and browser compatibility.",
         "",
         table(
             ["Category", "APIs", "No auth", "HTTPS", "CORS", "Browser ready"],
@@ -290,39 +396,24 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
         table(
             ["Authentication", "APIs", "Index"],
             [
-                ["No", stats["no_auth"], link("View", "generated/indexes/no-auth.md")],
-                ["apiKey", stats["api_key"], link("View", "generated/indexes/api-key.md")],
-                ["OAuth", stats["oauth"], link("View", "generated/indexes/oauth.md")],
-                ["X-Mashape-Key", stats["mashape"], link("View", "generated/indexes/mashape.md")],
-                ["User-Agent", stats["user_agent"], link("View", "generated/indexes/user-agent.md")],
+                ["No", stats["no_auth"], link("Browse", "generated/indexes/no-auth.md")],
+                ["apiKey", stats["api_key"], link("Browse", "generated/indexes/api-key.md")],
+                ["OAuth", stats["oauth"], link("Browse", "generated/indexes/oauth.md")],
+                ["X-Mashape-Key", stats["mashape"], link("Browse", "generated/indexes/mashape.md")],
+                ["User-Agent", stats["user_agent"], link("Browse", "generated/indexes/user-agent.md")],
             ],
         ),
         "",
-        "## Browser-ready APIs",
-        "",
-        f"{stats['browser_ready']} APIs have upstream **HTTPS = Yes** and **CORS = Yes**. "
-        "HTTPS alone is not treated as browser compatibility. "
-        f"See [{stats['browser_ready']} browser-ready APIs](generated/indexes/browser-ready.md).",
-        "",
-        "## No-auth APIs",
-        "",
-        f"{stats['no_auth']} APIs have upstream **Auth = No**. This is not a claim that registration is never required. "
-        f"See [APIs with no authentication](generated/indexes/no-auth.md).",
-        "",
-        "## Free APIs",
-        "",
-        "Free or free-tier status is **not** inferred from presence in the catalog. "
-        f"Verified free: {stats['free']}. Verified free tier: {stats['free_tier']}. "
-        "Until official pricing is recorded as an override, the value is Unknown.",
+        "> **Note:** Auth = `No` means the upstream catalog lists no authentication. Registration or API keys may still be required in practice.",
         "",
         "## Discovery by use case",
         "",
-        "These sections are filters with documented criteria. They are not rankings and are not sponsored.",
+        "Curated filters with documented criteria — not rankings, not sponsored placements.",
         "",
         *use_case_lines,
         "## Developer score",
         "",
-        "Optional and transparent. Unknown fields contribute 0. This is not a popularity ranking.",
+        "A transparent, optional signal. Unknown fields contribute 0. This is **not** a popularity ranking.",
         "",
         table(
             ["Signal", "Points"],
@@ -338,12 +429,10 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
             ],
         ),
         "",
-        "API Health is a separate score based on link checks (reachable docs, HTTPS URL, documentation available, not dead).",
-        "",
-        "## API health",
+        "**API health** is scored separately from link checks (reachable docs, HTTPS URL, documentation available, not dead).",
         "",
         table(
-            ["Metric", "Count"],
+            ["Health metric", "Count"],
             [
                 ["Broken links (last check)", stats["broken_links"]],
                 ["Dead (3 consecutive failures)", stats["dead"]],
@@ -351,27 +440,19 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
             ],
         ),
         "",
-        f"Details: [health index](generated/indexes/health.md) · [duplicates](generated/indexes/duplicates.md).",
+        f"[Health index](generated/indexes/health.md) · [Duplicates](generated/indexes/duplicates.md)",
         "",
-        "A single failed check never removes an API.",
+        "A single failed check never removes an API from the catalog.",
         "",
-        "## Contribution guide",
+        "## Contributing & automation",
         "",
-        "See [CONTRIBUTING.md](CONTRIBUTING.md). Prefer adding new APIs upstream, then let the weekly job refresh this catalog.",
+        "See [CONTRIBUTING.md](CONTRIBUTING.md). **Add or fix APIs upstream first**, then let the weekly job refresh this catalog.",
         "",
-        "## Automation",
-        "",
-        "- Pull requests run schema, duplicate, Markdown, and count validation.",
-        "- A daily job checks documentation URL reachability.",
-        "- A weekly job fetches upstream, regenerates the catalog, and opens an update PR when data changes.",
-        "",
-        "```bash",
-        "python scripts/fetch_upstream.py",
-        "python scripts/normalize.py",
-        "python scripts/validate.py",
-        "python scripts/generate.py",
-        "python scripts/build.py",
-        "```",
+        "| Workflow | Schedule |",
+        "| --- | --- |",
+        "| Pull request validation | Schema, duplicates, Markdown, and count checks |",
+        "| Link health check | Daily documentation URL reachability |",
+        "| Upstream sync | Weekly fetch, regenerate, and open update PR |",
         "",
         "## Data sources",
         "",
@@ -379,16 +460,17 @@ def render_root_readme(apis: list[dict[str, Any]], stats: dict[str, Any], catego
             ["Source", "Role"],
             [
                 [link("public-apis/public-apis", UPSTREAM_REPO_URL), "Community catalog (name, docs URL, description, Auth, HTTPS, CORS, category)"],
-                ["Official provider documentation", "Only accepted source for later enrichment"],
-                ["Derived rules in this repo", "Browser-ready, scores, registration hint from Auth"],
+                ["Official provider documentation", "Only accepted source for verified enrichment"],
+                ["Derived rules in this repo", "Browser-ready, scores, registration hints from Auth"],
             ],
         ),
         "",
-        "Priority for any future enrichment: official docs, official website, official GitHub, official terms, official OpenAPI. Third-party articles and search snippets are not authoritative.",
+        "Enrichment priority: official docs → official website → official GitHub → official terms → official OpenAPI. "
+        "Third-party articles and search snippets are not authoritative.",
         "",
         "## License",
         "",
-        "MIT. Catalog text is derived from the MIT-licensed public-apis project. See [LICENSE](LICENSE).",
+        "MIT. Catalog text is derived from the MIT-licensed [public-apis](https://github.com/public-apis/public-apis) project. See [LICENSE](LICENSE).",
         "",
     ]
     return "\n".join(lines)

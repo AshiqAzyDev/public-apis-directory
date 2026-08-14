@@ -26,10 +26,12 @@ def test_generated_readme_is_stable_and_valid_markdown(sample_markdown):
     assert markdown.startswith(BANNER)
     assert markdown.count("\n# ") == 1
     assert "## Category explorer" in markdown
+    assert "## Start here" in markdown
+    assert "## Table of contents" in markdown
     assert "Open-Meteo" not in markdown.split("## Category explorer")[0]
     assert str(len(apis)) in markdown
     assert banner() == BANNER
-    assert markdown.count("| Category | APIs |") == 1
+    assert markdown.count("| Category | APIs |") >= 1
 
 
 def test_stats_use_generated_counts(sample_markdown):

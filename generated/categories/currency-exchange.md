@@ -4,21 +4,21 @@
 
 APIs related to foreign-exchange rates and currency conversion.
 
-**20 APIs** in this category.
+**21 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 11 |
-| Authentication | apiKey | 9 |
+| Authentication | apiKey | 10 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 19 |
+| HTTPS | Yes | 20 |
 | HTTPS | No | 1 |
-| CORS | Yes | 9 |
+| CORS | Yes | 10 |
 | CORS | No | 1 |
 | CORS | Unknown | 10 |
-| Browser ready | Yes | 9 |
+| Browser ready | Yes | 10 |
 
 ## Quick filters
 
@@ -35,6 +35,7 @@ APIs related to foreign-exchange rates and currency conversion.
 | [Amdoren](https://www.amdoren.com/currency-api) | Free currency API with over 150 currencies | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Bank of Russia](https://www.cbr.ru/development/SXML) | Exchange rates and currency conversion | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Currency-api](https://github.com/fawazahmed0/currency-api) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | `No` | Yes | Yes | Yes | 4/11 |
+| [CurrencyBeacon](https://currencybeacon.com) | Real-time and historical currency exchange rates with free tier | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [CurrencyFreaks](https://currencyfreaks.com) | Provides current and historical currency exchange rates with free plan 1K requests/month | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Currencylayer](https://currencylayer.com) | Exchange rates and currency conversion | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | Real-time and historical currency rates JSON API | `apiKey` | Yes | Yes | Yes | 2/11 |

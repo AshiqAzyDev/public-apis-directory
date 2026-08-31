@@ -4,20 +4,20 @@
 
 APIs related to video platforms, movies, and TV metadata.
 
-**45 APIs** in this category.
+**48 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 28 |
-| Authentication | apiKey | 14 |
+| Authentication | apiKey | 17 |
 | Authentication | OAuth | 3 |
-| HTTPS | Yes | 41 |
+| HTTPS | Yes | 44 |
 | HTTPS | No | 4 |
 | CORS | Yes | 14 |
-| CORS | No | 4 |
-| CORS | Unknown | 27 |
+| CORS | No | 6 |
+| CORS | Unknown | 28 |
 | Browser ready | Yes | 14 |
 
 ## Quick filters
@@ -47,6 +47,7 @@ APIs related to video platforms, movies, and TV metadata.
 | [IMDb-API](https://imdb-api.com) | API for receiving movie, serial and cast information | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Unofficial IMDb Movie / Series Information | `No` | Yes | Yes | Yes | 4/11 |
 | [JSON2Video](https://json2video.com) | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes | No | No | 1/11 |
+| [KinoPipe](https://kinopipe.com/docs) | Typed hosted video editing operations for agents and automation | `apiKey` | Yes | No | No | 1/11 |
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes) | Returns Lucifer quotes | `No` | Yes | Unknown | Unknown | 3/11 |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | A Countdown to the next MCU Film | `No` | Yes | Yes | Yes | 4/11 |
 | [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com) | Random Motivational Quotes | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -55,6 +56,7 @@ APIs related to video platforms, movies, and TV metadata.
 | [Owen Wilson Wow](https://owen-wilson-wow-api.herokuapp.com) | API for actor Owen Wilson's "wow" exclamations in movies | `No` | Yes | Yes | Yes | 4/11 |
 | [Rendobar](https://rendobar.com) | Hosted media processing over REST: transcode, caption, watermark video | `apiKey` | Yes | No | No | 1/11 |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes) | Television | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Shotstack](https://shotstack.io) | Cloud video editing API to create and render videos programmatically | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [STAPI](http://stapi.co) | Information on all things Star Trek | `No` | No | No | No | 2/11 |
 | [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes) | Returns Stranger Things quotes | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -72,6 +74,7 @@ APIs related to video platforms, movies, and TV metadata.
 | [TVDB](https://thetvdb.com/api-information) | Television data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [TVMaze](http://www.tvmaze.com/api) | TV Show Data | `No` | No | Unknown | No | 2/11 |
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [VidWords](https://vidwords.com/api-docs) | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis | `apiKey` | Yes | No | No | 1/11 |
 | [Vimeo](https://developer.vimeo.com) | Vimeo Developer API | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Watchmode](https://api.watchmode.com) | API for finding out the streaming availability of movies & shows | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | `No` | Yes | Yes | Yes | 4/11 |

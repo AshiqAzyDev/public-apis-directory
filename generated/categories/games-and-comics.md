@@ -4,21 +4,21 @@
 
 APIs related to games, comics, and related media metadata.
 
-**98 APIs** in this category.
+**102 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 64 |
+| Authentication | No | 68 |
 | Authentication | apiKey | 26 |
 | Authentication | OAuth | 6 |
-| HTTPS | Yes | 93 |
+| HTTPS | Yes | 97 |
 | HTTPS | No | 5 |
-| CORS | Yes | 34 |
+| CORS | Yes | 38 |
 | CORS | No | 12 |
 | CORS | Unknown | 52 |
-| Browser ready | Yes | 34 |
+| Browser ready | Yes | 38 |
 
 ## Quick filters
 
@@ -55,6 +55,7 @@ APIs related to games, comics, and related media metadata.
 | [Digimon TCG](https://documenter.getpostman.com/view/14059948/TzecB4fH) | Search for Digimon cards in digimoncard.io | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Disney](https://disneyapi.dev) | Information of Disney characters | `No` | Yes | Yes | Yes | 4/11 |
 | [Dota 2](https://docs.opendota.com) | Provides information about Player stats , Match stats, Rankings for Dota 2 | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [DotaSense Timings](https://dotasense.com/cheat-sheet) | Reviewed Dota 2 objective timings in JSON and CSV | `No` | Yes | Yes | Yes | 4/11 |
 | [Dungeons and Dragons](https://www.dnd5eapi.co/docs) | Reference for 5th edition spells, classes, monsters, and more | `No` | No | No | No | 2/11 |
 | [Dungeons and Dragons (Alternate)](https://open5e.com) | Includes all monsters and spells from the SRD (System Reference Document) as well as a search API | `No` | Yes | Yes | Yes | 4/11 |
 | [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -102,12 +103,14 @@ APIs related to games, comics, and related media metadata.
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | `No` | Yes | Unknown | Unknown | 3/11 |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | `No` | Yes | Yes | Yes | 4/11 |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | `No` | Yes | Unknown | Unknown | 3/11 |
+| [PokéSprite](https://msikma.github.io/pokesprite) | Database of Pokémon sprites and icons | `No` | Yes | Yes | Yes | 4/11 |
 | [Psychonauts](https://psychonauts-api.netlify.app) | Psychonauts World Characters Information and PSI Powers | `No` | Yes | Yes | Yes | 4/11 |
 | [PUBG](https://developer.pubg.com) | Access in-game PUBG data | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Puyo Nexus](https://github.com/deltadex7/puyodb-api-deno) | Puyo Puyo information from Puyo Nexus Wiki | `No` | Yes | Yes | Yes | 4/11 |
 | [quizapi.io](https://quizapi.io) | Access to various kind of quiz questions | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Raider](https://raider.io/api) | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | `No` | Yes | Unknown | Unknown | 3/11 |
 | [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Rblxdb](https://rblxdb.com/developers) | Verified Roblox music codes and decal IDs with live working status | `No` | Yes | Yes | Yes | 4/11 |
 | [Rick and Morty](https://rickandmortyapi.com) | All the Rick and Morty information, including images | `No` | Yes | Yes | Yes | 4/11 |
 | [Riot Games](https://developer.riotgames.com) | League of Legends Game Information | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [RPS 101](https://rps101.pythonanywhere.com/api) | Rock, Paper, Scissors with 101 objects | `No` | Yes | Yes | Yes | 4/11 |
@@ -117,6 +120,7 @@ APIs related to games, comics, and related media metadata.
 | [SpaceTradersAPI](https://spacetraders.io?rel=pub-apis) | A playable inter-galactic space trading MMOAPI | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Internal Steam Web API documentation | `No` | Yes | No | No | 3/11 |
 | [Steam](https://steamapi.xpaw.me) | Steam Web API documentation | `apiKey` | Yes | No | No | 1/11 |
+| [SteamGPT](https://steamgpt.net) | Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends | `No` | Yes | Yes | Yes | 4/11 |
 | [SuperHeroes](https://superheroapi.com) | All SuperHeroes and Villains data from all universes under a single API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [TCGdex](https://www.tcgdex.net/docs) | Multi languages Pokémon TCG Information | `No` | Yes | Yes | Yes | 4/11 |
 | [Tebex](https://docs.tebex.io/plugin) | Tebex API for information about game purchases | `X-Mashape-Key` | Yes | No | No | 1/11 |

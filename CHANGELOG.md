@@ -4,6 +4,63 @@
 
 Catalog changes tracked in this repository.
 
+## 2026-08-31
+
+Catalog build: `9dfcbca`
+
+### Added
+- 5DollarFootball (Sports & Fitness)
+- Aquanode (Development)
+- Attestwire (Data Validation)
+- BTCGlobe (Cryptocurrency)
+- Bored (Development)
+- CSR.plus (Security)
+- CurrencyBeacon (Currency Exchange)
+- CuttingToolsAI (Open Data)
+- DistrictAPI (Government)
+- DotaSense Timings (Games & Comics)
+- EOD Historical Data (Finance)
+- Football Charts (Sports & Fitness)
+- Get Started with Web3 (Blockchain)
+- Google Gemini (Machine Learning)
+- Iconify (Art & Design)
+- Katalis UK Company Enrichment (Business)
+- KinoPipe (Video)
+- LiquiLens (Finance)
+- Micro-SaaS AI Suite (Development)
+- Open-Meteo Ensemble (Weather)
+- Orca Scan (Development)
+- PIT Financial State (Finance)
+- Pexafy (Photography)
+- PokéSprite (Games & Comics)
+- PublicDataHub (Open Data)
+- Rblxdb (Games & Comics)
+- SMTPfast (Email)
+- Scrax (Development)
+- Shotstack (Video)
+- SocialCrawl (Social)
+- Sparepilot (Shopping)
+- SteamGPT (Games & Comics)
+- Temsor (Data Validation)
+- TickerLayer (Finance)
+- TradeDataHub (Business)
+- Vett (Government)
+- VidWords (Video)
+- Wander Atlas (Transportation)
+- WattFigure (Environment)
+- World Time & Weather (Weather)
+- flaky (Test Data)
+- ipwhois (Geocoding)
+- kanari (Environment)
+- uchecker (Email)
+
+### Removed
+- Bored (Development)
+
+# Changelog
+
+Catalog changes tracked in this repository.
+
 ## 2026-08-14
 
 Initial catalog: 1669 APIs (build `4f6e03b`).

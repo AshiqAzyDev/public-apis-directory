@@ -4,21 +4,21 @@
 
 APIs related to security research, scanning, and defensive tooling.
 
-**45 APIs** in this category.
+**46 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 17 |
+| Authentication | No | 18 |
 | Authentication | apiKey | 27 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 45 |
+| HTTPS | Yes | 46 |
 | HTTPS | No | 0 |
-| CORS | Yes | 12 |
+| CORS | Yes | 13 |
 | CORS | No | 4 |
 | CORS | Unknown | 29 |
-| Browser ready | Yes | 12 |
+| Browser ready | Yes | 13 |
 
 ## Quick filters
 
@@ -40,6 +40,7 @@ APIs related to security research, scanning, and defensive tooling.
 | [Classify](https://classify-web.herokuapp.com) | Encrypting & decrypting text messages | `No` | Yes | Yes | Yes | 4/11 |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Pureto Rico | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [CRXcavator](https://crxcavator.io/apidocs) | Chrome extension risk scoring | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [CSR.plus](https://csr.plus/docs/api) | Generate certificate signing requests and private keys without OpenSSL | `No` | Yes | Yes | Yes | 4/11 |
 | [dead-drop](https://api.dead-drop.xyz/api/v1/docs) | Ephemeral zero-knowledge encrypted data sharing | `No` | Yes | Yes | Yes | 4/11 |
 | [Dehash.lt](https://github.com/Dehash-lt/api) | Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512 | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) | DNS, WHOIS/RDAP, SSL, subdomain enumeration, and email security in one parallel call | `apiKey` | Yes | No | No | 1/11 |

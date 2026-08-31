@@ -1460,6 +1460,26 @@
     ]
   },
   {
+    "id": "iconify-00dbd012",
+    "name": "Iconify",
+    "slug": "iconify-00dbd012",
+    "category": "Art & Design",
+    "tags": [
+      "art-and-design"
+    ],
+    "description": "Search and fetch SVG icons from 200+ open source icon sets",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://iconify.design/docs/api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "icons8-d962110b",
     "name": "Icons8",
     "slug": "icons8-d962110b",
@@ -1955,6 +1975,26 @@
     "documentation_url": "https://etherscan.io/apis",
     "features": [
       "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
+    "id": "get-started-with-web3-e2cf5ab1",
+    "name": "Get Started with Web3",
+    "slug": "get-started-with-web3-e2cf5ab1",
+    "category": "Blockchain",
+    "tags": [
+      "blockchain"
+    ],
+    "description": "Bilingual Web3 lessons, glossary search and role-based learning paths",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md",
+    "features": [
+      "No",
       "Yes",
       "Yes"
     ]
@@ -2800,6 +2840,26 @@
     ]
   },
   {
+    "id": "katalis-uk-company-enrichment-e3373ed8",
+    "name": "Katalis UK Company Enrichment",
+    "slug": "katalis-uk-company-enrichment-e3373ed8",
+    "category": "Business",
+    "tags": [
+      "business"
+    ],
+    "description": "Verified UK company profiles with an AI summary and accuracy score, from Companies House data",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://meetkatalis.com/apis",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
     "id": "legal-sandbox-georgia-8c63fae5",
     "name": "Legal Sandbox Georgia",
     "slug": "legal-sandbox-georgia-8c63fae5",
@@ -3155,6 +3215,26 @@
     "documentation_url": "https://tomba.io/api",
     "features": [
       "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
+    "id": "tradedatahub-75da7c1b",
+    "name": "TradeDataHub",
+    "slug": "tradedatahub-75da7c1b",
+    "category": "Business",
+    "tags": [
+      "business"
+    ],
+    "description": "U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://www.tradedatahub.net",
+    "features": [
+      "No",
       "Yes",
       "Yes"
     ]
@@ -4420,6 +4500,26 @@
     ]
   },
   {
+    "id": "btcglobe-74405166",
+    "name": "BTCGlobe",
+    "slug": "btcglobe-74405166",
+    "category": "Cryptocurrency",
+    "tags": [
+      "cryptocurrency"
+    ],
+    "description": "Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://btcglobe.live/join",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "btcnode-uk-4dcbcfe8",
     "name": "btcnode.uk",
     "slug": "btcnode-uk-4dcbcfe8",
@@ -5660,6 +5760,26 @@
     ]
   },
   {
+    "id": "currencybeacon-0019a6db",
+    "name": "CurrencyBeacon",
+    "slug": "currencybeacon-0019a6db",
+    "category": "Currency Exchange",
+    "tags": [
+      "currency-exchange"
+    ],
+    "description": "Real-time and historical currency exchange rates with free tier",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://currencybeacon.com",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "currencyfreaks-92d73c6c",
     "name": "CurrencyFreaks",
     "slug": "currencyfreaks-92d73c6c",
@@ -5980,6 +6100,26 @@
     ]
   },
   {
+    "id": "attestwire-45c4bc6c",
+    "name": "Attestwire",
+    "slug": "attestwire-45c4bc6c",
+    "category": "Data Validation",
+    "tags": [
+      "data-validation"
+    ],
+    "description": "Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://api.attestwire.com/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "lob-com-869a9b14",
     "name": "Lob.com",
     "slug": "lob-com-869a9b14",
@@ -6057,6 +6197,26 @@
       "apiKey",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "temsor-3f04b83d",
+    "name": "Temsor",
+    "slug": "temsor-3f04b83d",
+    "category": "Data Validation",
+    "tags": [
+      "data-validation"
+    ],
+    "description": "Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://api.temsor.com/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -6300,6 +6460,26 @@
     ]
   },
   {
+    "id": "aquanode-98bb830f",
+    "name": "Aquanode",
+    "slug": "aquanode-98bb830f",
+    "category": "Development",
+    "tags": [
+      "development"
+    ],
+    "description": "Live GPU rental prices and availability across nine cloud providers",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "No",
+    "browser_ready": "No",
+    "documentation_url": "https://docs.aquanode.io/docs/api/marketplace",
+    "features": [
+      "No",
+      "Yes",
+      "No"
+    ]
+  },
+  {
     "id": "azure-devops-f6812b14",
     "name": "Azure DevOps",
     "slug": "azure-devops-f6812b14",
@@ -6440,9 +6620,9 @@
     ]
   },
   {
-    "id": "bored-c3808b66",
+    "id": "bored-691cdba1",
     "name": "Bored",
-    "slug": "bored-c3808b66",
+    "slug": "bored-691cdba1",
     "category": "Development",
     "tags": [
       "development"
@@ -6452,7 +6632,7 @@
     "https": "Yes",
     "cors": "Unknown",
     "browser_ready": "Unknown",
-    "documentation_url": "https://www.boredapi.com",
+    "documentation_url": "https://bored-api.appbrewery.com",
     "features": [
       "No",
       "Yes",
@@ -7800,6 +7980,26 @@
     ]
   },
   {
+    "id": "micro-saas-ai-suite-b61b657c",
+    "name": "Micro-SaaS AI Suite",
+    "slug": "micro-saas-ai-suite-b61b657c",
+    "category": "Development",
+    "tags": [
+      "development"
+    ],
+    "description": "8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://microsaas-agent-api.vercel.app/openapi.json",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
     "id": "microenv-7e72e1d9",
     "name": "MicroENV",
     "slug": "microenv-7e72e1d9",
@@ -8055,6 +8255,26 @@
     "documentation_url": "https://openqr.uk/api",
     "features": [
       "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
+    "id": "orca-scan-296fb385",
+    "name": "Orca Scan",
+    "slug": "orca-scan-296fb385",
+    "category": "Development",
+    "tags": [
+      "development"
+    ],
+    "description": "Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6",
+    "features": [
+      "No",
       "Yes",
       "Yes"
     ]
@@ -8573,6 +8793,26 @@
     "cors": "Unknown",
     "browser_ready": "Unknown",
     "documentation_url": "https://www.scrapingdog.com",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
+    "id": "scrax-f009fd08",
+    "name": "Scrax",
+    "slug": "scrax-f009fd08",
+    "category": "Development",
+    "tags": [
+      "development"
+    ],
+    "description": "Web scraping API that only bills for successful scrapes",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://rapidapi.com/mtaahoperators/api/scrax",
     "features": [
       "apiKey",
       "Yes",
@@ -10520,6 +10760,46 @@
     ]
   },
   {
+    "id": "smtpfast-ff8f3d0e",
+    "name": "SMTPfast",
+    "slug": "smtpfast-ff8f3d0e",
+    "category": "Email",
+    "tags": [
+      "email"
+    ],
+    "description": "Send transactional email, manage contacts and broadcasts, free 3,000 emails/month",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://smtpfa.st/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
+    "id": "uchecker-8761e1b5",
+    "name": "uchecker",
+    "slug": "uchecker-8761e1b5",
+    "category": "Email",
+    "tags": [
+      "email"
+    ],
+    "description": "Bulk email verification with full SMTP server responses",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://api.uchecker.net/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
     "id": "verifier-e9a811c5",
     "name": "Verifier",
     "slug": "verifier-e9a811c5",
@@ -11041,6 +11321,26 @@
     ]
   },
   {
+    "id": "kanari-965322c1",
+    "name": "kanari",
+    "slug": "kanari-965322c1",
+    "category": "Environment",
+    "tags": [
+      "environment"
+    ],
+    "description": "Real-time worldwide wildfire detections, water bomber tracking and open fire archive",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://kanari.io/en/api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "luchtmeetnet-317a93d0",
     "name": "Luchtmeetnet",
     "slug": "luchtmeetnet-317a93d0",
@@ -11238,6 +11538,26 @@
       "No",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "wattfigure-45d8d127",
+    "name": "WattFigure",
+    "slug": "wattfigure-45d8d127",
+    "category": "Environment",
+    "tags": [
+      "environment"
+    ],
+    "description": "US electricity rates by state, with appliance and EV charging running costs",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://api.wattfigure.com",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -11621,6 +11941,26 @@
     ]
   },
   {
+    "id": "eod-historical-data-298ca378",
+    "name": "EOD Historical Data",
+    "slug": "eod-historical-data-298ca378",
+    "category": "Finance",
+    "tags": [
+      "finance"
+    ],
+    "description": "Real-time and historical stock market data with 150+ exchanges",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://eodhd.com",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "fed-treasury-1ffec42d",
     "name": "Fed Treasury",
     "slug": "fed-treasury-1ffec42d",
@@ -11961,6 +12301,26 @@
     ]
   },
   {
+    "id": "liquilens-59f837e1",
+    "name": "LiquiLens",
+    "slug": "liquilens-59f837e1",
+    "category": "Finance",
+    "tags": [
+      "finance"
+    ],
+    "description": "Public-record bank and lender failure-risk evidence",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://liquilens.in/developers",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "marketstack-c1552a49",
     "name": "Marketstack",
     "slug": "marketstack-c1552a49",
@@ -12098,6 +12458,26 @@
       "apiKey",
       "Yes",
       "Yes"
+    ]
+  },
+  {
+    "id": "pit-financial-state-573bb943",
+    "name": "PIT Financial State",
+    "slug": "pit-financial-state-573bb943",
+    "category": "Finance",
+    "tags": [
+      "finance"
+    ],
+    "description": "Point-in-time quarterly revenue for 20 U.S. issuers",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://agent-economy-pit-evaluation.onrender.com/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
     ]
   },
   {
@@ -12334,6 +12714,26 @@
     "cors": "Unknown",
     "browser_ready": "Unknown",
     "documentation_url": "https://apilayer.com/marketplace/tax_data-api",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
+    "id": "tickerlayer-7175198b",
+    "name": "TickerLayer",
+    "slug": "tickerlayer-7175198b",
+    "category": "Finance",
+    "tags": [
+      "finance"
+    ],
+    "description": "Real-time and historical market data for stocks, forex, crypto and more",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://tickerlayer.com",
     "features": [
       "apiKey",
       "Yes",
@@ -13521,6 +13921,26 @@
     ]
   },
   {
+    "id": "dotasense-timings-2f5df919",
+    "name": "DotaSense Timings",
+    "slug": "dotasense-timings-2f5df919",
+    "category": "Games & Comics",
+    "tags": [
+      "games-and-comics"
+    ],
+    "description": "Reviewed Dota 2 objective timings in JSON and CSV",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://dotasense.com/cheat-sheet",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "dungeons-and-dragons-db2a1592",
     "name": "Dungeons and Dragons",
     "slug": "dungeons-and-dragons-db2a1592",
@@ -14461,6 +14881,26 @@
     ]
   },
   {
+    "id": "pok-sprite-91c73d17",
+    "name": "PokéSprite",
+    "slug": "pok-sprite-91c73d17",
+    "category": "Games & Comics",
+    "tags": [
+      "games-and-comics"
+    ],
+    "description": "Database of Pokémon sprites and icons",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://msikma.github.io/pokesprite",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "psychonauts-a5d18424",
     "name": "Psychonauts",
     "slug": "psychonauts-a5d18424",
@@ -14578,6 +15018,26 @@
       "apiKey",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "rblxdb-b7cc79d9",
+    "name": "Rblxdb",
+    "slug": "rblxdb-b7cc79d9",
+    "category": "Games & Comics",
+    "tags": [
+      "games-and-comics"
+    ],
+    "description": "Verified Roblox music codes and decal IDs with live working status",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://rblxdb.com/developers",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -14758,6 +15218,26 @@
       "apiKey",
       "Yes",
       "No"
+    ]
+  },
+  {
+    "id": "steamgpt-61291f5d",
+    "name": "SteamGPT",
+    "slug": "steamgpt-61291f5d",
+    "category": "Games & Comics",
+    "tags": [
+      "games-and-comics"
+    ],
+    "description": "Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://steamgpt.net",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -16081,6 +16561,26 @@
     ]
   },
   {
+    "id": "ipwhois-e0fd317b",
+    "name": "ipwhois",
+    "slug": "ipwhois-e0fd317b",
+    "category": "Geocoding",
+    "tags": [
+      "geocoding"
+    ],
+    "description": "IP geolocation with country, city, coordinates, ISP, timezone and flag data",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://ipwhois.io/documentation",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "kakao-maps-1b87e352",
     "name": "Kakao Maps",
     "slug": "kakao-maps-1b87e352",
@@ -17398,6 +17898,26 @@
       "No",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "districtapi-ab90f72f",
+    "name": "DistrictAPI",
+    "slug": "districtapi-ab90f72f",
+    "category": "Government",
+    "tags": [
+      "government"
+    ],
+    "description": "US school districts and schools by address, with enrollment and boundaries",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://districtapi.dev/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -18881,6 +19401,26 @@
     ]
   },
   {
+    "id": "vett-265181b1",
+    "name": "Vett",
+    "slug": "vett-265181b1",
+    "category": "Government",
+    "tags": [
+      "government"
+    ],
+    "description": "Screen names & companies against OFAC, PEP, watchlists & recalls",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://wimberly.solutions/api/free-sanctions-check",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "clinical-trials-directory-75824421",
     "name": "Clinical Trials Directory",
     "slug": "clinical-trials-directory-75824421",
@@ -20294,6 +20834,26 @@
     "cors": "Unknown",
     "browser_ready": "Unknown",
     "documentation_url": "https://goldbean-api.xyz/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
+    "id": "google-gemini-8bb659f4",
+    "name": "Google Gemini",
+    "slug": "google-gemini-8bb659f4",
+    "category": "Machine Learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "description": "Multimodal generative AI for text, vision, and code generation",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://ai.google.dev/gemini-api/docs",
     "features": [
       "apiKey",
       "Yes",
@@ -22081,6 +22641,26 @@
     ]
   },
   {
+    "id": "cuttingtoolsai-58cb4a62",
+    "name": "CuttingToolsAI",
+    "slug": "cuttingtoolsai-58cb4a62",
+    "category": "Open Data",
+    "tags": [
+      "open-data"
+    ],
+    "description": "Cross-brand carbide insert grade equivalents by ISO application class",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://cuttingtoolsai.eu/api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "enigma-public-e203bbb6",
     "name": "Enigma Public",
     "slug": "enigma-public-e203bbb6",
@@ -22578,6 +23158,26 @@
       "apiKey",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "publicdatahub-43769501",
+    "name": "PublicDataHub",
+    "slug": "publicdatahub-43769501",
+    "category": "Open Data",
+    "tags": [
+      "open-data"
+    ],
+    "description": "US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://publicdatahub.org/api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -24141,6 +24741,26 @@
     ]
   },
   {
+    "id": "pexafy-07e6346f",
+    "name": "Pexafy",
+    "slug": "pexafy-07e6346f",
+    "category": "Photography",
+    "tags": [
+      "photography"
+    ],
+    "description": "Semantic image search across 9+ free stock photo sources with a unified JSON schema",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://docs.pexafy.com",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "pexels-3b22ed5c",
     "name": "Pexels",
     "slug": "pexels-3b22ed5c",
@@ -25481,6 +26101,26 @@
     ]
   },
   {
+    "id": "csr-plus-7cb1196a",
+    "name": "CSR.plus",
+    "slug": "csr-plus-7cb1196a",
+    "category": "Security",
+    "tags": [
+      "security"
+    ],
+    "description": "Generate certificate signing requests and private keys without OpenSSL",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://csr.plus/docs/api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "dead-drop-16f0ffdf",
     "name": "dead-drop",
     "slug": "dead-drop-16f0ffdf",
@@ -26501,6 +27141,26 @@
     ]
   },
   {
+    "id": "sparepilot-97e22226",
+    "name": "Sparepilot",
+    "slug": "sparepilot-97e22226",
+    "category": "Shopping",
+    "tags": [
+      "shopping"
+    ],
+    "description": "Spare parts catalog, OEM cross-references & price comparison for garden power equipment",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://sparepilot.com/developers",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
     "id": "tokopedia-917db37a",
     "name": "Tokopedia",
     "slug": "tokopedia-917db37a",
@@ -27241,6 +27901,26 @@
     ]
   },
   {
+    "id": "socialcrawl-62eb51df",
+    "name": "SocialCrawl",
+    "slug": "socialcrawl-62eb51df",
+    "category": "Social",
+    "tags": [
+      "social"
+    ],
+    "description": "Social and commerce data from 50+ platforms in one JSON schema",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://www.socialcrawl.dev/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "socialswarm-353b79b2",
     "name": "SocialSwarm",
     "slug": "socialswarm-353b79b2",
@@ -27541,6 +28221,26 @@
     ]
   },
   {
+    "id": "5dollarfootball-03857637",
+    "name": "5DollarFootball",
+    "slug": "5dollarfootball-03857637",
+    "category": "Sports & Fitness",
+    "tags": [
+      "sports-and-fitness"
+    ],
+    "description": "Football fixtures, results, standings and historical odds with corner and card lines",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://5dollarfootballapi.com",
+    "features": [
+      "apiKey",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "api-football-aa7841ec",
     "name": "API-FOOTBALL",
     "slug": "api-football-aa7841ec",
@@ -27796,6 +28496,26 @@
     "documentation_url": "https://www.scorebat.com/video-api",
     "features": [
       "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
+    "id": "football-charts-c3bdf151",
+    "name": "Football Charts",
+    "slug": "football-charts-c3bdf151",
+    "category": "Sports & Fitness",
+    "tags": [
+      "sports-and-fitness"
+    ],
+    "description": "Tables, results, model probabilities and Monte Carlo season projections for 93 leagues",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://www.football-charts.com/developers",
+    "features": [
+      "apiKey",
       "Yes",
       "Yes"
     ]
@@ -28598,6 +29318,26 @@
       "No",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "flaky-33a4fa40",
+    "name": "flaky",
+    "slug": "flaky-33a4fa40",
+    "category": "Test Data",
+    "tags": [
+      "test-data"
+    ],
+    "description": "Fake REST API with chaos controls: force any status code, add latency, or a failure rate",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://flakyapi.dev",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
     ]
   },
   {
@@ -31161,6 +31901,26 @@
     ]
   },
   {
+    "id": "wander-atlas-9f7f8632",
+    "name": "Wander Atlas",
+    "slug": "wander-atlas-9f7f8632",
+    "category": "Transportation",
+    "tags": [
+      "transportation"
+    ],
+    "description": "Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://wanderatlasguides.com/api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "1pt-8391b793",
     "name": "1pt",
     "slug": "1pt-8391b793",
@@ -32081,6 +32841,26 @@
     ]
   },
   {
+    "id": "kinopipe-e844980d",
+    "name": "KinoPipe",
+    "slug": "kinopipe-e844980d",
+    "category": "Video",
+    "tags": [
+      "video"
+    ],
+    "description": "Typed hosted video editing operations for agents and automation",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "No",
+    "browser_ready": "No",
+    "documentation_url": "https://kinopipe.com/docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "No"
+    ]
+  },
+  {
     "id": "lucifer-quotes-50ce0d4a",
     "name": "Lucifer Quotes",
     "slug": "lucifer-quotes-50ce0d4a",
@@ -32236,6 +33016,26 @@
     "documentation_url": "https://github.com/jamesseanwright/ron-swanson-quotes",
     "features": [
       "No",
+      "Yes",
+      "Unknown"
+    ]
+  },
+  {
+    "id": "shotstack-1c160af0",
+    "name": "Shotstack",
+    "slug": "shotstack-1c160af0",
+    "category": "Video",
+    "tags": [
+      "video"
+    ],
+    "description": "Cloud video editing API to create and render videos programmatically",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "Unknown",
+    "browser_ready": "Unknown",
+    "documentation_url": "https://shotstack.io",
+    "features": [
+      "apiKey",
       "Yes",
       "Unknown"
     ]
@@ -32578,6 +33378,26 @@
       "apiKey",
       "Yes",
       "Yes"
+    ]
+  },
+  {
+    "id": "vidwords-c4081033",
+    "name": "VidWords",
+    "slug": "vidwords-c4081033",
+    "category": "Video",
+    "tags": [
+      "video"
+    ],
+    "description": "YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis",
+    "authentication": "apiKey",
+    "https": "Yes",
+    "cors": "No",
+    "browser_ready": "No",
+    "documentation_url": "https://vidwords.com/api-docs",
+    "features": [
+      "apiKey",
+      "Yes",
+      "No"
     ]
   },
   {
@@ -33041,6 +33861,26 @@
     ]
   },
   {
+    "id": "open-meteo-ensemble-2af0ce7a",
+    "name": "Open-Meteo Ensemble",
+    "slug": "open-meteo-ensemble-2af0ce7a",
+    "category": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "description": "Weather ensemble forecasts from multiple models",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://open-meteo.com/en/docs/ensemble-api",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
     "id": "opensensemap-51076ada",
     "name": "openSenseMap",
     "slug": "opensensemap-51076ada",
@@ -33338,6 +34178,26 @@
       "apiKey",
       "Yes",
       "Unknown"
+    ]
+  },
+  {
+    "id": "world-time-and-weather-8fa7f917",
+    "name": "World Time & Weather",
+    "slug": "world-time-and-weather-8fa7f917",
+    "category": "Weather",
+    "tags": [
+      "weather"
+    ],
+    "description": "Current weather, local time, UTC offset and DST rules for 400 cities as static JSON",
+    "authentication": "No",
+    "https": "Yes",
+    "cors": "Yes",
+    "browser_ready": "Yes",
+    "documentation_url": "https://worldtimeweather.com/api.html",
+    "features": [
+      "No",
+      "Yes",
+      "Yes"
     ]
   },
   {

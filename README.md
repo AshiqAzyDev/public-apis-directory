@@ -4,9 +4,9 @@
 
 A curated, structured directory of **public APIs** — searchable, filterable, and ready to integrate from JSON or Markdown.
 
-![API count](https://img.shields.io/badge/APIs-1669-blue) ![Category count](https://img.shields.io/badge/categories-51-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![JSON dataset](https://img.shields.io/badge/format-JSON-orange)
+![API count](https://img.shields.io/badge/APIs-1712-blue) ![Category count](https://img.shields.io/badge/categories-51-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![JSON dataset](https://img.shields.io/badge/format-JSON-orange)
 
-**1,669 APIs** across **51 categories**, with filter indexes, category pages, health checks, and a normalized JSON export.
+**1,712 APIs** across **51 categories**, with filter indexes, category pages, health checks, and a normalized JSON export.
 
 ## Table of contents
 
@@ -29,8 +29,8 @@ A curated, structured directory of **public APIs** — searchable, filterable, a
 | Goal | Where to go |
 | --- | --- |
 | Browse by topic | [Category pages](generated/README.md) (51 categories) |
-| Call from the browser | [542 browser-ready APIs](generated/indexes/browser-ready.md) (HTTPS + CORS) |
-| Skip authentication setup | [783 no-auth APIs](generated/indexes/no-auth.md) |
+| Call from the browser | [573 browser-ready APIs](generated/indexes/browser-ready.md) (HTTPS + CORS) |
+| Skip authentication setup | [805 no-auth APIs](generated/indexes/no-auth.md) |
 | Build a hackathon MVP | [Prototyping index](generated/indexes/prototyping.md) (no auth + HTTPS) |
 | Search or integrate programmatically | [`data/normalized/apis.json`](data/normalized/apis.json) · [search.json](generated/indexes/search.json) |
 | See every API in one file | [generated/APIs.md](generated/APIs.md) |
@@ -39,12 +39,12 @@ A curated, structured directory of **public APIs** — searchable, filterable, a
 
 | Metric | Count |
 | --- | --- |
-| Total APIs | 1,669 |
+| Total APIs | 1,712 |
 | Categories | 51 |
-| No authentication | 783 |
-| Browser-ready (HTTPS + CORS) | 542 |
-| HTTPS | 1577 |
-| CORS enabled | 545 |
+| No authentication | 805 |
+| Browser-ready (HTTPS + CORS) | 573 |
+| HTTPS | 1620 |
+| CORS enabled | 576 |
 
 ## What you get
 
@@ -67,27 +67,27 @@ Largest categories by API count. See [all categories](#category-explorer) below.
 
 | Category | APIs | Browser ready |
 | --- | --- | --- |
-| [Development](generated/categories/development.md) | 147 | 73 |
-| [Government](generated/categories/government.md) | 101 | 16 |
-| [Games & Comics](generated/categories/games-and-comics.md) | 98 | 34 |
-| [Geocoding](generated/categories/geocoding.md) | 93 | 32 |
-| [Cryptocurrency](generated/categories/cryptocurrency.md) | 77 | 18 |
-| [Transportation](generated/categories/transportation.md) | 77 | 12 |
-| [Finance](generated/categories/finance.md) | 60 | 25 |
-| [Open Data](generated/categories/open-data.md) | 51 | 18 |
-| [Social](generated/categories/social.md) | 50 | 7 |
-| [Security](generated/categories/security.md) | 45 | 12 |
+| [Development](generated/categories/development.md) | 151 | 74 |
+| [Government](generated/categories/government.md) | 103 | 18 |
+| [Games & Comics](generated/categories/games-and-comics.md) | 102 | 38 |
+| [Geocoding](generated/categories/geocoding.md) | 94 | 33 |
+| [Cryptocurrency](generated/categories/cryptocurrency.md) | 78 | 19 |
+| [Transportation](generated/categories/transportation.md) | 78 | 13 |
+| [Finance](generated/categories/finance.md) | 64 | 27 |
+| [Open Data](generated/categories/open-data.md) | 53 | 20 |
+| [Social](generated/categories/social.md) | 51 | 8 |
+| [Video](generated/categories/video.md) | 48 | 14 |
 
 ### Filter indexes
 
 | Filter | APIs |
 | --- | ---: |
-| [No authentication](generated/indexes/no-auth.md) | 783 |
-| [API key](generated/indexes/api-key.md) | 729 |
+| [No authentication](generated/indexes/no-auth.md) | 805 |
+| [API key](generated/indexes/api-key.md) | 750 |
 | [OAuth](generated/indexes/oauth.md) | 150 |
-| [Browser-ready](generated/indexes/browser-ready.md) | 542 |
-| [HTTPS](generated/indexes/https.md) | 1577 |
-| [CORS enabled](generated/indexes/cors.md) | 545 |
+| [Browser-ready](generated/indexes/browser-ready.md) | 573 |
+| [HTTPS](generated/indexes/https.md) | 1620 |
+| [CORS enabled](generated/indexes/cors.md) | 576 |
 | [Prototyping & students](generated/indexes/prototyping.md) | — |
 | [AI & ML](generated/indexes/ai.md) | — |
 | [SaaS development](generated/indexes/saas.md) | — |
@@ -121,12 +121,12 @@ Key paths:
 
 | Field | Value |
 | --- | --- |
-| Generated | 2026-08-14 |
-| Catalog build | `4f6e03b` |
+| Generated | 2026-08-31 |
+| Catalog build | `9dfcbca` |
 | Last link check | Not run |
-| Last enrichment | 2026-08-14 |
+| Last enrichment | 2026-08-31 |
 
-Catalog build `4f6e03b` is recorded at generation time so every export stays auditable.
+Catalog build `9dfcbca` is recorded at generation time so every export stays auditable.
 
 ## API statistics
 
@@ -134,14 +134,14 @@ Full counts from the normalized dataset. Verified enrichment fields remain `Unkn
 
 | Metric | Count |
 | --- | --- |
-| Total APIs | 1669 |
+| Total APIs | 1712 |
 | Total categories | 51 |
-| No-auth APIs | 783 |
-| API-key APIs | 729 |
+| No-auth APIs | 805 |
+| API-key APIs | 750 |
 | OAuth APIs | 150 |
-| HTTPS APIs | 1577 |
-| CORS-enabled APIs | 545 |
-| Browser-ready APIs | 542 |
+| HTTPS APIs | 1620 |
+| CORS-enabled APIs | 576 |
+| Browser-ready APIs | 573 |
 | Free APIs (verified) | 0 |
 | Free-tier APIs (verified) | 0 |
 | REST APIs (verified) | 0 |
@@ -149,7 +149,7 @@ Full counts from the normalized dataset. Verified enrichment fields remain `Unkn
 | OpenAPI APIs (verified) | 0 |
 | Postman APIs (verified) | 0 |
 | Verified APIs | 0 |
-| Pending full verification | 1621 |
+| Pending full verification | 1664 |
 | Unknown enrichment fields | Most enrichment fields are Unknown until verified |
 | Broken links (last check) | 0 |
 | Possible duplicate pairs | 24 |
@@ -163,61 +163,61 @@ All categories with per-category counts for authentication, transport, and brows
 | [Animals](generated/categories/animals.md) | 26 | 20 | 25 | 14 | 14 |
 | [Anime](generated/categories/anime.md) | 19 | 10 | 18 | 11 | 11 |
 | [Anti-Malware](generated/categories/anti-malware.md) | 16 | 2 | 16 | 3 | 3 |
-| [Art & Design](generated/categories/art-and-design.md) | 23 | 11 | 19 | 8 | 8 |
+| [Art & Design](generated/categories/art-and-design.md) | 24 | 12 | 20 | 9 | 9 |
 | [Authentication & Authorization](generated/categories/authentication-and-authorization.md) | 7 | 0 | 7 | 4 | 4 |
-| [Blockchain](generated/categories/blockchain.md) | 14 | 7 | 13 | 4 | 4 |
+| [Blockchain](generated/categories/blockchain.md) | 15 | 8 | 14 | 5 | 5 |
 | [Books](generated/categories/books.md) | 25 | 18 | 24 | 16 | 16 |
-| [Business](generated/categories/business.md) | 30 | 9 | 28 | 7 | 7 |
+| [Business](generated/categories/business.md) | 32 | 10 | 30 | 8 | 8 |
 | [Calendar](generated/categories/calendar.md) | 18 | 12 | 14 | 6 | 6 |
 | [Cloud Storage & File Sharing](generated/categories/cloud-storage-and-file-sharing.md) | 18 | 4 | 18 | 3 | 3 |
 | [Continuous Integration](generated/categories/continuous-integration.md) | 6 | 0 | 5 | 0 | 0 |
-| [Cryptocurrency](generated/categories/cryptocurrency.md) | 77 | 30 | 76 | 19 | 18 |
-| [Currency Exchange](generated/categories/currency-exchange.md) | 20 | 11 | 19 | 9 | 9 |
-| [Data Validation](generated/categories/data-validation.md) | 8 | 2 | 7 | 3 | 3 |
-| [Development](generated/categories/development.md) | 147 | 67 | 145 | 73 | 73 |
+| [Cryptocurrency](generated/categories/cryptocurrency.md) | 78 | 31 | 77 | 20 | 19 |
+| [Currency Exchange](generated/categories/currency-exchange.md) | 21 | 11 | 20 | 10 | 10 |
+| [Data Validation](generated/categories/data-validation.md) | 10 | 2 | 9 | 5 | 5 |
+| [Development](generated/categories/development.md) | 151 | 69 | 149 | 74 | 74 |
 | [Dictionaries](generated/categories/dictionaries.md) | 13 | 5 | 12 | 3 | 3 |
 | [Documents & Productivity](generated/categories/documents-and-productivity.md) | 38 | 3 | 38 | 8 | 8 |
-| [Email](generated/categories/email.md) | 22 | 9 | 22 | 11 | 11 |
+| [Email](generated/categories/email.md) | 24 | 9 | 24 | 12 | 12 |
 | [Entertainment](generated/categories/entertainment.md) | 17 | 15 | 17 | 7 | 7 |
-| [Environment](generated/categories/environment.md) | 19 | 9 | 17 | 4 | 3 |
+| [Environment](generated/categories/environment.md) | 21 | 11 | 19 | 6 | 5 |
 | [Events](generated/categories/events.md) | 3 | 0 | 3 | 0 | 0 |
-| [Finance](generated/categories/finance.md) | 60 | 12 | 59 | 25 | 25 |
+| [Finance](generated/categories/finance.md) | 64 | 13 | 63 | 27 | 27 |
 | [Food & Drink](generated/categories/food-and-drink.md) | 26 | 11 | 24 | 7 | 7 |
-| [Games & Comics](generated/categories/games-and-comics.md) | 98 | 64 | 93 | 34 | 34 |
-| [Geocoding](generated/categories/geocoding.md) | 93 | 46 | 86 | 32 | 32 |
-| [Government](generated/categories/government.md) | 101 | 76 | 92 | 16 | 16 |
+| [Games & Comics](generated/categories/games-and-comics.md) | 102 | 68 | 97 | 38 | 38 |
+| [Geocoding](generated/categories/geocoding.md) | 94 | 47 | 87 | 33 | 33 |
+| [Government](generated/categories/government.md) | 103 | 77 | 94 | 18 | 18 |
 | [Health](generated/categories/health.md) | 37 | 27 | 36 | 14 | 14 |
 | [Jobs](generated/categories/jobs.md) | 23 | 8 | 20 | 8 | 8 |
-| [Machine Learning](generated/categories/machine-learning.md) | 34 | 8 | 34 | 20 | 20 |
+| [Machine Learning](generated/categories/machine-learning.md) | 35 | 8 | 35 | 20 | 20 |
 | [Music](generated/categories/music.md) | 35 | 11 | 35 | 5 | 5 |
 | [News](generated/categories/news.md) | 23 | 7 | 22 | 8 | 8 |
-| [Open Data](generated/categories/open-data.md) | 51 | 30 | 48 | 18 | 18 |
+| [Open Data](generated/categories/open-data.md) | 53 | 32 | 50 | 20 | 20 |
 | [Open Source Projects](generated/categories/open-source-projects.md) | 9 | 8 | 8 | 5 | 5 |
 | [Patent](generated/categories/patent.md) | 4 | 2 | 4 | 0 | 0 |
 | [Personality](generated/categories/personality.md) | 25 | 20 | 23 | 7 | 7 |
 | [Phone](generated/categories/phone.md) | 7 | 1 | 7 | 4 | 4 |
-| [Photography](generated/categories/photography.md) | 30 | 6 | 29 | 6 | 6 |
+| [Photography](generated/categories/photography.md) | 31 | 6 | 30 | 7 | 7 |
 | [Programming](generated/categories/programming.md) | 5 | 1 | 5 | 1 | 1 |
 | [Science & Math](generated/categories/science-and-math.md) | 39 | 33 | 36 | 10 | 10 |
-| [Security](generated/categories/security.md) | 45 | 17 | 45 | 12 | 12 |
-| [Shopping](generated/categories/shopping.md) | 17 | 1 | 17 | 4 | 4 |
-| [Social](generated/categories/social.md) | 50 | 9 | 50 | 7 | 7 |
-| [Sports & Fitness](generated/categories/sports-and-fitness.md) | 45 | 21 | 43 | 18 | 18 |
-| [Test Data](generated/categories/test-data.md) | 29 | 24 | 25 | 8 | 7 |
+| [Security](generated/categories/security.md) | 46 | 18 | 46 | 13 | 13 |
+| [Shopping](generated/categories/shopping.md) | 18 | 1 | 18 | 4 | 4 |
+| [Social](generated/categories/social.md) | 51 | 9 | 51 | 8 | 8 |
+| [Sports & Fitness](generated/categories/sports-and-fitness.md) | 47 | 21 | 45 | 20 | 20 |
+| [Test Data](generated/categories/test-data.md) | 30 | 25 | 26 | 9 | 8 |
 | [Text Analysis](generated/categories/text-analysis.md) | 19 | 1 | 19 | 8 | 8 |
 | [Tracking](generated/categories/tracking.md) | 11 | 3 | 9 | 4 | 4 |
-| [Transportation](generated/categories/transportation.md) | 77 | 36 | 62 | 12 | 12 |
+| [Transportation](generated/categories/transportation.md) | 78 | 37 | 63 | 13 | 13 |
 | [URL Shorteners](generated/categories/url-shorteners.md) | 20 | 10 | 20 | 8 | 8 |
 | [Vehicle](generated/categories/vehicle.md) | 10 | 4 | 10 | 4 | 4 |
-| [Video](generated/categories/video.md) | 45 | 28 | 41 | 14 | 14 |
-| [Weather](generated/categories/weather.md) | 36 | 14 | 33 | 13 | 13 |
+| [Video](generated/categories/video.md) | 48 | 28 | 44 | 14 | 14 |
+| [Weather](generated/categories/weather.md) | 38 | 16 | 35 | 15 | 15 |
 
 ## Authentication explorer
 
 | Authentication | APIs | Index |
 | --- | --- | --- |
-| No | 783 | [Browse](generated/indexes/no-auth.md) |
-| apiKey | 729 | [Browse](generated/indexes/api-key.md) |
+| No | 805 | [Browse](generated/indexes/no-auth.md) |
+| apiKey | 750 | [Browse](generated/indexes/api-key.md) |
 | OAuth | 150 | [Browse](generated/indexes/oauth.md) |
 | X-Mashape-Key | 6 | [Browse](generated/indexes/mashape.md) |
 | User-Agent | 1 | [Browse](generated/indexes/user-agent.md) |

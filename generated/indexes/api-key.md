@@ -6,11 +6,12 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 
 **Criteria:** `Auth = apiKey`
 
-**729 APIs** match this filter. This is not a ranking.
+**750 APIs** match this filter. This is not a ranking.
 
 | API | Description | Category | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Forex currency market data | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [5DollarFootball](https://5dollarfootballapi.com) | Football fixtures, results, standings and historical odds with corner and card lines | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [A Bíblia Digital](https://www.abibliadigital.com.br/en) | Do not worry about managing the multiple versions of the Bible | [Books](../categories/books.md) | `apiKey` | Yes | No | No | 1/11 |
 | [AbuseIPDB](https://docs.abuseipdb.com) | IP/domain/URL reputation | [Anti-Malware](../categories/anti-malware.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [AccuWeather](https://developer.accuweather.com/apis) | Weather and forecast data | [Weather](../categories/weather.md) | `apiKey` | No | Unknown | No | 0/11 |
@@ -53,6 +54,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Associated Press](https://developer.ap.org) | Search for news and metadata from Associated Press | [News](../categories/news.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [AstroWay](https://api.astroway.info/docs) | Astrology, natal charts, Human Design, Vedic and horoscopes on the Swiss Ephemeris | [Personality](../categories/personality.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic) | Email for AI agents: programmatic inbox creation and send/receive over JMAP | [Email](../categories/email.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Attestwire](https://api.attestwire.com/docs) | Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS | [Data Validation](../categories/data-validation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Audexum](https://audexum.com/docs) | Text-to-speech REST API with 43 voices and 33 languages | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Auth0](https://auth0.com) | Easy to implement, adaptable authentication and authorization platform | [Authentication & Authorization](../categories/authentication-and-authorization.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Aylien Text Analysis](https://docs.aylien.com/textapi) | A collection of information retrieval and natural language APIs | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -170,6 +172,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [CryptoMarket](https://api.exchange.cryptomkt.com) | Cryptocurrencies Trading platform | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [CTS](https://api.cts-strasbourg.eu) | CTS Realtime API | [Transportation](../categories/transportation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Cure Cancer With AI](https://www.curecancerwithai.com/developers) | Oncology research, clinical trials, FDA approvals, news, and MAMMAL predictions | [Health](../categories/health.md) | `apiKey` | Yes | No | No | 1/11 |
+| [CurrencyBeacon](https://currencybeacon.com) | Real-time and historical currency exchange rates with free tier | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [CurrencyFreaks](https://currencyfreaks.com) | Provides current and historical currency exchange rates with free plan 1K requests/month | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Currencylayer](https://currencylayer.com) | Exchange rates and currency conversion | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | Real-time and historical currency rates JSON API | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -191,6 +194,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Dialogflow](https://cloud.google.com/dialogflow/docs) | Natural Language Processing | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Dino.markets](https://dino.markets/docs) | Matched Kalshi and Polymarket prediction-market data, cross-venue spreads | [Finance](../categories/finance.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Disclosed Capitol](https://www.disclosedcapitol.com/data-files/api) | US congressional & executive-branch stock trade disclosures (STOCK Act + OGE) | [Government](../categories/government.md) | `apiKey` | Yes | No | No | 1/11 |
+| [DistrictAPI](https://districtapi.dev/docs) | US school districts and schools by address, with enrollment and boundaries | [Government](../categories/government.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest) | Interact with Docker Hub | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) | DNS, WHOIS/RDAP, SSL, subdomain enumeration, and email security in one parallel call | [Security](../categories/security.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Dota 2](https://docs.opendota.com) | Provides information about Player stats , Match stats, Rankings for Dota 2 | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -209,6 +213,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EmailJS](https://www.emailjs.com/docs) | Send emails directly from client-side JavaScript without a backend server | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [EOD Historical Data](https://eodhd.com) | Real-time and historical stock market data with 150+ exchanges | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ERstat](https://erstat.ca/developers) | Live Canadian emergency room closures and service disruptions, by province | [Health](../categories/health.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Etherscan](https://etherscan.io/apis) | Ethereum explorer API | [Blockchain](../categories/blockchain.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) | Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -234,6 +239,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [FOFA](https://en.fofa.info/api) | Search engine for Internet connected assets and devices | [Security](../categories/security.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Food Info](https://food-info.org/developer) | Nutrition data for millions of foods from six national food composition datasets | [Food & Drink](../categories/food-and-drink.md) | `apiKey` | Yes | No | No | 1/11 |
 | [FoodData Central](https://fdc.nal.usda.gov) | National Nutrient Database for Standard Reference | [Health](../categories/health.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Football Charts](https://www.football-charts.com/developers) | Tables, results, model probabilities and Monte Carlo season projections for 93 leagues | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order) | Screen order information using AI to detect frauds | [Security](../categories/security.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred) | Economic data from the Federal Reserve Bank of St. Louis | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -264,6 +270,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Google Earth Engine](https://developers.google.com/earth-engine) | A cloud-based platform for planetary-scale environmental data analysis | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Firebase](https://firebase.google.com/docs) | Google's mobile application development platform that helps build, improve, and grow app | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Google Fonts](https://developers.google.com/fonts/docs/developer_api) | Metadata for all families served by Google Fonts | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Google Gemini](https://ai.google.dev/gemini-api/docs) | Multimodal generative AI for text, vision, and code generation | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Maps](https://developers.google.com/maps) | Create/customize digital maps based on Google Maps data | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Safe Browsing](https://developers.google.com/safe-browsing) | Google Link/Domain Flagging | [Anti-Malware](../categories/anti-malware.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [GraphHopper](https://docs.graphhopper.com) | A-to-B routing with turn-by-turn instructions | [Transportation](../categories/transportation.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -355,9 +362,11 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [K-Data Gate](https://kdata-gate.vercel.app/docs) | Korean market data: K-beauty/K-food products, Naver trends, stocks, real estate, weather | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Kakao Maps](https://apis.map.kakao.com) | Kakao Maps provide multiple APIs for Korean maps | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | Verified UK company profiles with an AI summary and accuracy score, from Companies House data | [Business](../categories/business.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Keen IO](https://keen.io) | Data Analytics | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Kelley Blue Book](http://developer.kbb.com) | Vehicle info, pricing, configuration, plus much more | [Vehicle](../categories/vehicle.md) | `apiKey` | Yes | No | No | 1/11 |
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo) | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [KinoPipe](https://kinopipe.com/docs) | Typed hosted video editing operations for agents and automation | [Video](../categories/video.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Kiprio Email Validate](https://kiprio.com/v1/email-validate) | Free email validation: MX check, disposable detection, syntax | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Kiprio Translate](https://kiprio.com/v1/translate) | Free text translation with language detection, supports 50+ languages | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Kiprio UK Postcode](https://kiprio.com/v1/postcode) | UK postcode lookup with lat/lon, district, ward, constituency | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -418,6 +427,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Micro DB](https://m3o.com/db) | Simple database service | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Micro User Service](https://m3o.com/user) | User management and authentication | [Authentication & Authorization](../categories/authentication-and-authorization.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Micro Weather](https://m3o.com/weather/api) | Real time weather forecasts and historic data | [Weather](../categories/weather.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json) | 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Mintlify](https://docs.mintlify.com) | For programmatically generating documentation for code | [Programming](../categories/programming.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Mockaroo](https://www.mockaroo.com/docs) | Generate fake data to JSON, CSV, TXT, SQL and XML | [Test Data](../categories/test-data.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [mod.io](https://docs.mod.io) | Cross Platform Mod API | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -491,12 +501,14 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | News articles and public datasets | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Petfinder](https://www.petfinder.com/developers) | Petfinder is dedicated to helping pets find homes, another resource to get pets adopted | [Animals](../categories/animals.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Pexafy](https://docs.pexafy.com) | Semantic image search across 9+ free stock photo sources with a unified JSON schema | [Photography](../categories/photography.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Pexels](https://www.pexels.com/api) | Free Stock Photos and Videos | [Photography](../categories/photography.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Phisherman](https://phisherman.gg) | IP/domain/URL reputation | [Anti-Malware](../categories/anti-malware.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Phishin](https://phish.in/api-docs) | A web-based archive of legal live audio recordings of the improvisational rock band Phish | [Music](../categories/music.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers globally | [Phone](../categories/phone.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [PhotoRoom](https://www.photoroom.com/api) | Remove background from images | [Photography](../categories/photography.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Pinata](https://docs.pinata.cloud) | IPFS Pinning Services API | [Cloud Storage & File Sharing](../categories/cloud-storage-and-file-sharing.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | Point-in-time quarterly revenue for 20 U.S. issuers | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Pixabay](https://pixabay.com/sk/service/about/api) | Photography | [Photography](../categories/photography.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Plaid](https://www.plaid.com/docs) | Connect with user's bank accounts and access transaction data | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PlayerElo](https://playerelo.football/api-access) | Player-level Elo ratings, predictions and history for 176 football leagues | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -566,6 +578,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [scrapestack](https://scrapestack.com) | Real-time, Scalable Proxy & Web Scraping REST API | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingDog](https://www.scrapingdog.com) | Proxy API for Web scraping | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Scrax](https://rapidapi.com/mtaahoperators/api/scrax) | Web scraping API that only bills for successful scrapes | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ScreenshotAPI.net](https://screenshotapi.net) | Create pixel-perfect website screenshots | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ScriptMasterLabs MCP](https://mcp-x402.onrender.com) | Model Context Protocol server with web search, social search & LLM chat paid via x402 | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -579,6 +592,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Sheetsu](https://sheetsu.com) | Easy google sheets integration | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Shodan](https://developer.shodan.io) | Search engine for Internet connected devices | [Security](../categories/security.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | [Shopping](../categories/shopping.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Shotstack](https://shotstack.io) | Cloud video editing API to create and render videos programmatically | [Video](../categories/video.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Shrtlnk](https://shrtlnk.dev/developer) | Simple and efficient short link creation | [URL Shorteners](../categories/url-shorteners.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Signaliz](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) | GTM enrichment, lead generation, email verification, and company signals | [Business](../categories/business.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | [Video](../categories/video.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -587,9 +601,12 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [SkyBiometry](https://skybiometry.com/documentation) | Face Detection, Face Recognition and Face Grouping | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Smart Image Enhancement](https://apilayer.com/marketplace/image_enhancement-api) | Performs image upscaling by adding detail to images through multiple super-resolution algorithms | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [SmartAPI](https://smartapi.angelbroking.com) | Gain access to set of <SmartAPI> and create end-to-end broking services | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [SMTPfast](https://smtpfa.st/docs) | Send transactional email, manage contacts and broadcasts, free 3,000 emails/month | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [SocialCrawl](https://www.socialcrawl.dev/docs) | Social and commerce data from 50+ platforms in one JSON schema | [Social](../categories/social.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site) | Turn articles into ready-to-post X thread drafts with different hooks | [Social](../categories/social.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Songkick](https://www.songkick.com/developer) | Music Events | [Music](../categories/music.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Songlink / Odesli](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741) | Get all the services on which a song is available | [Music](../categories/music.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Sparepilot](https://sparepilot.com/developers) | Spare parts catalog, OEM cross-references & price comparison for garden power equipment | [Shopping](../categories/shopping.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Spoonacular](https://spoonacular.com/food-api) | Recipes, Food Products, and Meal Planning | [Food & Drink](../categories/food-and-drink.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sport Vision](https://developers.decathlon.com/products/sport-vision) | Identify sport, brands and gear in an image. Also does image sports captioning | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -627,6 +644,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | [Social](../categories/social.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Telegraph](https://telegra.ph/api) | Create attractive blogs easily, to share | [Social](../categories/social.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Telize](https://rapidapi.com/fcambus/api/telize) | Telize offers location information from any IP address | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Temsor](https://api.temsor.com/docs) | Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses | [Data Validation](../categories/data-validation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Text-till-Kladdesign](https://text-till-klad-design.gracestack.se/api/v1/openapi.json) | AI fashion design generator — transform Swedish text into clothing concepts | [Art & Design](../categories/art-and-design.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [The Bible](https://docs.api.bible) | Everything you need from the Bible in one discoverable place | [Books](../categories/books.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [The Dog](https://thedogapi.com) | A public service all about Dogs, free to use when making your fancy new App, Website or Service | [Animals](../categories/animals.md) | `apiKey` | Yes | No | No | 1/11 |
@@ -645,6 +663,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Thisispaper](https://www.thisispaper.com/intelligence/api-docs) | Curated architecture, design, photography and art projects with visual-similarity and taste metadata | [Art & Design](../categories/art-and-design.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Threat Jammer](https://threatjammer.com/docs/index) | Risk scoring service from curated threat intelligence data | [Security](../categories/security.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Thunderbit](https://thunderbit.com/docs/introduction) | Extract web pages as Markdown or structured data for AI apps | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started) | Search events, attractions, or venues | [Events](../categories/events.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Time Door](https://timedoor.io) | A time series analysis API | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Tinify.dev](https://tinify.dev/developers) | Image compression, resize and crop API with usage metadata | [Photography](../categories/photography.md) | `apiKey` | Yes | No | No | 1/11 |
@@ -675,6 +694,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Twelve Data](https://twelvedata.com) | Stock market data (real-time & historical) | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [TwitterAPIs](https://www.twitterapis.com) | Twitter / X data API: search, profiles, timelines, followers, DMs, write actions | [Social](../categories/social.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Tyk](https://tyk.io/open-source) | Api and service management platform | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [uchecker](https://api.uchecker.net/docs) | Bulk email verification with full SMTP server responses | [Email](../categories/email.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Udemy(instructor)](https://www.udemy.com/developers/instructor) | API for instructors on Udemy | [Personality](../categories/personality.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Uebermaps](https://uebermaps.com/api/v2) | Discover and share maps with friends | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | [Video](../categories/video.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -700,6 +720,7 @@ Catalog Auth field is apiKey. Key location (header vs query) is Unknown.
 | [Verifier](https://verifier.meetchopra.com/docs) | Verifies that a given email is real | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | [Phone](../categories/phone.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [VeriRoute Intel](https://verirouteintel.com) | CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers | [Phone](../categories/phone.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [VidWords](https://vidwords.com/api-docs) | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis | [Video](../categories/video.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Village](https://docs.village.ai) | Person and company enrichment plus warm introduction paths through your network | [Business](../categories/business.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [VirusTotal](https://docs.virustotal.com/reference/overview) | VirusTotal File/URL Analysis | [Anti-Malware](../categories/anti-malware.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Visual Crossing](https://www.visualcrossing.com/weather-api) | Global historical and weather forecast data | [Weather](../categories/weather.md) | `apiKey` | Yes | Yes | Yes | 2/11 |

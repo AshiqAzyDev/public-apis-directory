@@ -4,21 +4,21 @@
 
 APIs published by or about government and public-sector datasets.
 
-**101 APIs** in this category.
+**103 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 76 |
-| Authentication | apiKey | 21 |
+| Authentication | No | 77 |
+| Authentication | apiKey | 22 |
 | Authentication | OAuth | 4 |
-| HTTPS | Yes | 92 |
+| HTTPS | Yes | 94 |
 | HTTPS | No | 9 |
-| CORS | Yes | 16 |
+| CORS | Yes | 18 |
 | CORS | No | 5 |
 | CORS | Unknown | 80 |
-| Browser ready | Yes | 16 |
+| Browser ready | Yes | 18 |
 
 ## Quick filters
 
@@ -58,6 +58,7 @@ APIs published by or about government and public-sector datasets.
 | [Deutscher Bundestag DIP](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) | This API provides read access to DIP entities (e.g. activities, persons, printed material) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Disclosed Capitol](https://www.disclosedcapitol.com/data-files/api) | US congressional & executive-branch stock trade disclosures (STOCK Act + OGE) | `apiKey` | Yes | No | No | 1/11 |
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | `No` | Yes | Unknown | Unknown | 3/11 |
+| [DistrictAPI](https://districtapi.dev/docs) | US school districts and schools by address, with enrollment and boundaries | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [eCourtsIndia](https://ecourtsindia.com/api) | Indian court case status, judgments, and hearing schedule API | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EPA](https://www.epa.gov/developers/data-data-products) | Web services and data sets from the US Environmental Protection Agency | `No` | Yes | Unknown | Unknown | 3/11 |
 | [FastDOL](https://www.fastdol.com/docs) | Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -132,6 +133,7 @@ APIs published by or about government and public-sector datasets.
 | [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api) | Basic candidate data and live electoral vote counts for top two parties in US presidential election | `No` | Yes | No | No | 3/11 |
 | [USA.gov](https://www.usa.gov/developer) | Authoritative information on U.S. programs, events, services and more | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [USAspending.gov](https://api.usaspending.gov) | US federal spending data | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Vett](https://wimberly.solutions/api/free-sanctions-check) | Screen names & companies against OFAC, PEP, watchlists & recalls | `No` | Yes | Yes | Yes | 4/11 |
 
 **Related categories:** [Open Data](open-data.md), [Science & Math](science-and-math.md)
 

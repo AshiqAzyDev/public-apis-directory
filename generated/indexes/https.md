@@ -6,7 +6,7 @@ Catalog HTTPS field is Yes.
 
 **Criteria:** `HTTPS = Yes`
 
-**1577 APIs** match this filter. This is not a ranking.
+**1620 APIs** match this filter. This is not a ranking.
 
 | API | Description | Category | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Catalog HTTPS field is Yes.
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | [URL Shorteners](../categories/url-shorteners.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [4chan](https://github.com/4chan/4chan-API) | Simple image-based bulletin board dedicated to a variety of topics | [Social](../categories/social.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [5DollarFootball](https://5dollarfootballapi.com) | Football fixtures, results, standings and historical odds with corner and card lines | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [7digital](https://docs.7digital.com/reference) | Api of Music store 7digital | [Music](../categories/music.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [A Bíblia Digital](https://www.abibliadigital.com.br/en) | Do not worry about managing the multiple versions of the Bible | [Books](../categories/books.md) | `apiKey` | Yes | No | No | 1/11 |
 | [AbuseIPDB](https://docs.abuseipdb.com) | IP/domain/URL reputation | [Anti-Malware](../categories/anti-malware.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -80,6 +81,7 @@ Catalog HTTPS field is Yes.
 | [ApogeoAPI](https://apogeoapi.com) | Bundled API for countries, states, cities, IP geolocation, and live exchange rates | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Application Environment Verification](https://github.com/fingerprintjs/aev) | Android library and API to verify the safety of user devices, detect rooted devices and other risks | [Security](../categories/security.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [AQICN](https://aqicn.org/api) | Air Quality Index Data for over 1000 cities | [Weather](../categories/weather.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | Live GPU rental prices and availability across nine cloud providers | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
 | [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | API for Job board aggregator in Europe / Remote | [Jobs](../categories/jobs.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Arbeitsamt](https://jobsuche.api.bund.dev) | API for the "Arbeitsamt", which is a german Job board aggregator | [Jobs](../categories/jobs.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | [Open Data](../categories/open-data.md) | `No` | Yes | No | No | 3/11 |
@@ -92,6 +94,7 @@ Catalog HTTPS field is Yes.
 | [AstroWay](https://api.astroway.info/docs) | Astrology, natal charts, Human Design, Vedic and horoscopes on the Swiss Ephemeris | [Personality](../categories/personality.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Astroworld](https://api.astroworldmc.com) | Free Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions, achievements, trades | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic) | Email for AI agents: programmatic inbox creation and send/receive over JMAP | [Email](../categories/email.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Attestwire](https://api.attestwire.com/docs) | Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS | [Data Validation](../categories/data-validation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Audexum](https://audexum.com/docs) | Text-to-speech REST API with 43 voices and 33 languages | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Audiomack](https://www.audiomack.com/data-api/docs) | Api of the streaming music hub Audiomack | [Music](../categories/music.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Auth0](https://auth0.com) | Easy to implement, adaptable authentication and authorization platform | [Authentication & Authorization](../categories/authentication-and-authorization.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -163,7 +166,7 @@ Catalog HTTPS field is Yes.
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Board games, RPG and videogames | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |
 | [Bob's Burgers](https://bobs-burgers-api-ui.herokuapp.com) | Bob's Burgers API | [Video](../categories/video.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Boleto.Cloud](https://boleto.cloud) | A api to generate boletos in Brazil | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
-| [Bored](https://www.boredapi.com) | Find random activities to fight boredom | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Bored](https://bored-api.appbrewery.com) | Find random activities to fight boredom | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Boston MBTA Transit](https://www.mbta.com/developers/v3-api) | Stations and predicted arrivals for MBTA | [Transportation](../categories/transportation.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Botd](https://github.com/fingerprintjs/botd) | Botd is a browser library for JavaScript bot detection | [Security](../categories/security.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | [Open Data](../categories/open-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -184,6 +187,7 @@ Catalog HTTPS field is Yes.
 | [BriefTape](https://brieftape.com) | Real-time AI-summarized SEC filings, Fed, FDA and BLS data, ticker-tagged | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Bruzu](https://docs.bruzu.com) | Image generation with query string | [Photography](../categories/photography.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [BTCGlobe](https://btcglobe.live/join) | Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [btcnode.uk](https://btcnode.uk) | Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints. | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [BtcTurk](https://docs.btcturk.com) | Real-time cryptocurrency data, graphs and API that allows buy&sell | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Buddy](https://buddy.works/docs/api/getting-started/overview) | The fastest continuous integration and continuous delivery platform | [Continuous Integration](../categories/continuous-integration.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -335,14 +339,17 @@ Catalog HTTPS field is Yes.
 | [CryptoCompare](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [CryptoMarket](https://api.exchange.cryptomkt.com) | Cryptocurrencies Trading platform | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Cryptonator](https://www.cryptonator.com/api) | Cryptocurrencies Exchange Rates | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [CSR.plus](https://csr.plus/docs/api) | Generate certificate signing requests and private keys without OpenSSL | [Security](../categories/security.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [CTS](https://api.cts-strasbourg.eu) | CTS Realtime API | [Transportation](../categories/transportation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Cure Cancer With AI](https://www.curecancerwithai.com/developers) | Oncology research, clinical trials, FDA approvals, news, and MAMMAL predictions | [Health](../categories/health.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Currency-api](https://github.com/fawazahmed0/currency-api) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | [Currency Exchange](../categories/currency-exchange.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [CurrencyBeacon](https://currencybeacon.com) | Real-time and historical currency exchange rates with free tier | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [CurrencyFreaks](https://currencyfreaks.com) | Provides current and historical currency exchange rates with free plan 1K requests/month | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Currencylayer](https://currencylayer.com) | Exchange rates and currency conversion | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | Real-time and historical currency rates JSON API | [Currency Exchange](../categories/currency-exchange.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Currents](https://currentsapi.services) | Real-time and historical global news with multilingual support | [News](../categories/news.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | [URL Shorteners](../categories/url-shorteners.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [CuttingToolsAI](https://cuttingtoolsai.eu/api) | Cross-brand carbide insert grade equivalents by ISO application class | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [CycleCalcs](https://www.cyclecalcs.com/api.html) | Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates | [Currency Exchange](../categories/currency-exchange.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Dagpi](https://dagpi.xyz) | Image manipulation and processing | [Photography](../categories/photography.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -386,6 +393,7 @@ Catalog HTTPS field is Yes.
 | [Disney](https://disneyapi.dev) | Information of Disney characters | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Disqus](https://disqus.com/api/docs/auth) | Communicate with Disqus data | [Social](../categories/social.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | [Government](../categories/government.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [DistrictAPI](https://districtapi.dev/docs) | US school districts and schools by address, with enrollment and boundaries | [Government](../categories/government.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest) | Interact with Docker Hub | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [DocStruct](https://docstruct.pages.dev) | AI extraction of invoices, receipts, bank statements & contracts into structured JSON/CSV | [Documents & Productivity](../categories/documents-and-productivity.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Dog Facts](https://dukengn.github.io/Dog-facts-API) | Random dog facts | [Animals](../categories/animals.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -396,6 +404,7 @@ Catalog HTTPS field is Yes.
 | [DomainDb Info](https://api.domainsdb.info) | Domain name search to find all domains containing particular words/phrases/etc | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Domainsdb.info](https://domainsdb.info) | Registered Domain Names Search | [Business](../categories/business.md) | `No` | Yes | No | No | 3/11 |
 | [Dota 2](https://docs.opendota.com) | Provides information about Player stats , Match stats, Rankings for Dota 2 | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [DotaSense Timings](https://dotasense.com/cheat-sheet) | Reviewed Dota 2 objective timings in JSON and CSV | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [dotsweep](https://dotsweep.com/docs) | Domain availability across 1200+ TLDs with registration and renewal prices | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api) | Parse dreams into structured entities, emotions, agency, threat, and outcomes | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -430,6 +439,7 @@ Catalog HTTPS field is Yes.
 | [EmojiHub](https://github.com/cheatsnake/emojihub) | Get emojis by categories and groups | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [English Random Words](https://random-words-api.vercel.app/word) | Generate English Random Words with Pronunciation | [Test Data](../categories/test-data.md) | `No` | Yes | No | No | 3/11 |
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [EOD Historical Data](https://eodhd.com) | Real-time and historical stock market data with 150+ exchanges | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EOSL](https://eosl.ai/api) | Hardware end-of-sale and end-of-service-life dates by part number, source-linked | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [EPA](https://www.epa.gov/developers/data-data-products) | Web services and data sets from the US Environmental Protection Agency | [Government](../categories/government.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [EPO](https://developers.epo.org) | European patent search system api | [Patent](../categories/patent.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -482,6 +492,7 @@ Catalog HTTPS field is Yes.
 | [Finnhub](https://finnhub.io/docs/api) | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [FishWatch](https://www.fishwatch.gov/developers) | Information and pictures about individual fish species | [Animals](../categories/animals.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Fitbit](https://dev.fitbit.com) | Fitbit Information | [Sports & Fitness](../categories/sports-and-fitness.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
+| [flaky](https://flakyapi.dev) | Fake REST API with chaos controls: force any status code, add latency, or a failure rate | [Test Data](../categories/test-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Flickr](https://www.flickr.com/services/api) | Flickr Services | [Photography](../categories/photography.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | [Shopping](../categories/shopping.md) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Florida Man](https://github.com/juliayxhuang/florida-man-api) | Static JSON dataset of 10,000+ Florida Man headlines by date | [News](../categories/news.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -492,6 +503,7 @@ Catalog HTTPS field is Yes.
 | [Foodish](https://github.com/surhud004/Foodish) | Random pictures of food dishes | [Food & Drink](../categories/food-and-drink.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98) | A simple Open Source Football API to get squads’ stats, best scorers and more | [Sports & Fitness](../categories/sports-and-fitness.md) | `X-Mashape-Key` | Yes | Unknown | Unknown | 1/11 |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | [Sports & Fitness](../categories/sports-and-fitness.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Football Charts](https://www.football-charts.com/developers) | Tables, results, model probabilities and Monte Carlo season projections for 93 leagues | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | [Sports & Fitness](../categories/sports-and-fitness.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Football-Data](https://www.football-data.org) | Football data with matches info, players, teams, and competitions | [Sports & Fitness](../categories/sports-and-fitness.md) | `X-Mashape-Key` | Yes | Unknown | Unknown | 1/11 |
 | [Foreca](https://developer.foreca.com) | Weather | [Weather](../categories/weather.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -548,6 +560,7 @@ Catalog HTTPS field is Yes.
 | [Geokeo](https://geokeo.com) | Geokeo geocoding service- with 2500 free api requests daily | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [geoPlugin](https://www.geoplugin.com) | IP geolocation and currency conversion | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [GeoScore](https://geoscoreapi.com) | Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Get Started with Web3](https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md) | Bilingual Web3 lessons, glossary search and role-based learning paths | [Blockchain](../categories/blockchain.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [GetOTP](https://otp.dev/en/docs) | Implement OTP flow quickly | [Authentication & Authorization](../categories/authentication-and-authorization.md) | `apiKey` | Yes | No | No | 1/11 |
 | [GETPing](https://www.getping.info) | Trigger an email notification with a simple GET request | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Getty Images](http://developers.gettyimages.com/en) | Build applications using the world's most powerful imagery | [Photography](../categories/photography.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -578,6 +591,7 @@ Catalog HTTPS field is Yes.
 | [Google Earth Engine](https://developers.google.com/earth-engine) | A cloud-based platform for planetary-scale environmental data analysis | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Firebase](https://firebase.google.com/docs) | Google's mobile application development platform that helps build, improve, and grow app | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Google Fonts](https://developers.google.com/fonts/docs/developer_api) | Metadata for all families served by Google Fonts | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Google Gemini](https://ai.google.dev/gemini-api/docs) | Multimodal generative AI for text, vision, and code generation | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Keep](https://developers.google.com/keep/api/reference/rest) | API to read, write, and format Google Keep notes | [Development](../categories/development.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Google Maps](https://developers.google.com/maps) | Create/customize digital maps based on Google Maps data | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Photos](https://developers.google.com/photos) | Integrate Google Photos with your apps or devices | [Photography](../categories/photography.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -663,6 +677,7 @@ Catalog HTTPS field is Yes.
 | [Icelandic APIs](http://docs.apis.is) | Open APIs that deliver services in or regarding Iceland | [Transportation](../categories/transportation.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Icon Horse](https://icon.horse) | Favicons for any website, with fallbacks | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Iconfinder](https://developer.iconfinder.com) | Icons | [Art & Design](../categories/art-and-design.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Iconify](https://iconify.design/docs/api) | Search and fetch SVG icons from 200+ open source icon sets | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Icons8](https://img.icons8.com) | Icons (find "search icon" hyperlink in page) | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [icy.tools](https://developers.icy.tools) | GraphQL based NFT API | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Access millions of museum specimens from organizations around the world | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -723,6 +738,7 @@ Catalog HTTPS field is Yes.
 | [IPMA](https://api.ipma.pt/open-data) | Portuguese weather and climate data | [Weather](../categories/weather.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [IPS Online](https://docs.identity.ps/docs) | Face and License Plate Anonymization | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [IPstack](https://ipstack.com) | Locate and identify website visitors by IP address | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [ipwhois](https://ipwhois.io/documentation) | IP geolocation with country, city, coordinates, ISP, timezone and flag data | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [IPWhois.net Blacklist](https://ipwhois.net/blacklist/docs) | Community IP blacklist to check and report abusive IP addresses | [Anti-Malware](../categories/anti-malware.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Air quality and weather data | [Environment](../categories/environment.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Irisnet](https://irisnet.de/api) | Realtime content moderation API that blocks or blurs unwanted images in real-time | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -757,7 +773,9 @@ Catalog HTTPS field is Yes.
 | [Kaggle](https://www.kaggle.com/docs/api) | Create and interact with Datasets, Notebooks, and connect with Kaggle | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Kakao](https://developers.kakao.com) | Kakao Login, Share on KakaoTalk, Social Plugins and more | [Social](../categories/social.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Kakao Maps](https://apis.map.kakao.com) | Kakao Maps provide multiple APIs for Korean maps | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [kanari](https://kanari.io/en/api) | Real-time worldwide wildfire detections, water bomber tracking and open fire archive | [Environment](../categories/environment.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | [Personality](../categories/personality.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | Verified UK company profiles with an AI summary and accuracy score, from Companies House data | [Business](../categories/business.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs) | KDP niche demand scores, competition analysis and revenue estimates | [Books](../categories/books.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Keen IO](https://keen.io) | Data Analytics | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Kelley Blue Book](http://developer.kbb.com) | Vehicle info, pricing, configuration, plus much more | [Vehicle](../categories/vehicle.md) | `apiKey` | Yes | No | No | 1/11 |
@@ -765,6 +783,7 @@ Catalog HTTPS field is Yes.
 | [Keyvalue](https://keyvalue.immanuel.co) | Simple key-value storage REST API for quick prototyping | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Kickbox](https://open.kickbox.com) | Email verification API | [Email](../categories/email.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [kimiquotes](https://kimiquotes.herokuapp.com/doc) | Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen | [Personality](../categories/personality.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [KinoPipe](https://kinopipe.com/docs) | Typed hosted video editing operations for agents and automation | [Video](../categories/video.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Kiprio Email Validate](https://kiprio.com/v1/email-validate) | Free email validation: MX check, disposable detection, syntax | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Kiprio Translate](https://kiprio.com/v1/translate) | Free text translation with language detection, supports 50+ languages | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Kiprio UK Postcode](https://kiprio.com/v1/postcode) | UK postcode lookup with lat/lon, district, ward, constituency | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -797,6 +816,7 @@ Catalog HTTPS field is Yes.
 | [Lingua Robot](https://www.linguarobot.io) | Word definitions, pronunciations, synonyms, antonyms and others | [Dictionaries](../categories/dictionaries.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin?context=linkedin%2Fcontext) | The foundation of all digital integrations with LinkedIn | [Social](../categories/social.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [LinkPreview](https://www.linkpreview.net) | Get JSON formatted summary with title, description and preview image for any requested URL | [Open Data](../categories/open-data.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [LiquiLens](https://liquilens.in/developers) | Public-record bank and lender failure-risk evidence | [Finance](../categories/finance.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Lob.com](https://lob.com) | US Address Verification | [Data Validation](../categories/data-validation.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Localbitcoins](https://localbitcoins.com/api-docs) | P2P platform to buy and sell Bitcoins | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [LocalGov.jp](https://localgov.jp) | Japan grants and subsidies (central J-Grants + 1,916 municipalities) | [Government](../categories/government.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -870,6 +890,7 @@ Catalog HTTPS field is Yes.
 | [Micro DB](https://m3o.com/db) | Simple database service | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Micro User Service](https://m3o.com/user) | User management and authentication | [Authentication & Authorization](../categories/authentication-and-authorization.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Micro Weather](https://m3o.com/weather/api) | Real time weather forecasts and historic data | [Weather](../categories/weather.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json) | 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [MicroENV](https://microenv.com) | Fake Rest API for developers | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Microlink.io](https://microlink.io) | Extract structured data from any website | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | [Social](../categories/social.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -1024,6 +1045,7 @@ Catalog HTTPS field is Yes.
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | [Geocoding](../categories/geocoding.md) | `No` | Yes | No | No | 3/11 |
 | [Open Trivia](https://opentdb.com/api_config.php) | Trivia Questions | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Open-Meteo](https://open-meteo.com) | Global weather forecast API for non-commercial use | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | Weather ensemble forecasts from multiple models | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [openAFRICA](https://africaopendata.org) | Large datasets repository of African open data | [Open Data](../categories/open-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [OpenAlex](https://docs.openalex.org) | Open catalog of scholarly works, authors, institutions, sources, and concepts | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenAPIHub](https://hub.openapihub.com) | The All-in-one API Platform | [Development](../categories/development.md) | `X-Mashape-Key` | Yes | Unknown | Unknown | 1/11 |
@@ -1049,6 +1071,7 @@ Catalog HTTPS field is Yes.
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | [Music](../categories/music.md) | `No` | Yes | No | No | 3/11 |
 | [ORB Intelligence](https://api.orb-intelligence.com/docs) | Company lookup | [Business](../categories/business.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [OrbitalWiki](https://orbitalwiki.com/developers) | Catalog of 16,000+ satellites merging CelesTrak, GCAT, Wikidata; free tier included | [Science & Math](../categories/science-and-math.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6) | Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Orion Health](https://developer.orionhealth.io) | Medical platform which allows the development of applications for different healthcare scenarios | [Health](../categories/health.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Orizn Visa](https://visa.orizn.app) | Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages | [Transportation](../categories/transportation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [OutageDeck](https://outagedeck.com/developers/api) | Live status and incidents for 170+ cloud and SaaS providers from official feeds | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -1074,6 +1097,7 @@ Catalog HTTPS field is Yes.
 | [Personality.fyi](https://personality.fyi/api) | Free MBTI personality types and OEJTS test scoring | [Personality](../categories/personality.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Perspective](https://perspectiveapi.com) | NLP API to return probability that if text is toxic, obscene, insulting or threatening | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Petfinder](https://www.petfinder.com/developers) | Petfinder is dedicated to helping pets find homes, another resource to get pets adopted | [Animals](../categories/animals.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Pexafy](https://docs.pexafy.com) | Semantic image search across 9+ free stock photo sources with a unified JSON schema | [Photography](../categories/photography.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Pexels](https://www.pexels.com/api) | Free Stock Photos and Videos | [Photography](../categories/photography.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Phisherman](https://phisherman.gg) | IP/domain/URL reputation | [Anti-Malware](../categories/anti-malware.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Phishin](https://phish.in/api-docs) | A web-based archive of legal live audio recordings of the improvisational rock band Phish | [Music](../categories/music.md) | `apiKey` | Yes | No | No | 1/11 |
@@ -1088,6 +1112,7 @@ Catalog HTTPS field is Yes.
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Pinterest](https://developers.pinterest.com) | The world's catalog of ideas | [Social](../categories/social.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Pirate Weather](https://pirateweather.net/en/latest) | Free weather API with forecast data similar to Dark Sky | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | Point-in-time quarterly revenue for 20 U.S. issuers | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Pixabay](https://pixabay.com/sk/service/about/api) | Photography | [Photography](../categories/photography.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Pixel Encounter](https://pixelencounter.com/api) | SVG Icon Generator | [Art & Design](../categories/art-and-design.md) | `No` | Yes | No | No | 3/11 |
 | [Pixela](https://pixe.la) | API for recording and tracking habits or effort, routines | [Tracking](../categories/tracking.md) | `X-Mashape-Key` | Yes | Yes | Yes | 2/11 |
@@ -1104,6 +1129,7 @@ Catalog HTTPS field is Yes.
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [PokéSprite](https://msikma.github.io/pokesprite) | Database of Pokémon sprites and icons | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PolyDoc](https://polydoc.tech) | HTML/URL to PDF and screenshots, plus Factur-X/ZUGFeRD e-invoices; free tier | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Polygon](https://polygon.io) | Historical stock market data | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -1132,6 +1158,7 @@ Catalog HTTPS field is Yes.
 | [Psychonauts](https://psychonauts-api.netlify.app) | Psychonauts World Characters Information and PSI Powers | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [PUBG](https://developer.pubg.com) | Access in-game PUBG data | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Public Holidays](https://www.abstractapi.com/holidays-api) | Data on national, regional, and religious holidays via API | [Calendar](../categories/calendar.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [PublicDataHub](https://publicdatahub.org/api) | US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Publora](https://docs.publora.com) | Publish and schedule posts to ten social networks from one endpoint | [Social](../categories/social.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Pulsedive](https://pulsedive.com/api) | Scan, search and collect threat intelligence data in real-time | [Security](../categories/security.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PumpFunData](https://pumpfundata.com/docs) | Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -1176,6 +1203,7 @@ Catalog HTTPS field is Yes.
 | [Rappi](https://dev-portal.rappi.com) | Manage orders from Rappi's app | [Shopping](../categories/shopping.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Razorpay IFSC](https://razorpay.com/docs) | Indian Financial Systems Code (Bank Branch Codes) | [Finance](../categories/finance.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Rblxdb](https://rblxdb.com/developers) | Verified Roblox music codes and decal IDs with live working status | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | [Photography](../categories/photography.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | [URL Shorteners](../categories/url-shorteners.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [RecipeAPI](https://recipeapi.io) | Recipes, ingredients, nutrition data and cooking instructions | [Food & Drink](../categories/food-and-drink.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -1231,6 +1259,7 @@ Catalog HTTPS field is Yes.
 | [scrapestack](https://scrapestack.com) | Real-time, Scalable Proxy & Web Scraping REST API | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingDog](https://www.scrapingdog.com) | Proxy API for Web scraping | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Scrax](https://rapidapi.com/mtaahoperators/api/scrax) | Web scraping API that only bills for successful scrapes | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ScreenshotAPI.net](https://screenshotapi.net) | Create pixel-perfect website screenshots | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Screenshotlayer](https://screenshotlayer.com) | URL to screenshot | [Photography](../categories/photography.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -1254,6 +1283,7 @@ Catalog HTTPS field is Yes.
 | [Shodan](https://developer.shodan.io) | Search engine for Internet connected devices | [Security](../categories/security.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | [Shopping](../categories/shopping.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Short Link](https://github.com/FayasNoushad/Short-Link-API) | Short URLs support so many domains | [URL Shorteners](../categories/url-shorteners.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Shotstack](https://shotstack.io) | Cloud video editing API to create and render videos programmatically | [Video](../categories/video.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Shrtcode](https://shrtco.de/docs) | URl Shortener with multiple Domains | [URL Shorteners](../categories/url-shorteners.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Shrtlnk](https://shrtlnk.dev/developer) | Simple and efficient short link creation | [URL Shorteners](../categories/url-shorteners.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [shutterstock](https://api-reference.shutterstock.com) | Stock Photos and Videos | [Photography](../categories/photography.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -1268,6 +1298,8 @@ Catalog HTTPS field is Yes.
 | [SmartAPI](https://smartapi.angelbroking.com) | Gain access to set of <SmartAPI> and create end-to-end broking services | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Smartcar](https://smartcar.com/docs) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | [Vehicle](../categories/vehicle.md) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Smartsheet](https://smartsheet.redoc.ly) | Allows you to programmatically access and Smartsheet data and account information | [Business](../categories/business.md) | `OAuth` | Yes | No | No | 1/11 |
+| [SMTPfast](https://smtpfa.st/docs) | Send transactional email, manage contacts and broadcasts, free 3,000 emails/month | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [SocialCrawl](https://www.socialcrawl.dev/docs) | Social and commerce data from 50+ platforms in one JSON schema | [Social](../categories/social.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site) | Turn articles into ready-to-post X thread drafts with different hooks | [Social](../categories/social.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Socrata](https://dev.socrata.com) | Access to Open Data from Governments, Non-profits and NGOs around the world | [Open Data](../categories/open-data.md) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -1284,6 +1316,7 @@ Catalog HTTPS field is Yes.
 | [SpaceX](https://github.com/r-spacex/SpaceX-API) | Company, vehicle, launchpad and launch data | [Science & Math](../categories/science-and-math.md) | `No` | Yes | No | No | 3/11 |
 | [Spanish random names](https://random-names-api.herokuapp.com/public) | Generate spanish names (with gender) randomly | [Test Data](../categories/test-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Generate spanish words randomly | [Test Data](../categories/test-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Sparepilot](https://sparepilot.com/developers) | Spare parts catalog, OEM cross-references & price comparison for garden power equipment | [Shopping](../categories/shopping.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Spoonacular](https://spoonacular.com/food-api) | Recipes, Food Products, and Meal Planning | [Food & Drink](../categories/food-and-drink.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | [Sports & Fitness](../categories/sports-and-fitness.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sport List & Data](https://developers.decathlon.com/products/sports) | List of and resources related to sports | [Sports & Fitness](../categories/sports-and-fitness.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -1306,6 +1339,7 @@ Catalog HTTPS field is Yes.
 | [Statlyte](https://statlyte.com/api) | Live pricing, context windows and model ids for major LLM APIs | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Internal Steam Web API documentation | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |
 | [Steam](https://steamapi.xpaw.me) | Steam Web API documentation | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | No | No | 1/11 |
+| [SteamGPT](https://steamgpt.net) | Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [StockData](https://www.stockdata.org) | Real-Time, Intraday & Historical Market Data, News and Sentiment API | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [StockFit](https://api.stockfit.io/docs) | SEC filings, financial statements, earnings, ETF holdings and ownership data | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Stoicism Quote](https://github.com/tlcheah2/stoic-quote-lambda-public-api) | Quotes about Stoicism | [Personality](../categories/personality.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -1350,6 +1384,7 @@ Catalog HTTPS field is Yes.
 | [Telegraph](https://telegra.ph/api) | Create attractive blogs easily, to share | [Social](../categories/social.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Teleport](https://developers.teleport.org) | Quality of Life Data | [Open Data](../categories/open-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Telize](https://rapidapi.com/fcambus/api/telize) | Telize offers location information from any IP address | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Temsor](https://api.temsor.com/docs) | Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses | [Data Validation](../categories/data-validation.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Tenders in Hungary](https://tenders.guru/hu/api) | Get data for procurements in Hungary in JSON format | [Business](../categories/business.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tenders in Poland](https://tenders.guru/pl/api) | Get data for procurements in Poland in JSON format | [Business](../categories/business.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tenders in Romania](https://tenders.guru/ro/api) | Get data for procurements in Romania in JSON format | [Business](../categories/business.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -1383,6 +1418,7 @@ Catalog HTTPS field is Yes.
 | [ThronesApi](https://thronesapi.com) | Game Of Thrones Characters Data with imagery | [Video](../categories/video.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Thunder Client](https://www.thunderclient.com) | API testing tool | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Thunderbit](https://thunderbit.com/docs/introduction) | Extract web pages as Markdown or structured data for AI apps | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started) | Search events, attractions, or venues | [Events](../categories/events.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [TikTok](https://developers.tiktok.com/doc/login-kit-web) | Fetches user info and user's video posts on TikTok platform | [Social](../categories/social.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Tilth](https://www.tilth.uk/data) | Free daily UK fertiliser price index across nine grades, CC BY 4.0 licensed | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -1406,6 +1442,7 @@ Catalog HTTPS field is Yes.
 | [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai) | Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec | [Test Data](../categories/test-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [TourneyRadar](https://tourneyradar-api.vercel.app) | Upcoming chess tournaments from 140+ national federations worldwide | [Sports & Fitness](../categories/sports-and-fitness.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Trace Moe](https://soruly.github.io/trace.moe-api) | A useful tool to get the exact scene of an anime from a screenshot | [Anime](../categories/anime.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [TradeDataHub](https://www.tradedatahub.net) | U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews | [Business](../categories/business.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | [Finance](../categories/finance.md) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Traitify](https://app.traitify.com/developer) | Assess, collect and analyze Personality | [Personality](../categories/personality.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Trakt](https://trakt.docs.apiary.io) | Movie and TV Data | [Video](../categories/video.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -1451,6 +1488,7 @@ Catalog HTTPS field is Yes.
 | [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets | [Blockchain](../categories/blockchain.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Tyk](https://tyk.io/open-source) | Api and service management platform | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | [Transportation](../categories/transportation.md) | `OAuth` | Yes | Yes | Yes | 2/11 |
+| [uchecker](https://api.uchecker.net/docs) | Bulk email verification with full SMTP server responses | [Email](../categories/email.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Udemy(instructor)](https://www.udemy.com/developers/instructor) | API for instructors on Udemy | [Personality](../categories/personality.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Uebermaps](https://uebermaps.com/api/v2) | Discover and share maps with friends | [Geocoding](../categories/geocoding.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | [Calendar](../categories/calendar.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -1505,7 +1543,9 @@ Catalog HTTPS field is Yes.
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | [Phone](../categories/phone.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [VeriRoute Intel](https://verirouteintel.com) | CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers | [Phone](../categories/phone.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Verome](https://github.com/Kirazul/Verome-API) | Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm | [Music](../categories/music.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Vett](https://wimberly.solutions/api/free-sanctions-check) | Screen names & companies against OFAC, PEP, watchlists & recalls | [Government](../categories/government.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [ViaCep](https://viacep.com.br) | Brazil RESTful zip codes API | [Geocoding](../categories/geocoding.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [VidWords](https://vidwords.com/api-docs) | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis | [Video](../categories/video.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Village](https://docs.village.ai) | Person and company enrichment plus warm introduction paths through your network | [Business](../categories/business.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Vimeo](https://developer.vimeo.com) | Vimeo Developer API | [Video](../categories/video.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Virushee](https://api.virushee.com) | Virushee file/data scanning | [Security](../categories/security.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -1521,6 +1561,7 @@ Catalog HTTPS field is Yes.
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api) | WallstreetBets Stock Comments Sentiment Analysis | [Finance](../categories/finance.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Walltime](https://walltime.info/api.html) | To retrieve Walltime's market info | [Blockchain](../categories/blockchain.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) | Code compiler supporting 35+ languages mentioned at wandbox.org | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Wander Atlas](https://wanderatlasguides.com/api) | Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries | [Transportation](../categories/transportation.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |
 | [Wargaming.net](https://developers.wargaming.net) | Wargaming.net info and stats | [Games & Comics](../categories/games-and-comics.md) | `apiKey` | Yes | No | No | 1/11 |
 | [Warnely](https://warnely.com/developers) | Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live incident wire), OpenAPI 3.1 spec, CC BY 4.0 | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -1528,6 +1569,7 @@ Catalog HTTPS field is Yes.
 | [Watchdata](https://docs.watchdata.io) | Provide simple and reliable API access to Ethereum blockchain | [Blockchain](../categories/blockchain.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Watchmode](https://api.watchmode.com) | API for finding out the streaming availability of movies & shows | [Video](../categories/video.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis | [Text Analysis](../categories/text-analysis.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
+| [WattFigure](https://api.wattfigure.com) | US electricity rates by state, with appliance and EV charging running costs | [Environment](../categories/environment.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [weather-api](https://github.com/robertoduessmann/weather-api) | A RESTful free API to check the weather | [Weather](../categories/weather.md) | `No` | Yes | No | No | 3/11 |
 | [WeatherAPI](https://www.weatherapi.com) | Weather API with other stuff like Astronomy and Geolocation API | [Weather](../categories/weather.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | [Weather](../categories/weather.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -1559,6 +1601,7 @@ Catalog HTTPS field is Yes.
 | [Wordnik](https://developer.wordnik.com) | Dictionary Data | [Dictionaries](../categories/dictionaries.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Words](https://www.wordsapi.com/docs) | Definitions and synonyms for more than 150,000 words | [Dictionaries](../categories/dictionaries.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | World Data | [Science & Math](../categories/science-and-math.md) | `No` | Yes | No | No | 3/11 |
+| [World Time & Weather](https://worldtimeweather.com/api.html) | Current weather, local time, UTC offset and DST rules for 400 cities as static JSON | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | [Cryptocurrency](../categories/cryptocurrency.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [wttr.in](https://wttr.in/:help) | Weather in your terminal, supports JSON output | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [xeno-canto](https://xeno-canto.org/explore/api) | Bird recordings | [Animals](../categories/animals.md) | `No` | Yes | Unknown | Unknown | 3/11 |

@@ -6,7 +6,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 
 **Criteria:** `Category is Business, Finance, Documents & Productivity, Cloud Storage & File Sharing, Email, or Development`
 
-**315 APIs** match this filter. This is not a ranking.
+**327 APIs** match this filter. This is not a ranking.
 
 | API | Description | Category | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [ApiFlash](https://apiflash.com) | Chrome based screenshot API for developers | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [apilayer pdflayer](https://pdflayer.com) | HTML/URL to PDF | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [APIs.guru](https://apis.guru/api-doc) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | Live GPU rental prices and availability across nine cloud providers | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
 | [Asana](https://developers.asana.com/docs) | Programmatic access to all data in your asana system | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic) | Email for AI agents: programmatic inbox creation and send/receive over JMAP | [Email](../categories/email.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -40,7 +41,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [Blitapp](https://blitapp.com/api) | Schedule screenshots of web pages and sync them to your cloud | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io) | Control IoT Devices from Blynk IoT Cloud | [Development](../categories/development.md) | `apiKey` | No | Unknown | No | 0/11 |
 | [Boleto.Cloud](https://boleto.cloud) | A api to generate boletos in Brazil | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
-| [Bored](https://www.boredapi.com) | Find random activities to fight boredom | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Bored](https://bored-api.appbrewery.com) | Find random activities to fight boredom | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Box](https://developer.box.com) | File Sharing and Storage | [Cloud Storage & File Sharing](../categories/cloud-storage-and-file-sharing.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Brainshop.ai](https://brainshop.ai) | Make A Free A.I Brain | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [BrewPage](https://brewpage.app) | Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
@@ -87,6 +88,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [Edgrapi](https://edgrapi.com) | Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q sections as normalized JSON | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Email Validation](https://www.abstractapi.com/email-verification-validation-api) | Validate email addresses for deliverability and spam | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EmailJS](https://www.emailjs.com/docs) | Send emails directly from client-side JavaScript without a backend server | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [EOD Historical Data](https://eodhd.com) | Real-time and historical stock market data with 150+ exchanges | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EVA](https://eva.pingutil.com) | Validate email addresses | [Email](../categories/email.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation) | U.S. Department of the Treasury Data | [Finance](../categories/finance.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -163,6 +165,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [JSON 2 JSONP](https://json2jsonp.com) | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [JSONbin.io](https://jsonbin.io) | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Fake REST API for testing and prototyping | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | Verified UK company profiles with an AI summary and accuracy score, from Companies House data | [Business](../categories/business.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Keyvalue](https://keyvalue.immanuel.co) | Simple key-value storage REST API for quick prototyping | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Kickbox](https://open.kickbox.com) | Email verification API | [Email](../categories/email.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Kiprio Email Validate](https://kiprio.com/v1/email-validate) | Free email validation: MX check, disposable detection, syntax | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -170,6 +173,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [Kroki](https://kroki.io) | Creates diagrams from textual descriptions | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Find verified legal specialists in Georgia from natural-language queries | [Business](../categories/business.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [License-API](https://github.com/cmccandless/license-api/blob/master/README.md) | Unofficial REST API for choosealicense.com | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
+| [LiquiLens](https://liquilens.in/developers) | Public-record bank and lender failure-risk evidence | [Finance](../categories/finance.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Logs.to](https://logs.to) | Generate logs | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev) | Online Lua 5.1 Decompiler | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -188,6 +192,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Mercury](https://mercury.postlight.com/web-parser) | Web parser | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Micro DB](https://m3o.com/db) | Simple database service | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json) | 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [MicroENV](https://microenv.com) | Fake Rest API for developers | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Mocky](https://designer.mocky.io) | Mock user defined test JSON for REST API endpoints | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Monday](https://api.developer.monday.com/docs) | Programmatically access and update data inside a monday.com account | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -211,6 +216,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [OpenGraphr](https://opengraphr.com/docs/1.0/overview) | Really simple API to retrieve Open Graph data from an URL | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [OpenQR](https://openqr.uk/api) | Generate QR codes and manage dynamic (editable) QR codes with scan analytics | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ORB Intelligence](https://api.orb-intelligence.com/docs) | Company lookup | [Business](../categories/business.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6) | Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [OutageDeck](https://outagedeck.com/developers/api) | Live status and incidents for 170+ cloud and SaaS providers from official feeds | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [oyyi](https://oyyi.xyz/docs/1.0) | API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [PageCDN](https://pagecdn.com/docs/public-api) | Public API for javascript, css and font libraries on PageCDN | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -221,6 +227,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [Phone Specs](https://phone-specs-api-production.up.railway.app/docs) | Real-time smartphone specifications database for 263 devices | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Pick an Agency](https://www.pickanagency.com/developers) | Search 47,000+ marketing agencies by service, location and rating | [Business](../categories/business.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Pinata](https://docs.pinata.cloud) | IPFS Pinning Services API | [Cloud Storage & File Sharing](../categories/cloud-storage-and-file-sharing.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | Point-in-time quarterly revenue for 20 U.S. issuers | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Plaid](https://www.plaid.com/docs) | Connect with user's bank accounts and access transaction data | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Pocket](https://getpocket.com/developer) | Bookmarking service | [Documents & Productivity](../categories/documents-and-productivity.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Podio](https://developers.podio.com) | File sharing and productivity | [Documents & Productivity](../categories/documents-and-productivity.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -259,6 +266,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [scrapestack](https://scrapestack.com) | Real-time, Scalable Proxy & Web Scraping REST API | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingDog](https://www.scrapingdog.com) | Proxy API for Web scraping | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Scrax](https://rapidapi.com/mtaahoperators/api/scrax) | Web scraping API that only bills for successful scrapes | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ScreenshotAPI.net](https://screenshotapi.net) | Create pixel-perfect website screenshots | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation) | API to access annual reports of public US companies | [Finance](../categories/finance.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -273,6 +281,7 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [Smart Image Enhancement](https://apilayer.com/marketplace/image_enhancement-api) | Performs image upscaling by adding detail to images through multiple super-resolution algorithms | [Documents & Productivity](../categories/documents-and-productivity.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [SmartAPI](https://smartapi.angelbroking.com) | Gain access to set of <SmartAPI> and create end-to-end broking services | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Smartsheet](https://smartsheet.redoc.ly) | Allows you to programmatically access and Smartsheet data and account information | [Business](../categories/business.md) | `OAuth` | Yes | No | No | 1/11 |
+| [SMTPfast](https://smtpfa.st/docs) | Send transactional email, manage contacts and broadcasts, free 3,000 emails/month | [Email](../categories/email.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Project Sonar DNS Enumeration API | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [SonarQube](https://sonarcloud.io/web_api) | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | [Development](../categories/development.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Square](https://developer.squareup.com/reference/square) | Easy way to take payments, manage refunds, and help customers checkout online | [Business](../categories/business.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -297,14 +306,17 @@ APIs in business, finance, productivity, storage, email, or development categori
 | [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | [Cloud Storage & File Sharing](../categories/cloud-storage-and-file-sharing.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Thunder Client](https://www.thunderclient.com) | API testing tool | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Thunderbit](https://thunderbit.com/docs/introduction) | Extract web pages as Markdown or structured data for AI apps | [Development](../categories/development.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [TinyMind Agent Tools](https://tinymind.eu/api) | Free APIs by an AI agent on a VPS: actor lookup, word-of-the-day, poems, jokes, ping | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Todoist](https://developer.todoist.com) | Todo Lists | [Documents & Productivity](../categories/documents-and-productivity.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | [Business](../categories/business.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | Daily AI-ranked stock and crypto watchlists | [Finance](../categories/finance.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [TradeDataHub](https://www.tradedatahub.net) | U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews | [Business](../categories/business.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | [Finance](../categories/finance.md) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Trello](https://developers.trello.com) | Boards, lists and cards to help you organize and prioritize your projects | [Business](../categories/business.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Twelve Data](https://twelvedata.com) | Stock market data (real-time & historical) | [Finance](../categories/finance.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Tyk](https://tyk.io/open-source) | Api and service management platform | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [uchecker](https://api.uchecker.net/docs) | Bulk email verification with full SMTP server responses | [Email](../categories/email.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Userstack](https://userstack.com) | Secure User-Agent String Lookup JSON API | [Development](../categories/development.md) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Utilorax](https://utilorax.com/api) | 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion | [Development](../categories/development.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | [Finance](../categories/finance.md) | `apiKey` | Yes | Yes | Yes | 2/11 |

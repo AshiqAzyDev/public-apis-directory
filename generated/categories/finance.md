@@ -4,21 +4,21 @@
 
 APIs related to markets, banking-style datasets, and financial references.
 
-**60 APIs** in this category.
+**64 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 12 |
-| Authentication | apiKey | 43 |
+| Authentication | No | 13 |
+| Authentication | apiKey | 46 |
 | Authentication | OAuth | 5 |
-| HTTPS | Yes | 59 |
+| HTTPS | Yes | 63 |
 | HTTPS | No | 1 |
-| CORS | Yes | 25 |
+| CORS | Yes | 27 |
 | CORS | No | 2 |
-| CORS | Unknown | 33 |
-| Browser ready | Yes | 25 |
+| CORS | Unknown | 35 |
+| Browser ready | Yes | 27 |
 
 ## Quick filters
 
@@ -46,6 +46,7 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Econdb](https://www.econdb.com/api) | Global macroeconomic data | `No` | Yes | Yes | Yes | 4/11 |
 | [EconPulse](https://econpulse.io) | Live economic data — CPI, PPI, energy, treasury rates, BTC premium | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Edgrapi](https://edgrapi.com) | Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q sections as normalized JSON | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [EOD Historical Data](https://eodhd.com) | Real-time and historical stock market data with 150+ exchanges | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation) | U.S. Department of the Treasury Data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Finage](https://finage.co.uk) | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -63,6 +64,7 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Indian Mutual Fund](https://www.mfapi.in) | Get complete history of India Mutual Funds Data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Intrinio](https://intrinio.com) | A wide selection of financial data feeds | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api) | Klarna payment and shopping service | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [LiquiLens](https://liquilens.in/developers) | Public-record bank and lender failure-risk evidence | `No` | Yes | Yes | Yes | 4/11 |
 | [Marketstack](https://marketstack.com) | Real-Time, Intraday & Historical Market Data API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Mono](https://mono.co) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -70,6 +72,7 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide) | Connect to bank accounts using official bank APIs and get raw transaction data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [NORTH7 Agent](https://north7.ai/v1/docs) | Trading signals, market analysis and geopolitical intelligence | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | Point-in-time quarterly revenue for 20 U.S. issuers | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Plaid](https://www.plaid.com/docs) | Connect with user's bank accounts and access transaction data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Polygon](https://polygon.io) | Historical stock market data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Portfolio Optimizer](https://portfoliooptimizer.io) | Portfolio analysis and optimization | `No` | Yes | Yes | Yes | 4/11 |
@@ -82,6 +85,7 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Styvio](https://www.styvio.com) | Realtime and historical stock data and current stock sentiment | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sugra](https://sugra.ai) | One API for market data, economics, commodities, climate, and global news. LLM-ready JSON | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Tax Data](https://apilayer.com/marketplace/tax_data-api) | Instant VAT number and tax validation across the globe | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | Daily AI-ranked stock and crypto watchlists | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Twelve Data](https://twelvedata.com) | Stock market data (real-time & historical) | `apiKey` | Yes | Unknown | Unknown | 1/11 |

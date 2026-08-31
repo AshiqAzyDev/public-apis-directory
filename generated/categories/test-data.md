@@ -4,21 +4,21 @@
 
 APIs that provide fake or sample data for tests and prototypes.
 
-**29 APIs** in this category.
+**30 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 24 |
+| Authentication | No | 25 |
 | Authentication | apiKey | 5 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 25 |
+| HTTPS | Yes | 26 |
 | HTTPS | No | 4 |
-| CORS | Yes | 8 |
+| CORS | Yes | 9 |
 | CORS | No | 5 |
 | CORS | Unknown | 16 |
-| Browser ready | Yes | 7 |
+| Browser ready | Yes | 8 |
 
 ## Quick filters
 
@@ -39,6 +39,7 @@ APIs that provide fake or sample data for tests and prototypes.
 | [FakeJSON](https://fakejson.com) | Service to generate test and fake data | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [FakerAPI](https://fakerapi.it/en) | APIs collection to get fake data | `No` | Yes | Yes | Yes | 4/11 |
 | [FakeStoreAPI](https://fakestoreapi.com) | Fake store rest API for your e-commerce or shopping website prototype | `No` | Yes | Unknown | Unknown | 3/11 |
+| [flaky](https://flakyapi.dev) | Fake REST API with chaos controls: force any status code, add latency, or a failure rate | `No` | Yes | Yes | Yes | 4/11 |
 | [GeneradorDNI](https://api.generadordni.es) | Data generator API. Profiles, vehicles, banks and cards, etc | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ItsThisForThat](https://itsthisforthat.com/api.php) | Generate Random startup ideas | `No` | Yes | No | No | 3/11 |
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com) | Fake data for testing and prototyping | `No` | No | Unknown | No | 2/11 |

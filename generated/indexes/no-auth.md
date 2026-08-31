@@ -6,7 +6,7 @@ Catalog Auth field is No. Registration may still be required.
 
 **Criteria:** `Auth = No`
 
-**783 APIs** match this filter. This is not a ranking.
+**805 APIs** match this filter. This is not a ranking.
 
 | API | Description | Category | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,6 +40,7 @@ Catalog Auth field is No. Registration may still be required.
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Apimetro](https://apimetro.dev/swagger/index.html) | Geospatial data for Mexico City public transport system (Metro, Metrobús, Cablebús, RTP, etc.) | [Transportation](../categories/transportation.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [APIs.guru](https://apis.guru/api-doc) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | Live GPU rental prices and availability across nine cloud providers | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
 | [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | API for Job board aggregator in Europe / Remote | [Jobs](../categories/jobs.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | [Open Data](../categories/open-data.md) | `No` | Yes | No | No | 3/11 |
 | [arcsecond.io](https://api.arcsecond.io) | Multiple astronomy data sources | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -78,7 +79,7 @@ Catalog Auth field is No. Registration may still be required.
 | [bng2latlong](https://www.getthedata.com/bng2latlong) | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Board games, RPG and videogames | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |
 | [Bob's Burgers](https://bobs-burgers-api-ui.herokuapp.com) | Bob's Burgers API | [Video](../categories/video.md) | `No` | Yes | Yes | Yes | 4/11 |
-| [Bored](https://www.boredapi.com) | Find random activities to fight boredom | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Bored](https://bored-api.appbrewery.com) | Find random activities to fight boredom | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | [Open Data](../categories/open-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Brazil](https://brasilapi.com.br) | Community driven API for Brazil Public Data | [Government](../categories/government.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br) | Brazil Central Bank Open Data | [Government](../categories/government.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -89,6 +90,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Some Breaking Bad quotes | [Video](../categories/video.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [BrewPage](https://brewpage.app) | Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
 | [British National Bibliography](http://bnb.data.bl.uk) | Books | [Books](../categories/books.md) | `No` | No | Unknown | No | 2/11 |
+| [BTCGlobe](https://btcglobe.live/join) | Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [btcnode.uk](https://btcnode.uk) | Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints. | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Bugsnax](https://www.bugsnaxapi.com) | Get information about Bugsnax | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [caldays](https://caldays.com/api) | Public holidays for 195+ countries | [Calendar](../categories/calendar.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -176,7 +178,9 @@ Catalog Auth field is No. Registration may still be required.
 | [CryptingUp](https://www.cryptingup.com/apidoc) | Cryptocurrency data | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [CryptoCompare](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Cryptonator](https://www.cryptonator.com/api) | Cryptocurrencies Exchange Rates | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [CSR.plus](https://csr.plus/docs/api) | Generate certificate signing requests and private keys without OpenSSL | [Security](../categories/security.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Currency-api](https://github.com/fawazahmed0/currency-api) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits | [Currency Exchange](../categories/currency-exchange.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [CuttingToolsAI](https://cuttingtoolsai.eu/api) | Cross-brand carbide insert grade equivalents by ISO application class | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [CycleCalcs](https://www.cyclecalcs.com/api.html) | Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Lookup for a name and returns nameday date | [Calendar](../categories/calendar.md) | `No` | No | Unknown | No | 2/11 |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates | [Currency Exchange](../categories/currency-exchange.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -209,6 +213,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Dogs](https://dog.ceo/dog-api) | Based on the Stanford Dogs Dataset | [Animals](../categories/animals.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [DomainDb Info](https://api.domainsdb.info) | Domain name search to find all domains containing particular words/phrases/etc | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Domainsdb.info](https://domainsdb.info) | Registered Domain Names Search | [Business](../categories/business.md) | `No` | Yes | No | No | 3/11 |
+| [DotaSense Timings](https://dotasense.com/cheat-sheet) | Reviewed Dota 2 objective timings in JSON and CSV | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [dotsweep](https://dotsweep.com/docs) | Domain availability across 1200+ TLDs with registration and renewal prices | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [DownStatus](https://isitdownstatus.com) | Real-time status for GitHub, AWS, Discord and 90+ services | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api) | Parse dreams into structured entities, emotions, agency, threat, and outcomes | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -251,6 +256,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Final Fantasy XIV](https://xivapi.com) | Final Fantasy XIV Game data API | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Final Space](https://finalspaceapi.com/docs) | Final Space API | [Video](../categories/video.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [FishWatch](https://www.fishwatch.gov/developers) | Information and pictures about individual fish species | [Animals](../categories/animals.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [flaky](https://flakyapi.dev) | Fake REST API with chaos controls: force any status code, add latency, or a failure rate | [Test Data](../categories/test-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Florida Man](https://github.com/juliayxhuang/florida-man-api) | Static JSON dataset of 10,000+ Florida Man headlines by date | [News](../categories/news.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [FOAAS](http://www.foaas.com) | Fuck Off As A Service | [Personality](../categories/personality.md) | `No` | No | Unknown | No | 2/11 |
 | [Food Standards Agency](http://ratings.food.gov.uk/open-data/en-GB) | UK food hygiene rating data API | [Government](../categories/government.md) | `No` | No | Unknown | No | 2/11 |
@@ -289,6 +295,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Geokeo](https://geokeo.com) | Geokeo geocoding service- with 2500 free api requests daily | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [GeoNames](http://www.geonames.org/export/web-services.html) | Place names and other geographical data | [Geocoding](../categories/geocoding.md) | `No` | No | Unknown | No | 2/11 |
 | [geoPlugin](https://www.geoplugin.com) | IP geolocation and currency conversion | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Get Started with Web3](https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md) | Bilingual Web3 lessons, glossary search and role-based learning paths | [Blockchain](../categories/blockchain.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Git.io](https://github.blog/2011-11-10-git-io-github-url-shortener) | Git.io URL shortener | [URL Shorteners](../categories/url-shorteners.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | Create an image of your GitHub contributions | [Open Source Projects](../categories/open-source-projects.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) | Add dynamically generated statistics to your GitHub profile ReadMe | [Open Source Projects](../categories/open-source-projects.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -333,6 +340,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Icanhazip](https://major.io/icanhazip-com-faq) | IP Address API | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Icelandic APIs](http://docs.apis.is) | Open APIs that deliver services in or regarding Iceland | [Transportation](../categories/transportation.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Icon Horse](https://icon.horse) | Favicons for any website, with fallbacks | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Iconify](https://iconify.design/docs/api) | Search and fetch SVG icons from 200+ open source icon sets | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Icons8](https://img.icons8.com) | Icons (find "search icon" hyperlink in page) | [Art & Design](../categories/art-and-design.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Access millions of museum specimens from organizations around the world | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -360,6 +368,7 @@ Catalog Auth field is No. Registration may still be required.
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [IPLogs](https://iplogs.com/docs) | Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing | [Security](../categories/security.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [IPMA](https://api.ipma.pt/open-data) | Portuguese weather and climate data | [Weather](../categories/weather.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [ipwhois](https://ipwhois.io/documentation) | IP geolocation with country, city, coordinates, ISP, timezone and flag data | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [IPWhois.net Blacklist](https://ipwhois.net/blacklist/docs) | Community IP blacklist to check and report abusive IP addresses | [Anti-Malware](../categories/anti-malware.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [isEven (humor)](https://isevenapi.xyz) | Check if a number is even | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [ISRO](https://isro.vercel.app) | ISRO Space Crafts Information | [Science & Math](../categories/science-and-math.md) | `No` | Yes | No | No | 3/11 |
@@ -377,6 +386,7 @@ Catalog Auth field is No. Registration may still be required.
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com) | Fake data for testing and prototyping | [Test Data](../categories/test-data.md) | `No` | No | Unknown | No | 2/11 |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Fake REST API for testing and prototyping | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [justmeme.wtf](https://justmeme.wtf/api-docs) | Free meme API with 2400+ templates, search, trending, and AI generation | [Entertainment](../categories/entertainment.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [kanari](https://kanari.io/en/api) | Real-time worldwide wildfire detections, water bomber tracking and open fire archive | [Environment](../categories/environment.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | [Personality](../categories/personality.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs) | KDP niche demand scores, competition analysis and revenue estimates | [Books](../categories/books.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Keyvalue](https://keyvalue.immanuel.co) | Simple key-value storage REST API for quick prototyping | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -392,6 +402,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Find verified legal specialists in Georgia from natural-language queries | [Business](../categories/business.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | [Text Analysis](../categories/text-analysis.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [License-API](https://github.com/cmccandless/license-api/blob/master/README.md) | Unofficial REST API for choosealicense.com | [Development](../categories/development.md) | `No` | Yes | No | No | 3/11 |
+| [LiquiLens](https://liquilens.in/developers) | Public-record bank and lender failure-risk evidence | [Finance](../categories/finance.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Localbitcoins](https://localbitcoins.com/api-docs) | P2P platform to buy and sell Bitcoins | [Cryptocurrency](../categories/cryptocurrency.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [LocalGov.jp](https://localgov.jp) | Japan grants and subsidies (central J-Grants + 1,916 municipalities) | [Government](../categories/government.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) | Public biological age competition data with biomarkers and rankings | [Health](../categories/health.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -531,6 +542,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | [Geocoding](../categories/geocoding.md) | `No` | Yes | No | No | 3/11 |
 | [Open Trivia](https://opentdb.com/api_config.php) | Trivia Questions | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Open-Meteo](https://open-meteo.com) | Global weather forecast API for non-commercial use | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | Weather ensemble forecasts from multiple models | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [openAFRICA](https://africaopendata.org) | Large datasets repository of African open data | [Open Data](../categories/open-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [OpenAlex](https://docs.openalex.org) | Open catalog of scholarly works, authors, institutions, sources, and concepts | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenF1](https://openf1.org) | Real-time and historical Formula 1 data including laps, car telemetry and positions | [Sports & Fitness](../categories/sports-and-fitness.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -542,6 +554,7 @@ Catalog Auth field is No. Registration may still be required.
 | [OpenVan](https://openvan.camp/docs) | Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel | [Transportation](../categories/transportation.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenVisionAPI](https://openvisionapi.com) | Open source computer vision API based on open source models | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | [Music](../categories/music.md) | `No` | Yes | No | No | 3/11 |
+| [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6) | Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [OutageDeck](https://outagedeck.com/developers/api) | Live status and incidents for 170+ cloud and SaaS providers from official feeds | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Owen Wilson Wow](https://owen-wilson-wow-api.herokuapp.com) | API for actor Owen Wilson's "wow" exclamations in movies | [Video](../categories/video.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [owo](https://owo.vc/api) | A simple link obfuscator/shortener | [URL Shorteners](../categories/url-shorteners.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -570,6 +583,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [PokéSprite](https://msikma.github.io/pokesprite) | Database of Pokémon sprites and icons | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Portfolio Optimizer](https://portfoliooptimizer.io) | Portfolio analysis and optimization | [Finance](../categories/finance.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [PostalCodes](https://postalcodes.info/api) | Postal code search, country exports, and address validation data | [Geocoding](../categories/geocoding.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | [Geocoding](../categories/geocoding.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -584,6 +598,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects | [Personality](../categories/personality.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [ProxyForge](https://proxyforge.dev) | Free auto-updating list of live-tested proxies (HTTP/HTTPS/SOCKS4/SOCKS5), refreshed every 6 h | [Development](../categories/development.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Psychonauts](https://psychonauts-api.netlify.app) | Psychonauts World Characters Information and PSI Powers | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [PublicDataHub](https://publicdatahub.org/api) | US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [PunkAPI](https://punkapi.com) | Brewdog Beer Recipes | [Food & Drink](../categories/food-and-drink.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [PurgoMalum](http://www.purgomalum.com) | Content validator against profanity & obscenity | [Data Validation](../categories/data-validation.md) | `No` | No | Unknown | No | 2/11 |
 | [Purple Air](https://www2.purpleair.com) | Real Time Air Quality Monitoring | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -615,6 +630,7 @@ Catalog Auth field is No. Registration may still be required.
 | [RandomFox](https://randomfox.ca/floof) | Random pictures of foxes | [Animals](../categories/animals.md) | `No` | Yes | No | No | 3/11 |
 | [RandomUser](https://randomuser.me) | Generates and list user data | [Test Data](../categories/test-data.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Razorpay IFSC](https://razorpay.com/docs) | Indian Financial Systems Code (Bank Branch Codes) | [Finance](../categories/finance.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Rblxdb](https://rblxdb.com/developers) | Verified Roblox music codes and decal IDs with live working status | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Customizable typing and deleting text SVG | [Photography](../categories/photography.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | [Transportation](../categories/transportation.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Remote Calc](https://github.com/elizabethadegbaju/remotecalc) | Decodes base64 encoding and parses it to return a solution to the calculation in JSON | [Science & Math](../categories/science-and-math.md) | `No` | Yes | Yes | Yes | 4/11 |
@@ -664,6 +680,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | Economic data for 218 countries — GDP, population, inflation, and 440+ indicators from IMF and World Bank | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Statlyte](https://statlyte.com/api) | Live pricing, context windows and model ids for major LLM APIs | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Internal Steam Web API documentation | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |
+| [SteamGPT](https://steamgpt.net) | Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Steem](https://developers.steem.io) | Blockchain-based blogging and social media website | [Blockchain](../categories/blockchain.md) | `No` | No | No | No | 2/11 |
 | [Stoicism Quote](https://github.com/tlcheah2/stoic-quote-lambda-public-api) | Quotes about Stoicism | [Personality](../categories/personality.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Strait of Hormuz Ship Monitor](https://hormuz.data-tracking.net/llms.txt) | Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz | [Transportation](../categories/transportation.md) | `No` | Yes | No | No | 3/11 |
@@ -707,6 +724,7 @@ Catalog Auth field is No. Registration may still be required.
 | [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai) | Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec | [Test Data](../categories/test-data.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [TourneyRadar](https://tourneyradar-api.vercel.app) | Upcoming chess tournaments from 140+ national federations worldwide | [Sports & Fitness](../categories/sports-and-fitness.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Trace Moe](https://soruly.github.io/trace.moe-api) | A useful tool to get the exact scene of an anime from a screenshot | [Anime](../categories/anime.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [TradeDataHub](https://www.tradedatahub.net) | U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews | [Business](../categories/business.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Traitify](https://app.traitify.com/developer) | Assess, collect and analyze Personality | [Personality](../categories/personality.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [TransitLand](https://www.transit.land/documentation/datastore/api-endpoints.html) | Transit Aggregation | [Transportation](../categories/transportation.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Transport for Atlanta, US](http://www.itsmarta.com/app-developer-resources.aspx) | Marta | [Transportation](../categories/transportation.md) | `No` | No | Unknown | No | 2/11 |
@@ -757,6 +775,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Vector Express v2.0](https://vector.express) | Free vector file converting API | [Documents & Productivity](../categories/documents-and-productivity.md) | `No` | Yes | No | No | 3/11 |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | [Transportation](../categories/transportation.md) | `No` | Yes | No | No | 3/11 |
 | [Verome](https://github.com/Kirazul/Verome-API) | Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm | [Music](../categories/music.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Vett](https://wimberly.solutions/api/free-sanctions-check) | Screen names & companies against OFAC, PEP, watchlists & recalls | [Government](../categories/government.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [ViaCep](https://viacep.com.br) | Brazil RESTful zip codes API | [Geocoding](../categories/geocoding.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Virushee](https://api.virushee.com) | Virushee file/data scanning | [Security](../categories/security.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Voidly](https://voidly.ai/api-docs) | Internet censorship measurements, incidents, and ISP-level blocking data across 126 countries | [Open Data](../categories/open-data.md) | `No` | Yes | No | No | 3/11 |
@@ -766,8 +785,10 @@ Catalog Auth field is No. Registration may still be required.
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api) | WallstreetBets Stock Comments Sentiment Analysis | [Finance](../categories/finance.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Walltime](https://walltime.info/api.html) | To retrieve Walltime's market info | [Blockchain](../categories/blockchain.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) | Code compiler supporting 35+ languages mentioned at wandbox.org | [Development](../categories/development.md) | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Wander Atlas](https://wanderatlasguides.com/api) | Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries | [Transportation](../categories/transportation.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |
 | [Warnely](https://warnely.com/developers) | Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live incident wire), OpenAPI 3.1 spec, CC BY 4.0 | [Open Data](../categories/open-data.md) | `No` | Yes | Yes | Yes | 4/11 |
+| [WattFigure](https://api.wattfigure.com) | US electricity rates by state, with appliance and EV charging running costs | [Environment](../categories/environment.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [weather-api](https://github.com/robertoduessmann/weather-api) | A RESTful free API to check the weather | [Weather](../categories/weather.md) | `No` | Yes | No | No | 3/11 |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | [Video](../categories/video.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Website Carbon](https://api.websitecarbon.com) | API to estimate the carbon footprint of loading web pages | [Environment](../categories/environment.md) | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -780,6 +801,7 @@ Catalog Auth field is No. Registration may still be required.
 | [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Get information from the Harry Potter universe | [Books](../categories/books.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [Wolne Lektury](https://wolnelektury.pl/api) | API for obtaining information about e-books available on the WolneLektury.pl website | [Books](../categories/books.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | World Data | [Science & Math](../categories/science-and-math.md) | `No` | Yes | No | No | 3/11 |
+| [World Time & Weather](https://worldtimeweather.com/api.html) | Current weather, local time, UTC offset and DST rules for 400 cities as static JSON | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [wttr.in](https://wttr.in/:help) | Weather in your terminal, supports JSON output | [Weather](../categories/weather.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [xeno-canto](https://xeno-canto.org/explore/api) | Bird recordings | [Animals](../categories/animals.md) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | [Games & Comics](../categories/games-and-comics.md) | `No` | Yes | No | No | 3/11 |

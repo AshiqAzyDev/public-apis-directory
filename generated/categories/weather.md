@@ -4,21 +4,21 @@
 
 APIs related to weather forecasts, observations, and climate.
 
-**36 APIs** in this category.
+**38 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 14 |
+| Authentication | No | 16 |
 | Authentication | apiKey | 20 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 33 |
+| HTTPS | Yes | 35 |
 | HTTPS | No | 3 |
-| CORS | Yes | 13 |
+| CORS | Yes | 15 |
 | CORS | No | 3 |
 | CORS | Unknown | 20 |
-| Browser ready | Yes | 13 |
+| Browser ready | Yes | 15 |
 
 ## Quick filters
 
@@ -50,6 +50,7 @@ APIs related to weather forecasts, observations, and climate.
 | [ODWeather](http://api.oceandrivers.com/static/docs.html) | Weather and weather webcams | `No` | No | Unknown | No | 2/11 |
 | [Oikolab](https://docs.oikolab.com) | 70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Open-Meteo](https://open-meteo.com) | Global weather forecast API for non-commercial use | `No` | Yes | Yes | Yes | 4/11 |
+| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | Weather ensemble forecasts from multiple models | `No` | Yes | Yes | Yes | 4/11 |
 | [openSenseMap](https://api.opensensemap.org) | Data from Personal Weather Stations called senseBoxes | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenUV](https://www.openuv.io) | Real-time UV Index Forecast | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [OpenWeatherMap](https://openweathermap.org/api) | Weather | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -65,6 +66,7 @@ APIs related to weather forecasts, observations, and climate.
 | [WeatherAPI](https://www.weatherapi.com) | Weather API with other stuff like Astronomy and Geolocation API | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Weatherstack](https://weatherstack.com) | Real-Time & Historical World Weather Data API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [World Time & Weather](https://worldtimeweather.com/api.html) | Current weather, local time, UTC offset and DST rules for 400 cities as static JSON | `No` | Yes | Yes | Yes | 4/11 |
 | [wttr.in](https://wttr.in/:help) | Weather in your terminal, supports JSON output | `No` | Yes | Yes | Yes | 4/11 |
 | [Yandex.Weather](https://yandex.com/dev/weather) | Assesses weather condition in specific locations | `apiKey` | Yes | No | No | 1/11 |
 

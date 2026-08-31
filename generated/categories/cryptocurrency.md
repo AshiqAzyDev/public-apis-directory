@@ -4,21 +4,21 @@
 
 APIs related to crypto markets, assets, and chain explorers.
 
-**77 APIs** in this category.
+**78 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 30 |
+| Authentication | No | 31 |
 | Authentication | apiKey | 47 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 76 |
+| HTTPS | Yes | 77 |
 | HTTPS | No | 1 |
-| CORS | Yes | 19 |
+| CORS | Yes | 20 |
 | CORS | No | 3 |
 | CORS | Unknown | 55 |
-| Browser ready | Yes | 18 |
+| Browser ready | Yes | 19 |
 
 ## Quick filters
 
@@ -50,6 +50,7 @@ APIs related to crypto markets, assets, and chain explorers.
 | [Blockchain](https://www.blockchain.com/api) | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [blockfrost Cardano](https://blockfrost.io) | Interaction with the Cardano mainnet and several testnets | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Brave NewCoin](https://bravenewcoin.com/developers) | Real-time and historic crypto data from more than 200+ exchanges | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [BTCGlobe](https://btcglobe.live/join) | Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes | `No` | Yes | Yes | Yes | 4/11 |
 | [btcnode.uk](https://btcnode.uk) | Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints. | `No` | Yes | Unknown | Unknown | 3/11 |
 | [BtcTurk](https://docs.btcturk.com) | Real-time cryptocurrency data, graphs and API that allows buy&sell | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Bybit](https://bybit-exchange.github.io/docs/linear) | Cryptocurrency data feed and algorithmic trading | `apiKey` | Yes | Unknown | Unknown | 1/11 |

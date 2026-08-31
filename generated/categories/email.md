@@ -4,21 +4,21 @@
 
 APIs related to sending, receiving, or inspecting email.
 
-**22 APIs** in this category.
+**24 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 9 |
-| Authentication | apiKey | 13 |
+| Authentication | apiKey | 15 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 22 |
+| HTTPS | Yes | 24 |
 | HTTPS | No | 0 |
-| CORS | Yes | 11 |
+| CORS | Yes | 12 |
 | CORS | No | 1 |
-| CORS | Unknown | 10 |
-| Browser ready | Yes | 11 |
+| CORS | Unknown | 11 |
+| Browser ready | Yes | 12 |
 
 ## Quick filters
 
@@ -52,6 +52,8 @@ APIs related to sending, receiving, or inspecting email.
 | [PostStack](https://poststack.dev/docs) | EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics | `apiKey` | Yes | No | No | 1/11 |
 | [Sendgrid](https://docs.sendgrid.com/api-reference) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [SMTPfast](https://smtpfa.st/docs) | Send transactional email, manage contacts and broadcasts, free 3,000 emails/month | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [uchecker](https://api.uchecker.net/docs) | Bulk email verification with full SMTP server responses | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Verifier](https://verifier.meetchopra.com/docs) | Verifies that a given email is real | `apiKey` | Yes | Yes | Yes | 2/11 |
 
 **Related categories:** [Business](business.md), [Data Validation](data-validation.md)

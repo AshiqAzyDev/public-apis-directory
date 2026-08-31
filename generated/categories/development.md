@@ -4,21 +4,21 @@
 
 APIs related to software development, testing utilities, and developer tooling.
 
-**147 APIs** in this category.
+**151 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 67 |
-| Authentication | apiKey | 65 |
+| Authentication | No | 69 |
+| Authentication | apiKey | 67 |
 | Authentication | OAuth | 14 |
-| HTTPS | Yes | 145 |
+| HTTPS | Yes | 149 |
 | HTTPS | No | 2 |
-| CORS | Yes | 73 |
-| CORS | No | 10 |
-| CORS | Unknown | 64 |
-| Browser ready | Yes | 73 |
+| CORS | Yes | 74 |
+| CORS | No | 11 |
+| CORS | Unknown | 66 |
+| Browser ready | Yes | 74 |
 
 ## Quick filters
 
@@ -39,6 +39,7 @@ APIs related to software development, testing utilities, and developer tooling.
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | `No` | Yes | Yes | Yes | 4/11 |
 | [ApiFlash](https://apiflash.com) | Chrome based screenshot API for developers | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [APIs.guru](https://apis.guru/api-doc) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | Live GPU rental prices and availability across nine cloud providers | `No` | Yes | No | No | 3/11 |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Base](https://www.base-api.io) | Building quick backends | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Beeceptor](https://beeceptor.com) | Build a mock Rest API endpoint in seconds | `No` | Yes | Yes | Yes | 4/11 |
@@ -46,7 +47,7 @@ APIs related to software development, testing utilities, and developer tooling.
 | [Blague.xyz](https://blague.xyz) | La plus grande API de Blagues FR/The biggest FR jokes API | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Blitapp](https://blitapp.com/api) | Schedule screenshots of web pages and sync them to your cloud | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io) | Control IoT Devices from Blynk IoT Cloud | `apiKey` | No | Unknown | No | 0/11 |
-| [Bored](https://www.boredapi.com) | Find random activities to fight boredom | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Bored](https://bored-api.appbrewery.com) | Find random activities to fight boredom | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Brainshop.ai](https://brainshop.ai) | Make A Free A.I Brain | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [BrewPage](https://brewpage.app) | Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention | `No` | Yes | No | No | 3/11 |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -114,6 +115,7 @@ APIs related to software development, testing utilities, and developer tooling.
 | [Lua Decompiler](https://lua-decompiler.ferib.dev) | Online Lua 5.1 Decompiler | `No` | Yes | Yes | Yes | 4/11 |
 | [MAC address vendor lookup](https://macaddress.io/api) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Micro DB](https://m3o.com/db) | Simple database service | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json) | 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [MicroENV](https://microenv.com) | Fake Rest API for developers | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Mocky](https://designer.mocky.io) | Mock user defined test JSON for REST API endpoints | `No` | Yes | Yes | Yes | 4/11 |
 | [MY IP](https://www.myip.com/api-docs) | Get IP address information | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -127,6 +129,7 @@ APIs related to software development, testing utilities, and developer tooling.
 | [OpenAPIHub](https://hub.openapihub.com) | The All-in-one API Platform | `X-Mashape-Key` | Yes | Unknown | Unknown | 1/11 |
 | [OpenGraphr](https://opengraphr.com/docs/1.0/overview) | Really simple API to retrieve Open Graph data from an URL | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [OpenQR](https://openqr.uk/api) | Generate QR codes and manage dynamic (editable) QR codes with scan analytics | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6) | Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF | `No` | Yes | Yes | Yes | 4/11 |
 | [OutageDeck](https://outagedeck.com/developers/api) | Live status and incidents for 170+ cloud and SaaS providers from official feeds | `No` | Yes | Yes | Yes | 4/11 |
 | [oyyi](https://oyyi.xyz/docs/1.0) | API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation | `No` | Yes | Yes | Yes | 4/11 |
 | [PageCDN](https://pagecdn.com/docs/public-api) | Public API for javascript, css and font libraries on PageCDN | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -153,6 +156,7 @@ APIs related to software development, testing utilities, and developer tooling.
 | [scrapestack](https://scrapestack.com) | Real-time, Scalable Proxy & Web Scraping REST API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ScrapingDog](https://www.scrapingdog.com) | Proxy API for Web scraping | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Scrax](https://rapidapi.com/mtaahoperators/api/scrax) | Web scraping API that only bills for successful scrapes | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ScreenshotAPI.net](https://screenshotapi.net) | Create pixel-perfect website screenshots | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Serialif Color](https://color.serialif.com) | Color conversion, complementary, grayscale and contrasted text | `No` | Yes | No | No | 3/11 |

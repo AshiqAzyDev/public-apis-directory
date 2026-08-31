@@ -4,21 +4,21 @@
 
 APIs related to images, design assets, and creative tooling.
 
-**23 APIs** in this category.
+**24 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 11 |
+| Authentication | No | 12 |
 | Authentication | apiKey | 10 |
 | Authentication | OAuth | 2 |
-| HTTPS | Yes | 19 |
+| HTTPS | Yes | 20 |
 | HTTPS | No | 4 |
-| CORS | Yes | 8 |
+| CORS | Yes | 9 |
 | CORS | No | 2 |
 | CORS | Unknown | 13 |
-| Browser ready | Yes | 8 |
+| Browser ready | Yes | 9 |
 
 ## Quick filters
 
@@ -43,6 +43,7 @@ APIs related to images, design assets, and creative tooling.
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art | `apiKey` | No | Unknown | No | 0/11 |
 | [Icon Horse](https://icon.horse) | Favicons for any website, with fallbacks | `No` | Yes | Yes | Yes | 4/11 |
 | [Iconfinder](https://developer.iconfinder.com) | Icons | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Iconify](https://iconify.design/docs/api) | Search and fetch SVG icons from 200+ open source icon sets | `No` | Yes | Yes | Yes | 4/11 |
 | [Icons8](https://img.icons8.com) | Icons (find "search icon" hyperlink in page) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Lordicon](https://lordicon.com) | Icons with predone Animations | `No` | Yes | Yes | Yes | 4/11 |
 | [Metropolitan Museum of Art](https://metmuseum.github.io) | Met Museum of Art | `No` | Yes | No | No | 3/11 |

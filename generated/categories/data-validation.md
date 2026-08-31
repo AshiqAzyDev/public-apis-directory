@@ -4,21 +4,21 @@
 
 APIs related to validating emails, phones, VAT numbers, and similar inputs.
 
-**8 APIs** in this category.
+**10 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 2 |
-| Authentication | apiKey | 6 |
+| Authentication | apiKey | 8 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 7 |
+| HTTPS | Yes | 9 |
 | HTTPS | No | 1 |
-| CORS | Yes | 3 |
+| CORS | Yes | 5 |
 | CORS | No | 0 |
 | CORS | Unknown | 5 |
-| Browser ready | Yes | 3 |
+| Browser ready | Yes | 5 |
 
 ## Quick filters
 
@@ -31,10 +31,12 @@ APIs related to validating emails, phones, VAT numbers, and similar inputs.
 
 | API | Description | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Attestwire](https://api.attestwire.com/docs) | Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Lob.com](https://lob.com) | US Address Verification | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Postman Echo](https://www.postman-echo.com) | Test api server to receive and return value from HTTP method | `No` | Yes | Unknown | Unknown | 3/11 |
 | [PurgoMalum](http://www.purgomalum.com) | Content validator against profanity & obscenity | `No` | No | Unknown | No | 2/11 |
 | [SchemaShield](https://rapidapi.com/kaiasistentedavid/api/schema-change-risk) | Read-only preflight for breaking schema changes and downstream query impact | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Temsor](https://api.temsor.com/docs) | Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [US Autocomplete](https://www.smarty.com/docs/cloud/us-autocomplete-pro-api) | Enter address data quickly with real-time address suggestions | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api) | Extract postal addresses from any text including emails | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | `apiKey` | Yes | Yes | Yes | 2/11 |

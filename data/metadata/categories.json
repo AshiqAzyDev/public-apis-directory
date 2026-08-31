@@ -45,16 +45,16 @@
     {
       "name": "Art & Design",
       "slug": "art-and-design",
-      "count": 23,
+      "count": 24,
       "description": "APIs related to images, design assets, and creative tooling.",
       "related": [
         "Photography",
         "Entertainment"
       ],
-      "no_auth": 11,
-      "https_yes": 19,
-      "cors_yes": 8,
-      "browser_ready": 8
+      "no_auth": 12,
+      "https_yes": 20,
+      "cors_yes": 9,
+      "browser_ready": 9
     },
     {
       "name": "Authentication & Authorization",
@@ -73,16 +73,16 @@
     {
       "name": "Blockchain",
       "slug": "blockchain",
-      "count": 14,
+      "count": 15,
       "description": "APIs related to blockchain networks and on-chain data.",
       "related": [
         "Cryptocurrency",
         "Finance"
       ],
-      "no_auth": 7,
-      "https_yes": 13,
-      "cors_yes": 4,
-      "browser_ready": 4
+      "no_auth": 8,
+      "https_yes": 14,
+      "cors_yes": 5,
+      "browser_ready": 5
     },
     {
       "name": "Books",
@@ -101,16 +101,16 @@
     {
       "name": "Business",
       "slug": "business",
-      "count": 30,
+      "count": 32,
       "description": "APIs related to company data, business lookups, and commercial datasets.",
       "related": [
         "Finance",
         "Jobs"
       ],
-      "no_auth": 9,
-      "https_yes": 28,
-      "cors_yes": 7,
-      "browser_ready": 7
+      "no_auth": 10,
+      "https_yes": 30,
+      "cors_yes": 8,
+      "browser_ready": 8
     },
     {
       "name": "Calendar",
@@ -157,58 +157,58 @@
     {
       "name": "Cryptocurrency",
       "slug": "cryptocurrency",
-      "count": 77,
+      "count": 78,
       "description": "APIs related to crypto markets, assets, and chain explorers.",
       "related": [
         "Blockchain",
         "Finance"
       ],
-      "no_auth": 30,
-      "https_yes": 76,
-      "cors_yes": 19,
-      "browser_ready": 18
+      "no_auth": 31,
+      "https_yes": 77,
+      "cors_yes": 20,
+      "browser_ready": 19
     },
     {
       "name": "Currency Exchange",
       "slug": "currency-exchange",
-      "count": 20,
+      "count": 21,
       "description": "APIs related to foreign-exchange rates and currency conversion.",
       "related": [
         "Finance",
         "Cryptocurrency"
       ],
       "no_auth": 11,
-      "https_yes": 19,
-      "cors_yes": 9,
-      "browser_ready": 9
+      "https_yes": 20,
+      "cors_yes": 10,
+      "browser_ready": 10
     },
     {
       "name": "Data Validation",
       "slug": "data-validation",
-      "count": 8,
+      "count": 10,
       "description": "APIs related to validating emails, phones, VAT numbers, and similar inputs.",
       "related": [
         "Development",
         "Phone"
       ],
       "no_auth": 2,
-      "https_yes": 7,
-      "cors_yes": 3,
-      "browser_ready": 3
+      "https_yes": 9,
+      "cors_yes": 5,
+      "browser_ready": 5
     },
     {
       "name": "Development",
       "slug": "development",
-      "count": 147,
+      "count": 151,
       "description": "APIs related to software development, testing utilities, and developer tooling.",
       "related": [
         "Programming",
         "Continuous Integration"
       ],
-      "no_auth": 67,
-      "https_yes": 145,
-      "cors_yes": 73,
-      "browser_ready": 73
+      "no_auth": 69,
+      "https_yes": 149,
+      "cors_yes": 74,
+      "browser_ready": 74
     },
     {
       "name": "Dictionaries",
@@ -241,16 +241,16 @@
     {
       "name": "Email",
       "slug": "email",
-      "count": 22,
+      "count": 24,
       "description": "APIs related to sending, receiving, or inspecting email.",
       "related": [
         "Business",
         "Data Validation"
       ],
       "no_auth": 9,
-      "https_yes": 22,
-      "cors_yes": 11,
-      "browser_ready": 11
+      "https_yes": 24,
+      "cors_yes": 12,
+      "browser_ready": 12
     },
     {
       "name": "Entertainment",
@@ -269,16 +269,16 @@
     {
       "name": "Environment",
       "slug": "environment",
-      "count": 19,
+      "count": 21,
       "description": "APIs related to environment, climate, and natural-world measurements.",
       "related": [
         "Weather",
         "Science & Math"
       ],
-      "no_auth": 9,
-      "https_yes": 17,
-      "cors_yes": 4,
-      "browser_ready": 3
+      "no_auth": 11,
+      "https_yes": 19,
+      "cors_yes": 6,
+      "browser_ready": 5
     },
     {
       "name": "Events",
@@ -297,16 +297,16 @@
     {
       "name": "Finance",
       "slug": "finance",
-      "count": 60,
+      "count": 64,
       "description": "APIs related to markets, banking-style datasets, and financial references.",
       "related": [
         "Business",
         "Currency Exchange"
       ],
-      "no_auth": 12,
-      "https_yes": 59,
-      "cors_yes": 25,
-      "browser_ready": 25
+      "no_auth": 13,
+      "https_yes": 63,
+      "cors_yes": 27,
+      "browser_ready": 27
     },
     {
       "name": "Food & Drink",
@@ -325,44 +325,44 @@
     {
       "name": "Games & Comics",
       "slug": "games-and-comics",
-      "count": 98,
+      "count": 102,
       "description": "APIs related to games, comics, and related media metadata.",
       "related": [
         "Entertainment",
         "Video"
       ],
-      "no_auth": 64,
-      "https_yes": 93,
-      "cors_yes": 34,
-      "browser_ready": 34
+      "no_auth": 68,
+      "https_yes": 97,
+      "cors_yes": 38,
+      "browser_ready": 38
     },
     {
       "name": "Geocoding",
       "slug": "geocoding",
-      "count": 93,
+      "count": 94,
       "description": "APIs related to coordinates, addresses, IP location, and maps.",
       "related": [
         "Transportation",
         "Open Data"
       ],
-      "no_auth": 46,
-      "https_yes": 86,
-      "cors_yes": 32,
-      "browser_ready": 32
+      "no_auth": 47,
+      "https_yes": 87,
+      "cors_yes": 33,
+      "browser_ready": 33
     },
     {
       "name": "Government",
       "slug": "government",
-      "count": 101,
+      "count": 103,
       "description": "APIs published by or about government and public-sector datasets.",
       "related": [
         "Open Data",
         "Science & Math"
       ],
-      "no_auth": 76,
-      "https_yes": 92,
-      "cors_yes": 16,
-      "browser_ready": 16
+      "no_auth": 77,
+      "https_yes": 94,
+      "cors_yes": 18,
+      "browser_ready": 18
     },
     {
       "name": "Health",
@@ -395,14 +395,14 @@
     {
       "name": "Machine Learning",
       "slug": "machine-learning",
-      "count": 34,
+      "count": 35,
       "description": "APIs related to machine learning, models, and ML datasets.",
       "related": [
         "Text Analysis",
         "Science & Math"
       ],
       "no_auth": 8,
-      "https_yes": 34,
+      "https_yes": 35,
       "cors_yes": 20,
       "browser_ready": 20
     },
@@ -437,16 +437,16 @@
     {
       "name": "Open Data",
       "slug": "open-data",
-      "count": 51,
+      "count": 53,
       "description": "APIs related to open datasets and public data portals.",
       "related": [
         "Government",
         "Science & Math"
       ],
-      "no_auth": 30,
-      "https_yes": 48,
-      "cors_yes": 18,
-      "browser_ready": 18
+      "no_auth": 32,
+      "https_yes": 50,
+      "cors_yes": 20,
+      "browser_ready": 20
     },
     {
       "name": "Open Source Projects",
@@ -507,16 +507,16 @@
     {
       "name": "Photography",
       "slug": "photography",
-      "count": 30,
+      "count": 31,
       "description": "APIs related to photographs and image sources.",
       "related": [
         "Art & Design",
         "Video"
       ],
       "no_auth": 6,
-      "https_yes": 29,
-      "cors_yes": 6,
-      "browser_ready": 6
+      "https_yes": 30,
+      "cors_yes": 7,
+      "browser_ready": 7
     },
     {
       "name": "Programming",
@@ -549,72 +549,72 @@
     {
       "name": "Security",
       "slug": "security",
-      "count": 45,
+      "count": 46,
       "description": "APIs related to security research, scanning, and defensive tooling.",
       "related": [
         "Anti-Malware",
         "Authentication & Authorization"
       ],
-      "no_auth": 17,
-      "https_yes": 45,
-      "cors_yes": 12,
-      "browser_ready": 12
+      "no_auth": 18,
+      "https_yes": 46,
+      "cors_yes": 13,
+      "browser_ready": 13
     },
     {
       "name": "Shopping",
       "slug": "shopping",
-      "count": 17,
+      "count": 18,
       "description": "APIs related to products, e-commerce catalogs, and shopping data.",
       "related": [
         "Business",
         "Finance"
       ],
       "no_auth": 1,
-      "https_yes": 17,
+      "https_yes": 18,
       "cors_yes": 4,
       "browser_ready": 4
     },
     {
       "name": "Social",
       "slug": "social",
-      "count": 50,
+      "count": 51,
       "description": "APIs related to social networks and social content.",
       "related": [
         "News",
         "Personality"
       ],
       "no_auth": 9,
-      "https_yes": 50,
-      "cors_yes": 7,
-      "browser_ready": 7
+      "https_yes": 51,
+      "cors_yes": 8,
+      "browser_ready": 8
     },
     {
       "name": "Sports & Fitness",
       "slug": "sports-and-fitness",
-      "count": 45,
+      "count": 47,
       "description": "APIs related to sports results, teams, and fitness data.",
       "related": [
         "Health",
         "Entertainment"
       ],
       "no_auth": 21,
-      "https_yes": 43,
-      "cors_yes": 18,
-      "browser_ready": 18
+      "https_yes": 45,
+      "cors_yes": 20,
+      "browser_ready": 20
     },
     {
       "name": "Test Data",
       "slug": "test-data",
-      "count": 29,
+      "count": 30,
       "description": "APIs that provide fake or sample data for tests and prototypes.",
       "related": [
         "Development",
         "Data Validation"
       ],
-      "no_auth": 24,
-      "https_yes": 25,
-      "cors_yes": 8,
-      "browser_ready": 7
+      "no_auth": 25,
+      "https_yes": 26,
+      "cors_yes": 9,
+      "browser_ready": 8
     },
     {
       "name": "Text Analysis",
@@ -647,16 +647,16 @@
     {
       "name": "Transportation",
       "slug": "transportation",
-      "count": 77,
+      "count": 78,
       "description": "APIs related to transit, travel, and transport networks.",
       "related": [
         "Geocoding",
         "Tracking"
       ],
-      "no_auth": 36,
-      "https_yes": 62,
-      "cors_yes": 12,
-      "browser_ready": 12
+      "no_auth": 37,
+      "https_yes": 63,
+      "cors_yes": 13,
+      "browser_ready": 13
     },
     {
       "name": "URL Shorteners",
@@ -689,30 +689,30 @@
     {
       "name": "Video",
       "slug": "video",
-      "count": 45,
+      "count": 48,
       "description": "APIs related to video platforms, movies, and TV metadata.",
       "related": [
         "Entertainment",
         "Photography"
       ],
       "no_auth": 28,
-      "https_yes": 41,
+      "https_yes": 44,
       "cors_yes": 14,
       "browser_ready": 14
     },
     {
       "name": "Weather",
       "slug": "weather",
-      "count": 36,
+      "count": 38,
       "description": "APIs related to weather forecasts, observations, and climate.",
       "related": [
         "Environment",
         "Science & Math"
       ],
-      "no_auth": 14,
-      "https_yes": 33,
-      "cors_yes": 13,
-      "browser_ready": 13
+      "no_auth": 16,
+      "https_yes": 35,
+      "cors_yes": 15,
+      "browser_ready": 15
     }
   ]
 }

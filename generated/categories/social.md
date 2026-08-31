@@ -4,21 +4,21 @@
 
 APIs related to social networks and social content.
 
-**50 APIs** in this category.
+**51 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 9 |
-| Authentication | apiKey | 16 |
+| Authentication | apiKey | 17 |
 | Authentication | OAuth | 25 |
-| HTTPS | Yes | 50 |
+| HTTPS | Yes | 51 |
 | HTTPS | No | 0 |
-| CORS | Yes | 7 |
+| CORS | Yes | 8 |
 | CORS | No | 6 |
 | CORS | Unknown | 37 |
-| Browser ready | Yes | 7 |
+| Browser ready | Yes | 8 |
 
 ## Quick filters
 
@@ -66,6 +66,7 @@ APIs related to social networks and social content.
 | [Revolt](https://developers.revolt.chat/api) | Revolt open source Discord alternative | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Saidit](https://www.saidit.net/dev/api) | Open Source Reddit Clone | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Slack](https://api.slack.com) | Team Instant Messaging | `OAuth` | Yes | Unknown | Unknown | 1/11 |
+| [SocialCrawl](https://www.socialcrawl.dev/docs) | Social and commerce data from 50+ platforms in one JSON schema | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site) | Turn articles into ready-to-post X thread drafts with different hooks | `apiKey` | Yes | No | No | 1/11 |
 | [TamTam](https://dev.tamtam.chat) | Bot API to interact with TamTam | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | `apiKey` | Yes | Unknown | Unknown | 1/11 |

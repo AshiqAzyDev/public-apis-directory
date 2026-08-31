@@ -4,21 +4,21 @@
 
 APIs related to open datasets and public data portals.
 
-**51 APIs** in this category.
+**53 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 30 |
+| Authentication | No | 32 |
 | Authentication | apiKey | 17 |
 | Authentication | OAuth | 4 |
-| HTTPS | Yes | 48 |
+| HTTPS | Yes | 50 |
 | HTTPS | No | 3 |
-| CORS | Yes | 18 |
+| CORS | Yes | 20 |
 | CORS | No | 5 |
 | CORS | Unknown | 28 |
-| Browser ready | Yes | 18 |
+| Browser ready | Yes | 20 |
 
 ## Quick filters
 
@@ -40,6 +40,7 @@ APIs related to open datasets and public data portals.
 | [Callook.info](https://callook.info) | United States ham radio callsigns | `No` | Yes | Unknown | Unknown | 3/11 |
 | [CARTO](https://carto.com) | Location Information Prediction | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data) | Data on higher education institutions in the United States | `No` | Yes | Unknown | Unknown | 3/11 |
+| [CuttingToolsAI](https://cuttingtoolsai.eu/api) | Cross-brand carbide insert grade equivalents by ISO application class | `No` | Yes | Yes | Yes | 4/11 |
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EOSL](https://eosl.ai/api) | Hardware end-of-sale and end-of-service-life dates by part number, source-linked | `No` | Yes | Yes | Yes | 4/11 |
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Address search via the French Government | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -65,6 +66,7 @@ APIs related to open datasets and public data portals.
 | [OpenSanctions](https://www.opensanctions.org/docs/api) | Data on international sanctions, crime and politically exposed persons | `No` | Yes | Yes | Yes | 4/11 |
 | [Pan Africa Data](https://panafricadata.com) | Macroeconomic and subnational income distribution data for all 54 African countries | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | News articles and public datasets | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [PublicDataHub](https://publicdatahub.org/api) | US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance | `No` | Yes | Yes | Yes | 4/11 |
 | [Recreation Information Database](https://ridb.recreation.gov) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Registrum](https://api.registrum.co.uk/docs) | UK company data: profiles, directors, PSC, iXBRL-parsed financials, ECCTA status | `apiKey` | Yes | No | No | 1/11 |
 | [Scoop.it](http://www.scoop.it/dev) | Content Curation Service | `apiKey` | No | Unknown | No | 0/11 |

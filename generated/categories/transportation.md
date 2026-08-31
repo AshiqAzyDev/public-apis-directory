@@ -4,21 +4,21 @@
 
 APIs related to transit, travel, and transport networks.
 
-**77 APIs** in this category.
+**78 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 36 |
+| Authentication | No | 37 |
 | Authentication | apiKey | 32 |
 | Authentication | OAuth | 9 |
-| HTTPS | Yes | 62 |
+| HTTPS | Yes | 63 |
 | HTTPS | No | 15 |
-| CORS | Yes | 12 |
+| CORS | Yes | 13 |
 | CORS | No | 8 |
 | CORS | Unknown | 57 |
-| Browser ready | Yes | 12 |
+| Browser ready | Yes | 13 |
 
 ## Quick filters
 
@@ -108,6 +108,7 @@ APIs related to transit, travel, and transport networks.
 | [Tripadvisor](https://developer-tripadvisor.com/home) | Rating content for a hotel, restaurant, attraction or destination | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | `No` | Yes | No | No | 3/11 |
+| [Wander Atlas](https://wanderatlasguides.com/api) | Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries | `No` | Yes | Yes | Yes | 4/11 |
 
 **Related categories:** [Geocoding](geocoding.md), [Tracking](tracking.md)
 

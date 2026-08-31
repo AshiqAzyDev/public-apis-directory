@@ -4,21 +4,21 @@
 
 APIs related to sports results, teams, and fitness data.
 
-**45 APIs** in this category.
+**47 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 21 |
-| Authentication | apiKey | 19 |
+| Authentication | apiKey | 21 |
 | Authentication | OAuth | 3 |
-| HTTPS | Yes | 43 |
+| HTTPS | Yes | 45 |
 | HTTPS | No | 2 |
-| CORS | Yes | 18 |
+| CORS | Yes | 20 |
 | CORS | No | 4 |
 | CORS | Unknown | 23 |
-| Browser ready | Yes | 18 |
+| Browser ready | Yes | 20 |
 
 ## Quick filters
 
@@ -31,6 +31,7 @@ APIs related to sports results, teams, and fitness data.
 
 | API | Description | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- |
+| [5DollarFootball](https://5dollarfootballapi.com) | Football fixtures, results, standings and historical odds with corner and card lines | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Get information about Football Leagues & Cups | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [ApiMedic](https://apimedic.com) | ApiMedic offers a medical symptom checker API primarily for patients | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie provides access to stats data from the NBA | `No` | Yes | Yes | Yes | 4/11 |
@@ -44,6 +45,7 @@ APIs related to sports results, teams, and fitness data.
 | [Fitbit](https://dev.fitbit.com) | Fitbit Information | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98) | A simple Open Source Football API to get squads’ stats, best scorers and more | `X-Mashape-Key` | Yes | Unknown | Unknown | 1/11 |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | `No` | Yes | Yes | Yes | 4/11 |
+| [Football Charts](https://www.football-charts.com/developers) | Tables, results, model probabilities and Monte Carlo season projections for 93 leagues | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | `No` | Yes | Yes | Yes | 4/11 |
 | [Football-Data](https://www.football-data.org) | Football data with matches info, players, teams, and competitions | `X-Mashape-Key` | Yes | Unknown | Unknown | 1/11 |
 | [JCDecaux Bike](https://developer.jcdecaux.com) | JCDecaux's self-service bicycles | `apiKey` | Yes | Unknown | Unknown | 1/11 |

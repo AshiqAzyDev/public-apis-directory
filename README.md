@@ -123,7 +123,7 @@ Key paths:
 | --- | --- |
 | Generated | 2026-08-14 |
 | Catalog build | `4f6e03b` |
-| Last link check | Not run |
+| Last link check | 2026-09-05T09:56:44+00:00 |
 | Last enrichment | 2026-08-14 |
 
 Catalog build `4f6e03b` is recorded at generation time so every export stays auditable.
@@ -149,9 +149,9 @@ Full counts from the normalized dataset. Verified enrichment fields remain `Unkn
 | OpenAPI APIs (verified) | 0 |
 | Postman APIs (verified) | 0 |
 | Verified APIs | 0 |
-| Pending full verification | 1621 |
+| Pending full verification | 359 |
 | Unknown enrichment fields | Most enrichment fields are Unknown until verified |
-| Broken links (last check) | 0 |
+| Broken links (last check) | 348 |
 | Possible duplicate pairs | 24 |
 
 ## Category explorer
@@ -293,7 +293,7 @@ A transparent, optional signal. Unknown fields contribute 0. This is **not** a p
 
 | Health metric | Count |
 | --- | --- |
-| Broken links (last check) | 0 |
+| Broken links (last check) | 348 |
 | Dead (3 consecutive failures) | 0 |
 | Needs review (possible duplicates) | 48 |
 

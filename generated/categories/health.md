@@ -4,21 +4,21 @@
 
 APIs related to health, medical references, and wellness datasets.
 
-**37 APIs** in this category.
+**39 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 27 |
+| Authentication | No | 29 |
 | Authentication | apiKey | 9 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 36 |
+| HTTPS | Yes | 38 |
 | HTTPS | No | 1 |
-| CORS | Yes | 14 |
+| CORS | Yes | 16 |
 | CORS | No | 2 |
 | CORS | Unknown | 21 |
-| Browser ready | Yes | 14 |
+| Browser ready | Yes | 16 |
 
 ## Quick filters
 
@@ -51,6 +51,7 @@ APIs related to health, medical references, and wellness datasets.
 | [Dataflow Kit COVID-19](https://covid-19.dataflowkit.com) | COVID-19 live statistics into sites per hour | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Edamam](https://developer.edamam.com) | Food and nutrition data API with recipe search | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [ERstat](https://erstat.ca/developers) | Live Canadian emergency room closures and service disruptions, by province | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [FindSaunaPlunge](https://findsaunaplunge.com/api) | US cold plunge and sauna venues with dated, source-quoted temperatures and prices | `No` | Yes | Yes | Yes | 4/11 |
 | [FoodData Central](https://fdc.nal.usda.gov) | National Nutrient Database for Standard Reference | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Healthcare.gov](https://www.healthcare.gov/developers) | Educational content about the US Health Insurance Marketplace | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Humanitarian Data Exchange](https://data.humdata.org) | Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -68,6 +69,7 @@ APIs related to health, medical references, and wellness datasets.
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Orion Health](https://developer.orionhealth.io) | Medical platform which allows the development of applications for different healthcare scenarios | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Quarantine](https://quarantine.country/coronavirus/api) | Coronavirus API with free COVID-19 live updates | `No` | Yes | Yes | Yes | 4/11 |
+| [Urgences Québec](https://sante.handled.tools/api) | Hourly emergency room occupancy, stretcher counts and wait times for every hospital in Quebec, Canada | `No` | Yes | Yes | Yes | 4/11 |
 
 **Related categories:** [Science & Math](science-and-math.md), [Food & Drink](food-and-drink.md)
 

@@ -4,21 +4,21 @@
 
 APIs related to scientific and mathematical datasets.
 
-**39 APIs** in this category.
+**40 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 33 |
+| Authentication | No | 34 |
 | Authentication | apiKey | 5 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 36 |
+| HTTPS | Yes | 37 |
 | HTTPS | No | 3 |
-| CORS | Yes | 10 |
+| CORS | Yes | 11 |
 | CORS | No | 15 |
 | CORS | Unknown | 14 |
-| Browser ready | Yes | 10 |
+| Browser ready | Yes | 11 |
 
 ## Quick filters
 
@@ -36,6 +36,7 @@ APIs related to scientific and mathematical datasets.
 | [CodeCogs](https://editor.codecogs.com/docs/4-LaTeX_rendering.php) | Render LaTeX equations in PNG, GIF, SVG, EMF, PDF, JSON, or download formats with styling options | `No` | Yes | Unknown | Unknown | 3/11 |
 | [CORE](https://core.ac.uk/services) | Access the world's Open Access research papers | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CycleCalcs](https://www.cyclecalcs.com/api.html) | Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons | `No` | Yes | Yes | Yes | 4/11 |
+| [Europe PMC](https://europepmc.org/RestfulWebService) | Life-science literature search with abstracts, citations and full-text links | `No` | Yes | Yes | Yes | 4/11 |
 | [GBIF](https://www.gbif.org/developer/summary) | Global Biodiversity Information Facility | `No` | Yes | Yes | Yes | 4/11 |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Access millions of museum specimens from organizations around the world | `No` | Yes | Unknown | Unknown | 3/11 |
 | [inspirehep.net](https://github.com/inspirehep/rest-api-doc) | High Energy Physics info. system | `No` | Yes | Unknown | Unknown | 3/11 |

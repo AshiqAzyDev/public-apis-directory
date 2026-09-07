@@ -4,21 +4,21 @@
 
 APIs related to markets, banking-style datasets, and financial references.
 
-**60 APIs** in this category.
+**71 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 12 |
-| Authentication | apiKey | 43 |
+| Authentication | No | 18 |
+| Authentication | apiKey | 48 |
 | Authentication | OAuth | 5 |
-| HTTPS | Yes | 59 |
+| HTTPS | Yes | 70 |
 | HTTPS | No | 1 |
-| CORS | Yes | 25 |
-| CORS | No | 2 |
-| CORS | Unknown | 33 |
-| Browser ready | Yes | 25 |
+| CORS | Yes | 33 |
+| CORS | No | 3 |
+| CORS | Unknown | 35 |
+| Browser ready | Yes | 33 |
 
 ## Quick filters
 
@@ -46,6 +46,8 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Econdb](https://www.econdb.com/api) | Global macroeconomic data | `No` | Yes | Yes | Yes | 4/11 |
 | [EconPulse](https://econpulse.io) | Live economic data — CPI, PPI, energy, treasury rates, BTC premium | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Edgrapi](https://edgrapi.com) | Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q sections as normalized JSON | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [EOD Historical Data](https://eodhd.com) | Real-time and historical stock market data with 150+ exchanges | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [FarmDash](https://www.farmdash.one/agents) | DeFi intelligence, protocol risk, yield simulation plus 84 MCP agent tools, free Scout tier | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation) | U.S. Department of the Treasury Data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Finage](https://finage.co.uk) | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -53,16 +55,22 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Finnhub](https://finnhub.io/docs/api) | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred) | Economic data from the Federal Reserve Bank of St. Louis | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) | Front accounting is multilingual and multicurrency software for small businesses | `OAuth` | Yes | Yes | Yes | 2/11 |
+| [Futures Clock](https://futuresclock.com/en/data-methodology) | Trading hours and session windows for 65 futures products on 16 global exchanges | `No` | Yes | Yes | Yes | 4/11 |
+| [FXNewsBias](https://fxnewsbias.com/developers) | AI-scored news sentiment for the 8 major forex currencies, refreshed every 3 hours | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Goldprice.dev](https://goldprice.dev/docs) | Cross-validated gold, silver & copper spot, futures & 30-year history in 13 currencies | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Halal Terminal](https://api.halalterminal.com/docs) | Shariah-compliant stock and ETF screening across 5 methodologies, zakat and purification | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Helious](https://helious.io/developers) | US Treasury auction results with the tail and bidder split, plus scored economic releases | `No` | Yes | Yes | Yes | 4/11 |
 | [Helium](https://heliumtrades.com/mcp-page) | News with media bias scoring, balanced news synthesis, live market data, AI options pricing | `No` | Yes | Yes | Yes | 4/11 |
 | [Hotstoks](https://hotstoks.com) | Stock market data powered by SQL | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [IBAN Analyzer](https://iban-analyzer.com/free-iban-api) | Resolve an IBAN to its bank name, BIC, city and address for 60+ countries | `No` | Yes | Yes | Yes | 4/11 |
 | [IBANforge](https://api.ibanforge.com) | IBAN validation and BIC/SWIFT lookup for 89 countries with 121k+ BIC entries | `apiKey` | Yes | No | No | 1/11 |
 | [IEX Cloud](https://iexcloud.io/docs/api) | Realtime & Historical Stock and Market Data | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [IG](https://labs.ig.com/gettingstarted) | Spreadbetting and CFD Market Data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Indian Mutual Fund](https://www.mfapi.in) | Get complete history of India Mutual Funds Data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Intrinio](https://intrinio.com) | A wide selection of financial data feeds | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api) | Klarna payment and shopping service | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [KmalServico Gold Price Dataset](https://www.kmalservico.com/data) | Current gold price per gram at 6 purities for 188 countries, JSON, no auth | `No` | Yes | No | No | 3/11 |
+| [LiquiLens](https://liquilens.in/developers) | Public-record bank and lender failure-risk evidence | `No` | Yes | Yes | Yes | 4/11 |
 | [Marketstack](https://marketstack.com) | Real-Time, Intraday & Historical Market Data API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Mono](https://mono.co) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -70,6 +78,7 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide) | Connect to bank accounts using official bank APIs and get raw transaction data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [NORTH7 Agent](https://north7.ai/v1/docs) | Trading signals, market analysis and geopolitical intelligence | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | Point-in-time quarterly revenue for 20 U.S. issuers | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Plaid](https://www.plaid.com/docs) | Connect with user's bank accounts and access transaction data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Polygon](https://polygon.io) | Historical stock market data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Portfolio Optimizer](https://portfoliooptimizer.io) | Portfolio analysis and optimization | `No` | Yes | Yes | Yes | 4/11 |
@@ -82,9 +91,11 @@ APIs related to markets, banking-style datasets, and financial references.
 | [Styvio](https://www.styvio.com) | Realtime and historical stock data and current stock sentiment | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Sugra](https://sugra.ai) | One API for market data, economics, commodities, climate, and global news. LLM-ready JSON | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Tax Data](https://apilayer.com/marketplace/tax_data-api) | Instant VAT number and tax validation across the globe | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | Daily AI-ranked stock and crypto watchlists | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Twelve Data](https://twelvedata.com) | Stock market data (real-time & historical) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [US Mortgage Calculator](https://www.usmortgagecalc.com/developers/api) | Mortgage payment, amortization, affordability and 50-state property tax data | `No` | Yes | Yes | Yes | 4/11 |
 | [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api) | WallstreetBets Stock Comments Sentiment Analysis | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Yahoo Finance](https://www.yahoofinanceapi.com) | Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange | `apiKey` | Yes | Yes | Yes | 2/11 |

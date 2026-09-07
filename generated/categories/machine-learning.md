@@ -4,21 +4,21 @@
 
 APIs related to machine learning, models, and ML datasets.
 
-**34 APIs** in this category.
+**36 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 8 |
-| Authentication | apiKey | 25 |
+| Authentication | No | 9 |
+| Authentication | apiKey | 26 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 34 |
+| HTTPS | Yes | 36 |
 | HTTPS | No | 0 |
-| CORS | Yes | 20 |
+| CORS | Yes | 21 |
 | CORS | No | 0 |
-| CORS | Unknown | 14 |
-| Browser ready | Yes | 20 |
+| CORS | Unknown | 15 |
+| Browser ready | Yes | 21 |
 
 ## Quick filters
 
@@ -42,6 +42,7 @@ APIs related to machine learning, models, and ML datasets.
 | [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api) | Parse dreams into structured entities, emotions, agency, threat, and outcomes | `No` | Yes | Yes | Yes | 4/11 |
 | [EXUDE-API](http://uttesh.com/exude-api) | Used for the primary ways for filtering the stopping, stemming words from the text data | `No` | Yes | Yes | Yes | 4/11 |
 | [GoldBean](https://goldbean-api.xyz/docs) | OCR, Translation, NLP & ERNIE LLM via Baidu AI (free tier available) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Google Gemini](https://ai.google.dev/gemini-api/docs) | Multimodal generative AI for text, vision, and code generation | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Groq](https://console.groq.com/docs/quickstart) | Fast AI inference API with free tier, supports Llama, Mixtral, Gemma models | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Hirak FaceAPI](https://faceapi.hirak.site) | Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Hugging Face](https://huggingface.co) | AI model hub with inference API for NLP, computer vision, and audio | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -54,6 +55,7 @@ APIs related to machine learning, models, and ML datasets.
 | [Machinetutors](https://www.machinetutors.com/portfolio/MT_api.html) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [MediaCraft AI](https://mediacraft-x402-api.onrender.com) | Chinese content compliance review (17 platforms), EN↔CN translation, and SEO optimization. Pay-per-call via x402 (Solana USDC). | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Modelfax](https://bytebrujo.github.io/modelfax) | LLM pricing, context windows and deprecation dates, schema-validated and updated daily | `No` | Yes | Yes | Yes | 4/11 |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Not Human Search](https://nothumansearch.ai/openapi.yaml) | AI tool discovery with agentic scoring for 8,600+ tools and MCP servers | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenVisionAPI](https://openvisionapi.com) | Open source computer vision API based on open source models | `No` | Yes | Yes | Yes | 4/11 |

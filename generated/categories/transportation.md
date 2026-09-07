@@ -4,21 +4,21 @@
 
 APIs related to transit, travel, and transport networks.
 
-**77 APIs** in this category.
+**80 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 36 |
+| Authentication | No | 39 |
 | Authentication | apiKey | 32 |
 | Authentication | OAuth | 9 |
-| HTTPS | Yes | 62 |
+| HTTPS | Yes | 65 |
 | HTTPS | No | 15 |
-| CORS | Yes | 12 |
-| CORS | No | 8 |
+| CORS | Yes | 14 |
+| CORS | No | 9 |
 | CORS | Unknown | 57 |
-| Browser ready | Yes | 12 |
+| Browser ready | Yes | 14 |
 
 ## Quick filters
 
@@ -37,6 +37,7 @@ APIs related to transit, travel, and transport networks.
 | [Amadeus for Developers](https://developers.amadeus.com/self-service) | Travel Search - Limited usage | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [apilayer aviationstack](https://aviationstack.com) | Real-time Flight Status & Global Aviation Data API | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Apimetro](https://apimetro.dev/swagger/index.html) | Geospatial data for Mexico City public transport system (Metro, Metrobús, Cablebús, RTP, etc.) | `No` | Yes | Yes | Yes | 4/11 |
+| [Aviation Safety Data](https://himaxym.com/developers) | 164,068 aircraft accident narratives from 128 official investigation authorities, plus FAA data | `No` | Yes | Yes | Yes | 4/11 |
 | [AviationAPI](https://docs.aviationapi.com) | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | `No` | Yes | No | No | 3/11 |
 | [AZ511](https://www.az511.com/developers/doc) | Access traffic data from the ADOT API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Bay Area Rapid Transit](http://api.bart.gov) | Stations and predicted arrivals for BART | `apiKey` | No | Unknown | No | 0/11 |
@@ -56,6 +57,7 @@ APIs related to transit, travel, and transport networks.
 | [Impala Hotel Bookings](https://docs.impala.travel/docs/booking-api) | Hotel content, rates and room bookings | `apiKey` | Yes | No | No | 1/11 |
 | [Izi](http://api-docs.izi.travel) | Audio guide for travellers | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | Singapore transport information | `apiKey` | No | Unknown | No | 0/11 |
+| [LiveTrafficCam](https://bzsasson.github.io/traffic-camera-sources/api.html) | Live US state DOT traffic cameras with verified live status and measured uptime | `No` | Yes | No | No | 3/11 |
 | [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Delays in subway lines | `No` | No | No | No | 2/11 |
 | [Navitia](https://doc.navitia.io) | The open API for building cool stuff with transport data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -108,6 +110,7 @@ APIs related to transit, travel, and transport networks.
 | [Tripadvisor](https://developer-tripadvisor.com/home) | Rating content for a hotel, restaurant, attraction or destination | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | `OAuth` | Yes | Yes | Yes | 2/11 |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | `No` | Yes | No | No | 3/11 |
+| [Wander Atlas](https://wanderatlasguides.com/api) | Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries | `No` | Yes | Yes | Yes | 4/11 |
 
 **Related categories:** [Geocoding](geocoding.md), [Tracking](tracking.md)
 

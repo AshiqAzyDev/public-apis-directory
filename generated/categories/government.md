@@ -4,21 +4,21 @@
 
 APIs published by or about government and public-sector datasets.
 
-**101 APIs** in this category.
+**106 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 76 |
-| Authentication | apiKey | 21 |
+| Authentication | No | 80 |
+| Authentication | apiKey | 22 |
 | Authentication | OAuth | 4 |
-| HTTPS | Yes | 92 |
+| HTTPS | Yes | 97 |
 | HTTPS | No | 9 |
-| CORS | Yes | 16 |
-| CORS | No | 5 |
+| CORS | Yes | 20 |
+| CORS | No | 6 |
 | CORS | Unknown | 80 |
-| Browser ready | Yes | 16 |
+| Browser ready | Yes | 20 |
 
 ## Quick filters
 
@@ -34,6 +34,7 @@ APIs published by or about government and public-sector datasets.
 | [AI Law Tracker](https://ai-law-tracker.com/developers) | AI regulation laws by jurisdiction (US, EU, global) as read-only JSON; free tier | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Bank Negara Malaysia Open Data](https://apikijangportal.bnm.gov.my) | Malaysia Central Bank Open Data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | `No` | No | Unknown | No | 2/11 |
+| [Bidledger](https://jaydemks.github.io/bidledger/api.html) | Every open public tender in the European Union, rebuilt daily from the official TED data | `No` | Yes | Yes | Yes | 4/11 |
 | [Brazil](https://brasilapi.com.br) | Community driven API for Brazil Public Data | `No` | Yes | Yes | Yes | 4/11 |
 | [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br) | Brazil Central Bank Open Data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Brazil Receita WS](https://www.receitaws.com.br) | Consult companies by CNPJ for Brazilian companies | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -58,7 +59,9 @@ APIs published by or about government and public-sector datasets.
 | [Deutscher Bundestag DIP](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) | This API provides read access to DIP entities (e.g. activities, persons, printed material) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Disclosed Capitol](https://www.disclosedcapitol.com/data-files/api) | US congressional & executive-branch stock trade disclosures (STOCK Act + OGE) | `apiKey` | Yes | No | No | 1/11 |
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | `No` | Yes | Unknown | Unknown | 3/11 |
+| [DistrictAPI](https://districtapi.dev/docs) | US school districts and schools by address, with enrollment and boundaries | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [eCourtsIndia](https://ecourtsindia.com/api) | Indian court case status, judgments, and hearing schedule API | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [EditalMD](https://editalmd.com/api) | Brazilian public procurement (PNCP) notices as Markdown with deadlines and requirements | `No` | Yes | Yes | Yes | 4/11 |
 | [EPA](https://www.epa.gov/developers/data-data-products) | Web services and data sets from the US Environmental Protection Agency | `No` | Yes | Unknown | Unknown | 3/11 |
 | [FastDOL](https://www.fastdol.com/docs) | Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | Access information on the FBI Wanted program | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -125,6 +128,7 @@ APIs published by or about government and public-sector datasets.
 | [OpenMercantil](https://openmercantil.es/api/documentacion) | Spanish company public data and BORME event timelines | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenRegistry](https://openregistry.sophymarine.com) | Real-time queries to 27 national company registries (UK, FR, DE, IT, ES, KR + 21 more) | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs) | Unofficial Philippine Professional Regulation Commission's examination schedule | `No` | Yes | Yes | Yes | 4/11 |
+| [Radar CNPJ](https://radar-cnpj.com/api) | Brazilian companies (CNPJ) lookup and search, with a market check by area and monitoring | `No` | Yes | No | No | 3/11 |
 | [Represent by Open North](https://represent.opennorth.ca) | Find Canadian Government Representatives | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tollmint](https://api.tollmint.com) | Advertising, subscription, AI-disclosure and accessibility rules across the US, EU and UK | `No` | Yes | Yes | Yes | 4/11 |
 | [UK Companies House](https://developer.company-information.service.gov.uk) | UK Companies House Data from the UK government | `OAuth` | Yes | Unknown | Unknown | 1/11 |
@@ -132,6 +136,7 @@ APIs published by or about government and public-sector datasets.
 | [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api) | Basic candidate data and live electoral vote counts for top two parties in US presidential election | `No` | Yes | No | No | 3/11 |
 | [USA.gov](https://www.usa.gov/developer) | Authoritative information on U.S. programs, events, services and more | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [USAspending.gov](https://api.usaspending.gov) | US federal spending data | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Vett](https://wimberly.solutions/api/free-sanctions-check) | Screen names & companies against OFAC, PEP, watchlists & recalls | `No` | Yes | Yes | Yes | 4/11 |
 
 **Related categories:** [Open Data](open-data.md), [Science & Math](science-and-math.md)
 

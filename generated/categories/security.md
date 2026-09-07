@@ -4,21 +4,21 @@
 
 APIs related to security research, scanning, and defensive tooling.
 
-**45 APIs** in this category.
+**48 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 17 |
-| Authentication | apiKey | 27 |
+| Authentication | No | 19 |
+| Authentication | apiKey | 28 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 45 |
+| HTTPS | Yes | 48 |
 | HTTPS | No | 0 |
-| CORS | Yes | 12 |
-| CORS | No | 4 |
-| CORS | Unknown | 29 |
-| Browser ready | Yes | 12 |
+| CORS | Yes | 13 |
+| CORS | No | 5 |
+| CORS | Unknown | 30 |
+| Browser ready | Yes | 13 |
 
 ## Quick filters
 
@@ -40,6 +40,7 @@ APIs related to security research, scanning, and defensive tooling.
 | [Classify](https://classify-web.herokuapp.com) | Encrypting & decrypting text messages | `No` | Yes | Yes | Yes | 4/11 |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Provides data of offenders from all U.S. States and Pureto Rico | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [CRXcavator](https://crxcavator.io/apidocs) | Chrome extension risk scoring | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [CSR.plus](https://csr.plus/docs/api) | Generate certificate signing requests and private keys without OpenSSL | `No` | Yes | Yes | Yes | 4/11 |
 | [dead-drop](https://api.dead-drop.xyz/api/v1/docs) | Ephemeral zero-knowledge encrypted data sharing | `No` | Yes | Yes | Yes | 4/11 |
 | [Dehash.lt](https://github.com/Dehash-lt/api) | Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512 | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) | DNS, WHOIS/RDAP, SSL, subdomain enumeration, and email security in one parallel call | `apiKey` | Yes | No | No | 1/11 |
@@ -63,6 +64,7 @@ APIs related to security research, scanning, and defensive tooling.
 | [Mozilla http scanner](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) | Mozilla observatory http scanner | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Mozilla tls scanner](https://github.com/mozilla/tls-observatory) | Mozilla observatory tls scanner | `No` | Yes | Unknown | Unknown | 3/11 |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Neetix Liveliness](https://liveliness.neetix.in/api-reference) | Face liveness, presentation-attack detection and 1:1 face match for identity verification | `apiKey` | Yes | No | No | 1/11 |
 | [Passwordinator](https://github.com/fawazsullia/password-generator) | Generate random passwords of varying complexities | `No` | Yes | Yes | Yes | 4/11 |
 | [PhishStats](https://phishstats.info) | Phishing database | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Privacy.com](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -71,6 +73,7 @@ APIs related to security research, scanning, and defensive tooling.
 | [Shodan](https://developer.shodan.io) | Search engine for Internet connected devices | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [SSL Domain Health Check](https://rapidapi.com/goktugbk/api/ssl-domain-health-check) | SSL certificate validity, domain WHOIS status, and DNS record checks for any domain | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [SSL Labs](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v3.md) | Deep SSL/TLS server analysis with A+ to F grading | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Threat Jammer](https://threatjammer.com/docs/index) | Risk scoring service from curated threat intelligence data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [UK Police](https://data.police.uk/docs) | UK Police data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [URLhaus](https://urlhaus.abuse.ch/api) | Database of malicious URLs used for malware distribution | `No` | Yes | Unknown | Unknown | 3/11 |

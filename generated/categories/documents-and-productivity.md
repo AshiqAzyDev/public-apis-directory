@@ -4,19 +4,19 @@
 
 APIs related to documents, notes, and productivity services.
 
-**38 APIs** in this category.
+**39 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 3 |
-| Authentication | apiKey | 27 |
+| Authentication | apiKey | 28 |
 | Authentication | OAuth | 8 |
-| HTTPS | Yes | 38 |
+| HTTPS | Yes | 39 |
 | HTTPS | No | 0 |
 | CORS | Yes | 8 |
-| CORS | No | 5 |
+| CORS | No | 6 |
 | CORS | Unknown | 25 |
 | Browser ready | Yes | 8 |
 
@@ -58,6 +58,7 @@ APIs related to documents, notes, and productivity services.
 | [Podio](https://developers.podio.com) | File sharing and productivity | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [PolyDoc](https://polydoc.tech) | HTML/URL to PDF and screenshots, plus Factur-X/ZUGFeRD e-invoices; free tier | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [PrintSocket](https://www.printsocket.com/docs) | Send PDFs, ZPL labels and ESC/POS receipts to your own printers from any language; free tier | `apiKey` | Yes | No | No | 1/11 |
 | [Renderly](https://renderlyapi.com) | HTML to PDF conversion API built on Chromium | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Rendex](https://rendex.dev) | Render HTML, Markdown, or URLs to PNG/JPEG/WebP/PDF, with extraction and templating | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Restpack](https://restpack.io) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Yes | Unknown | Unknown | 1/11 |

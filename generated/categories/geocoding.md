@@ -4,21 +4,21 @@
 
 APIs related to coordinates, addresses, IP location, and maps.
 
-**93 APIs** in this category.
+**95 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 46 |
+| Authentication | No | 48 |
 | Authentication | apiKey | 46 |
 | Authentication | OAuth | 1 |
-| HTTPS | Yes | 86 |
+| HTTPS | Yes | 88 |
 | HTTPS | No | 7 |
-| CORS | Yes | 32 |
-| CORS | No | 4 |
+| CORS | Yes | 33 |
+| CORS | No | 5 |
 | CORS | Unknown | 57 |
-| Browser ready | Yes | 32 |
+| Browser ready | Yes | 33 |
 
 ## Quick filters
 
@@ -85,6 +85,7 @@ APIs related to coordinates, addresses, IP location, and maps.
 | [ipgeolocation](https://ipgeolocation.io) | IP Geolocation AP with free plan 30k requests per month | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [IPstack](https://ipstack.com) | Locate and identify website visitors by IP address | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [ipwhois](https://ipwhois.io/documentation) | IP geolocation with country, city, coordinates, ISP, timezone and flag data | `No` | Yes | Yes | Yes | 4/11 |
 | [Kakao Maps](https://apis.map.kakao.com) | Kakao Maps provide multiple APIs for Korean maps | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo) | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Kiprio UK Postcode](https://kiprio.com/v1/postcode) | UK postcode lookup with lat/lon, district, ward, constituency | `apiKey` | Yes | Yes | Yes | 2/11 |
@@ -102,6 +103,7 @@ APIs related to coordinates, addresses, IP location, and maps.
 | [openrouteservice.org](https://openrouteservice.org) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | `OAuth` | No | Unknown | No | 0/11 |
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | `No` | Yes | Yes | Yes | 4/11 |
+| [PontoFato](https://pontofato.com/api) | Brazilian postal codes (CEP) with IBGE coordinates, addresses and the companies registered there | `No` | Yes | No | No | 3/11 |
 | [positionstack](https://positionstack.com) | Forward & Reverse Batch Geocoding REST API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PostalCodes](https://postalcodes.info/api) | Postal code search, country exports, and address validation data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Postali](https://postali.app/api) | Mexico Zip Codes API | `No` | Yes | Yes | Yes | 4/11 |

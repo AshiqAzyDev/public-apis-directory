@@ -4,21 +4,21 @@
 
 APIs related to open datasets and public data portals.
 
-**51 APIs** in this category.
+**56 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 30 |
+| Authentication | No | 35 |
 | Authentication | apiKey | 17 |
 | Authentication | OAuth | 4 |
-| HTTPS | Yes | 48 |
+| HTTPS | Yes | 53 |
 | HTTPS | No | 3 |
-| CORS | Yes | 18 |
+| CORS | Yes | 23 |
 | CORS | No | 5 |
 | CORS | Unknown | 28 |
-| Browser ready | Yes | 18 |
+| Browser ready | Yes | 23 |
 
 ## Quick filters
 
@@ -32,14 +32,17 @@ APIs related to open datasets and public data portals.
 | API | Description | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- |
 | [18F](http://18f.github.io/API-All-the-X) | Unofficial US Federal Government API Development | `No` | No | Unknown | No | 2/11 |
+| [49 Gallery Historical Data](https://api.181649.com/docs) | Normalized historical records and 25 daily-updated reference series | `No` | Yes | Yes | Yes | 4/11 |
 | [AcreLens](https://www.acrelens.com) | Land suitability scoring API for any US property: off-grid, rural, recreational, investment | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [API Setu](https://www.apisetu.gov.in) | An Indian Government platform that provides a lot of APIS for KYC, business, education & employment | `No` | Yes | Yes | Yes | 4/11 |
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | `No` | Yes | No | No | 3/11 |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | Contribute or search one of the largest black history fact databases on the web | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | `No` | Yes | Unknown | Unknown | 3/11 |
+| [BTU Graph](https://btugraph.com/data) | Source-reviewed energy company knowledge graph and directory exports | `No` | Yes | Yes | Yes | 4/11 |
 | [Callook.info](https://callook.info) | United States ham radio callsigns | `No` | Yes | Unknown | Unknown | 3/11 |
 | [CARTO](https://carto.com) | Location Information Prediction | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data) | Data on higher education institutions in the United States | `No` | Yes | Unknown | Unknown | 3/11 |
+| [CuttingToolsAI](https://cuttingtoolsai.eu/api) | Cross-brand carbide insert grade equivalents by ISO application class | `No` | Yes | Yes | Yes | 4/11 |
 | [Enigma Public](https://developers.enigma.com/docs) | Broadest collection of public data | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [EOSL](https://eosl.ai/api) | Hardware end-of-sale and end-of-service-life dates by part number, source-linked | `No` | Yes | Yes | Yes | 4/11 |
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Address search via the French Government | `No` | Yes | Unknown | Unknown | 3/11 |
@@ -64,7 +67,9 @@ APIs related to open datasets and public data portals.
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference) | Data on corporate entities and directors in many countries | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [OpenSanctions](https://www.opensanctions.org/docs/api) | Data on international sanctions, crime and politically exposed persons | `No` | Yes | Yes | Yes | 4/11 |
 | [Pan Africa Data](https://panafricadata.com) | Macroeconomic and subnational income distribution data for all 54 African countries | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [PayCrunch](https://paycrunch.co/api.html) | US wages for 1,008 occupations and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0 | `No` | Yes | Yes | Yes | 4/11 |
 | [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | News articles and public datasets | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [PublicDataHub](https://publicdatahub.org/api) | US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance | `No` | Yes | Yes | Yes | 4/11 |
 | [Recreation Information Database](https://ridb.recreation.gov) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Registrum](https://api.registrum.co.uk/docs) | UK company data: profiles, directors, PSC, iXBRL-parsed financials, ECCTA status | `apiKey` | Yes | No | No | 1/11 |
 | [Scoop.it](http://www.scoop.it/dev) | Content Curation Service | `apiKey` | No | Unknown | No | 0/11 |

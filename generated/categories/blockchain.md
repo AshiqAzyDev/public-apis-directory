@@ -4,21 +4,21 @@
 
 APIs related to blockchain networks and on-chain data.
 
-**14 APIs** in this category.
+**15 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 7 |
+| Authentication | No | 8 |
 | Authentication | apiKey | 7 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 13 |
+| HTTPS | Yes | 14 |
 | HTTPS | No | 1 |
-| CORS | Yes | 4 |
+| CORS | Yes | 5 |
 | CORS | No | 2 |
 | CORS | Unknown | 8 |
-| Browser ready | Yes | 4 |
+| Browser ready | Yes | 5 |
 
 ## Quick filters
 
@@ -38,6 +38,7 @@ APIs related to blockchain networks and on-chain data.
 | [ClearTrace](https://cleartracedata.com/docs) | Cross-frontend DEX attribution and execution quality data across Ethereum and L2s | `No` | Yes | Yes | Yes | 4/11 |
 | [Covalent](https://www.covalenthq.com/docs/api) | Multi-blockchain data aggregator platform | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Etherscan](https://etherscan.io/apis) | Ethereum explorer API | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Get Started with Web3](https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md) | Bilingual Web3 lessons, glossary search and role-based learning paths | `No` | Yes | Yes | Yes | 4/11 |
 | [Helium](https://docs.helium.com/api/blockchain/introduction) | Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Nownodes](https://nownodes.io) | Blockchain-as-a-service solution that provides high-quality connection via API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Steem](https://developers.steem.io) | Blockchain-based blogging and social media website | `No` | No | No | No | 2/11 |

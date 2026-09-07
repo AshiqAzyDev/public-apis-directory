@@ -81,6 +81,7 @@ Last link check: Not run
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art & Design | Unknown | Unknown | Unknown |
 | [Icon Horse](https://icon.horse) | Art & Design | Unknown | Unknown | Unknown |
 | [Iconfinder](https://developer.iconfinder.com) | Art & Design | Unknown | Unknown | Unknown |
+| [Iconify](https://iconify.design/docs/api) | Art & Design | Unknown | Unknown | Unknown |
 | [Icons8](https://img.icons8.com) | Art & Design | Unknown | Unknown | Unknown |
 | [Lordicon](https://lordicon.com) | Art & Design | Unknown | Unknown | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io) | Art & Design | Unknown | Unknown | Unknown |
@@ -106,6 +107,7 @@ Last link check: Not run
 | [ClearTrace](https://cleartracedata.com/docs) | Blockchain | Unknown | Unknown | Unknown |
 | [Covalent](https://www.covalenthq.com/docs/api) | Blockchain | Unknown | Unknown | Unknown |
 | [Etherscan](https://etherscan.io/apis) | Blockchain | Unknown | Unknown | Unknown |
+| [Get Started with Web3](https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md) | Blockchain | Unknown | Unknown | Unknown |
 | [Helium](https://docs.helium.com/api/blockchain/introduction) | Blockchain | Unknown | Unknown | Unknown |
 | [Nownodes](https://nownodes.io) | Blockchain | Unknown | Unknown | Unknown |
 | [Steem](https://developers.steem.io) | Blockchain | Unknown | Unknown | Unknown |
@@ -148,6 +150,7 @@ Last link check: Not run
 | [Google Analytics](https://developers.google.com/analytics) | Business | Unknown | Unknown | Unknown |
 | [Instatus](https://instatus.com/help/api) | Business | Unknown | Unknown | Unknown |
 | [Invovate](https://invovate.com/api) | Business | Unknown | Unknown | Unknown |
+| [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | Business | Unknown | Unknown | Unknown |
 | [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Business | Unknown | Unknown | Unknown |
 | [Mailchimp](https://mailchimp.com/developer) | Business | Unknown | Unknown | Unknown |
 | [mailjet](https://www.mailjet.com) | Business | Unknown | Unknown | Unknown |
@@ -166,6 +169,7 @@ Last link check: Not run
 | [Tenders in Spain](https://tenders.guru/es/api) | Business | Unknown | Unknown | Unknown |
 | [Tenders in Ukraine](https://tenders.guru/ua/api) | Business | Unknown | Unknown | Unknown |
 | [Tomba email finder](https://tomba.io/api) | Business | Unknown | Unknown | Unknown |
+| [TradeDataHub](https://www.tradedatahub.net) | Business | Unknown | Unknown | Unknown |
 | [Trello](https://developers.trello.com) | Business | Unknown | Unknown | Unknown |
 | [Village](https://docs.village.ai) | Business | Unknown | Unknown | Unknown |
 | [caldays](https://caldays.com/api) | Calendar | Unknown | Unknown | Unknown |
@@ -229,6 +233,7 @@ Last link check: Not run
 | [Blockchain](https://www.blockchain.com/api) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [blockfrost Cardano](https://blockfrost.io) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [Brave NewCoin](https://bravenewcoin.com/developers) | Cryptocurrency | Unknown | Unknown | Unknown |
+| [BTCGlobe](https://btcglobe.live/join) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [btcnode.uk](https://btcnode.uk) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [BtcTurk](https://docs.btcturk.com) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [Bybit](https://bybit-exchange.github.io/docs/linear) | Cryptocurrency | Unknown | Unknown | Unknown |
@@ -254,6 +259,7 @@ Last link check: Not run
 | [CryptoCompare](https://www.cryptocompare.com/api) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [CryptoMarket](https://api.exchange.cryptomkt.com) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [Cryptonator](https://www.cryptonator.com/api) | Cryptocurrency | Unknown | Unknown | Unknown |
+| [DefiLlama](https://defillama.com/docs/api) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [dYdX](https://docs.dydx.exchange) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [EXMO](https://documenter.getpostman.com/view/10287440/SzYXWKPi) | Cryptocurrency | Unknown | Unknown | Unknown |
@@ -289,8 +295,10 @@ Last link check: Not run
 | [ZMOK](https://zmok.io) | Cryptocurrency | Unknown | Unknown | Unknown |
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Currency Exchange | Unknown | Unknown | Unknown |
 | [Amdoren](https://www.amdoren.com/currency-api) | Currency Exchange | Unknown | Unknown | Unknown |
+| [api-mint](https://api-mint.hoiwan.workers.dev) | Currency Exchange | Unknown | Unknown | Unknown |
 | [Bank of Russia](https://www.cbr.ru/development/SXML) | Currency Exchange | Unknown | Unknown | Unknown |
 | [Currency-api](https://github.com/fawazahmed0/currency-api) | Currency Exchange | Unknown | Unknown | Unknown |
+| [CurrencyBeacon](https://currencybeacon.com) | Currency Exchange | Unknown | Unknown | Unknown |
 | [CurrencyFreaks](https://currencyfreaks.com) | Currency Exchange | Unknown | Unknown | Unknown |
 | [Currencylayer](https://currencylayer.com) | Currency Exchange | Unknown | Unknown | Unknown |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | Currency Exchange | Unknown | Unknown | Unknown |
@@ -307,10 +315,12 @@ Last link check: Not run
 | [paralelo.bo](https://paralelo.bo/api) | Currency Exchange | Unknown | Unknown | Unknown |
 | [TaxID](https://www.taxid.dev/docs) | Currency Exchange | Unknown | Unknown | Unknown |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Currency Exchange | Unknown | Unknown | Unknown |
+| [Attestwire](https://api.attestwire.com/docs) | Data Validation | Unknown | Unknown | Unknown |
 | [Lob.com](https://lob.com) | Data Validation | Unknown | Unknown | Unknown |
 | [Postman Echo](https://www.postman-echo.com) | Data Validation | Unknown | Unknown | Unknown |
 | [PurgoMalum](http://www.purgomalum.com) | Data Validation | Unknown | Unknown | Unknown |
 | [SchemaShield](https://rapidapi.com/kaiasistentedavid/api/schema-change-risk) | Data Validation | Unknown | Unknown | Unknown |
+| [Temsor](https://api.temsor.com/docs) | Data Validation | Unknown | Unknown | Unknown |
 | [US Autocomplete](https://www.smarty.com/docs/cloud/us-autocomplete-pro-api) | Data Validation | Unknown | Unknown | Unknown |
 | [US Extract](https://www.smarty.com/products/apis/us-extract-api) | Data Validation | Unknown | Unknown | Unknown |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Data Validation | Unknown | Unknown | Unknown |
@@ -323,6 +333,7 @@ Last link check: Not run
 | [ApicAgent](https://www.apicagent.com) | Development | Unknown | Unknown | Unknown |
 | [ApiFlash](https://apiflash.com) | Development | Unknown | Unknown | Unknown |
 | [APIs.guru](https://apis.guru/api-doc) | Development | Unknown | Unknown | Unknown |
+| [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | Development | Unknown | Unknown | Unknown |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | Development | Unknown | Unknown | Unknown |
 | [Base](https://www.base-api.io) | Development | Unknown | Unknown | Unknown |
 | [Beeceptor](https://beeceptor.com) | Development | Unknown | Unknown | Unknown |
@@ -330,7 +341,7 @@ Last link check: Not run
 | [Blague.xyz](https://blague.xyz) | Development | Unknown | Unknown | Unknown |
 | [Blitapp](https://blitapp.com/api) | Development | Unknown | Unknown | Unknown |
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io) | Development | Unknown | Unknown | Unknown |
-| [Bored](https://www.boredapi.com) | Development | Unknown | Unknown | Unknown |
+| [Bored](https://bored-api.appbrewery.com) | Development | Unknown | Unknown | Unknown |
 | [Brainshop.ai](https://brainshop.ai) | Development | Unknown | Unknown | Unknown |
 | [BrewPage](https://brewpage.app) | Development | Unknown | Unknown | Unknown |
 | [Browshot](https://browshot.com/api/documentation) | Development | Unknown | Unknown | Unknown |
@@ -343,6 +354,8 @@ Last link check: Not run
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api) | Development | Unknown | Unknown | Unknown |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | Development | Unknown | Unknown | Unknown |
 | [CountAPI](https://countapi.xyz) | Development | Unknown | Unknown | Unknown |
+| [crates.io](https://crates.io/data-access) | Development | Unknown | Unknown | Unknown |
+| [Crawl Readiness](https://crawlreadiness.com) | Development | Unknown | Unknown | Unknown |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | Development | Unknown | Unknown | Unknown |
 | [Diagrams.so](https://diagrams.so/developers) | Development | Unknown | Unknown | Unknown |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Development | Unknown | Unknown | Unknown |
@@ -352,6 +365,7 @@ Last link check: Not run
 | [dotsweep](https://dotsweep.com/docs) | Development | Unknown | Unknown | Unknown |
 | [DownStatus](https://isitdownstatus.com) | Development | Unknown | Unknown | Unknown |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | Development | Unknown | Unknown | Unknown |
+| [GcrawlAI](https://gcrawlai.com) | Development | Unknown | Unknown | Unknown |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api) | Development | Unknown | Unknown | Unknown |
 | [Genderize.io](https://genderize.io) | Development | Unknown | Unknown | Unknown |
 | [GETPing](https://www.getping.info) | Development | Unknown | Unknown | Unknown |
@@ -393,11 +407,13 @@ Last link check: Not run
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Development | Unknown | Unknown | Unknown |
 | [Keyvalue](https://keyvalue.immanuel.co) | Development | Unknown | Unknown | Unknown |
 | [Kroki](https://kroki.io) | Development | Unknown | Unknown | Unknown |
+| [Labelixa](https://labelixa.com/docs/api) | Development | Unknown | Unknown | Unknown |
 | [License-API](https://github.com/cmccandless/license-api/blob/master/README.md) | Development | Unknown | Unknown | Unknown |
 | [Logs.to](https://logs.to) | Development | Unknown | Unknown | Unknown |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev) | Development | Unknown | Unknown | Unknown |
 | [MAC address vendor lookup](https://macaddress.io/api) | Development | Unknown | Unknown | Unknown |
 | [Micro DB](https://m3o.com/db) | Development | Unknown | Unknown | Unknown |
+| [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json) | Development | Unknown | Unknown | Unknown |
 | [MicroENV](https://microenv.com) | Development | Unknown | Unknown | Unknown |
 | [Mocky](https://designer.mocky.io) | Development | Unknown | Unknown | Unknown |
 | [MY IP](https://www.myip.com/api-docs) | Development | Unknown | Unknown | Unknown |
@@ -411,8 +427,10 @@ Last link check: Not run
 | [OpenAPIHub](https://hub.openapihub.com) | Development | Unknown | Unknown | Unknown |
 | [OpenGraphr](https://opengraphr.com/docs/1.0/overview) | Development | Unknown | Unknown | Unknown |
 | [OpenQR](https://openqr.uk/api) | Development | Unknown | Unknown | Unknown |
+| [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6) | Development | Unknown | Unknown | Unknown |
 | [OutageDeck](https://outagedeck.com/developers/api) | Development | Unknown | Unknown | Unknown |
 | [oyyi](https://oyyi.xyz/docs/1.0) | Development | Unknown | Unknown | Unknown |
+| [Packagist](https://packagist.org/apidoc) | Development | Unknown | Unknown | Unknown |
 | [PageCDN](https://pagecdn.com/docs/public-api) | Development | Unknown | Unknown | Unknown |
 | [Phone Specs](https://phone-specs-api-production.up.railway.app/docs) | Development | Unknown | Unknown | Unknown |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Development | Unknown | Unknown | Unknown |
@@ -424,12 +442,14 @@ Last link check: Not run
 | [QR code](http://goqr.me/api) | Development | Unknown | Unknown | Unknown |
 | [QR code](https://www.qrtag.net/api) | Development | Unknown | Unknown | Unknown |
 | [QR Code Crafter](https://qrcodecrafter.com/qr-code-api) | Development | Unknown | Unknown | Unknown |
+| [QR Codes](https://qr-api.62-238-102-93.sslip.io/docs) | Development | Unknown | Unknown | Unknown |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo) | Development | Unknown | Unknown | Unknown |
 | [QuickChart](https://quickchart.io) | Development | Unknown | Unknown | Unknown |
 | [Random Stuff](https://api-docs.pgamerx.com) | Development | Unknown | Unknown | Unknown |
 | [Rejax](https://rejax.io) | Development | Unknown | Unknown | Unknown |
 | [ReqRes](https://reqres.in) | Development | Unknown | Unknown | Unknown |
 | [RSS feed to JSON](https://rss-to-json-serverless-api.vercel.app) | Development | Unknown | Unknown | Unknown |
+| [RubyGems](https://guides.rubygems.org/rubygems-org-api) | Development | Unknown | Unknown | Unknown |
 | [SavePage.io](https://www.savepage.io) | Development | Unknown | Unknown | Unknown |
 | [ScrapeNinja](https://scrapeninja.net) | Development | Unknown | Unknown | Unknown |
 | [ScraperApi](https://www.scraperapi.com) | Development | Unknown | Unknown | Unknown |
@@ -437,11 +457,13 @@ Last link check: Not run
 | [scrapestack](https://scrapestack.com) | Development | Unknown | Unknown | Unknown |
 | [ScrapingAnt](https://scrapingant.com) | Development | Unknown | Unknown | Unknown |
 | [ScrapingDog](https://www.scrapingdog.com) | Development | Unknown | Unknown | Unknown |
+| [Scrax](https://rapidapi.com/mtaahoperators/api/scrax) | Development | Unknown | Unknown | Unknown |
 | [Screenshot](https://www.abstractapi.com/website-screenshot-api) | Development | Unknown | Unknown | Unknown |
 | [ScreenshotAPI.net](https://screenshotapi.net) | Development | Unknown | Unknown | Unknown |
 | [Serialif Color](https://color.serialif.com) | Development | Unknown | Unknown | Unknown |
 | [serpstack](https://serpstack.com) | Development | Unknown | Unknown | Unknown |
 | [Sheetsu](https://sheetsu.com) | Development | Unknown | Unknown | Unknown |
+| [Shotanvil](https://shotanvil.com) | Development | Unknown | Unknown | Unknown |
 | [SHOUTCLOUD](http://shoutcloud.io) | Development | Unknown | Unknown | Unknown |
 | [SiteIntel](https://siteintel.duckdns.org) | Development | Unknown | Unknown | Unknown |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Development | Unknown | Unknown | Unknown |
@@ -502,6 +524,7 @@ Last link check: Not run
 | [Podio](https://developers.podio.com) | Documents & Productivity | Unknown | Unknown | Unknown |
 | [PolyDoc](https://polydoc.tech) | Documents & Productivity | Unknown | Unknown | Unknown |
 | [PrexView](https://prexview.com) | Documents & Productivity | Unknown | Unknown | Unknown |
+| [PrintSocket](https://www.printsocket.com/docs) | Documents & Productivity | Unknown | Unknown | Unknown |
 | [Renderly](https://renderlyapi.com) | Documents & Productivity | Unknown | Unknown | Unknown |
 | [Rendex](https://rendex.dev) | Documents & Productivity | Unknown | Unknown | Unknown |
 | [Restpack](https://restpack.io) | Documents & Productivity | Unknown | Unknown | Unknown |
@@ -534,6 +557,8 @@ Last link check: Not run
 | [PostStack](https://poststack.dev/docs) | Email | Unknown | Unknown | Unknown |
 | [Sendgrid](https://docs.sendgrid.com/api-reference) | Email | Unknown | Unknown | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | Email | Unknown | Unknown | Unknown |
+| [SMTPfast](https://smtpfa.st/docs) | Email | Unknown | Unknown | Unknown |
+| [uchecker](https://api.uchecker.net/docs) | Email | Unknown | Unknown | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs) | Email | Unknown | Unknown | Unknown |
 | [Anycrap](https://anycrap.shop/developers) | Entertainment | Unknown | Unknown | Unknown |
 | [chucknorris.io](https://api.chucknorris.io) | Entertainment | Unknown | Unknown | Unknown |
@@ -558,10 +583,13 @@ Last link check: Not run
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | Environment | Unknown | Unknown | Unknown |
 | [CO2 Offset](https://co2offset.io/api.html) | Environment | Unknown | Unknown | Unknown |
 | [Danish data service Energi](https://www.energidataservice.dk) | Environment | Unknown | Unknown | Unknown |
+| [gridcarbon](https://gridcarbon.dev) | Environment | Unknown | Unknown | Unknown |
 | [GrünstromIndex](https://gruenstromindex.de) | Environment | Unknown | Unknown | Unknown |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Environment | Unknown | Unknown | Unknown |
+| [kanari](https://kanari.io/en/api) | Environment | Unknown | Unknown | Unknown |
 | [Luchtmeetnet](https://api-docs.luchtmeetnet.nl) | Environment | Unknown | Unknown | Unknown |
 | [National Grid ESO](https://data.nationalgrideso.com) | Environment | Unknown | Unknown | Unknown |
+| [Open-Meteo](https://open-meteo.com) | Environment | Unknown | Unknown | Unknown |
 | [OpenAQ](https://docs.openaq.org) | Environment | Unknown | Unknown | Unknown |
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org) | Environment | Unknown | Unknown | Unknown |
 | [PM25.in](http://www.pm25.in/api_doc) | Environment | Unknown | Unknown | Unknown |
@@ -570,6 +598,7 @@ Last link check: Not run
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Environment | Unknown | Unknown | Unknown |
 | [SustainMetrics](https://www.sustainmetrics.net/api) | Environment | Unknown | Unknown | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions) | Environment | Unknown | Unknown | Unknown |
+| [WattFigure](https://api.wattfigure.com) | Environment | Unknown | Unknown | Unknown |
 | [Website Carbon](https://api.websitecarbon.com) | Environment | Unknown | Unknown | Unknown |
 | [Eventbrite](https://www.eventbrite.com/platform/api) | Events | Unknown | Unknown | Unknown |
 | [SeatGeek](https://platform.seatgeek.com) | Events | Unknown | Unknown | Unknown |
@@ -589,6 +618,8 @@ Last link check: Not run
 | [Econdb](https://www.econdb.com/api) | Finance | Unknown | Unknown | Unknown |
 | [EconPulse](https://econpulse.io) | Finance | Unknown | Unknown | Unknown |
 | [Edgrapi](https://edgrapi.com) | Finance | Unknown | Unknown | Unknown |
+| [EOD Historical Data](https://eodhd.com) | Finance | Unknown | Unknown | Unknown |
+| [FarmDash](https://www.farmdash.one/agents) | Finance | Unknown | Unknown | Unknown |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation) | Finance | Unknown | Unknown | Unknown |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | Finance | Unknown | Unknown | Unknown |
 | [Finage](https://finage.co.uk) | Finance | Unknown | Unknown | Unknown |
@@ -596,16 +627,22 @@ Last link check: Not run
 | [Finnhub](https://finnhub.io/docs/api) | Finance | Unknown | Unknown | Unknown |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred) | Finance | Unknown | Unknown | Unknown |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) | Finance | Unknown | Unknown | Unknown |
+| [Futures Clock](https://futuresclock.com/en/data-methodology) | Finance | Unknown | Unknown | Unknown |
+| [FXNewsBias](https://fxnewsbias.com/developers) | Finance | Unknown | Unknown | Unknown |
 | [Goldprice.dev](https://goldprice.dev/docs) | Finance | Unknown | Unknown | Unknown |
 | [Halal Terminal](https://api.halalterminal.com/docs) | Finance | Unknown | Unknown | Unknown |
+| [Helious](https://helious.io/developers) | Finance | Unknown | Unknown | Unknown |
 | [Helium](https://heliumtrades.com/mcp-page) | Finance | Unknown | Unknown | Unknown |
 | [Hotstoks](https://hotstoks.com) | Finance | Unknown | Unknown | Unknown |
+| [IBAN Analyzer](https://iban-analyzer.com/free-iban-api) | Finance | Unknown | Unknown | Unknown |
 | [IBANforge](https://api.ibanforge.com) | Finance | Unknown | Unknown | Unknown |
 | [IEX Cloud](https://iexcloud.io/docs/api) | Finance | Unknown | Unknown | Unknown |
 | [IG](https://labs.ig.com/gettingstarted) | Finance | Unknown | Unknown | Unknown |
 | [Indian Mutual Fund](https://www.mfapi.in) | Finance | Unknown | Unknown | Unknown |
 | [Intrinio](https://intrinio.com) | Finance | Unknown | Unknown | Unknown |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api) | Finance | Unknown | Unknown | Unknown |
+| [KmalServico Gold Price Dataset](https://www.kmalservico.com/data) | Finance | Unknown | Unknown | Unknown |
+| [LiquiLens](https://liquilens.in/developers) | Finance | Unknown | Unknown | Unknown |
 | [Marketstack](https://marketstack.com) | Finance | Unknown | Unknown | Unknown |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Finance | Unknown | Unknown | Unknown |
 | [Mono](https://mono.co) | Finance | Unknown | Unknown | Unknown |
@@ -613,6 +650,7 @@ Last link check: Not run
 | [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide) | Finance | Unknown | Unknown | Unknown |
 | [NORTH7 Agent](https://north7.ai/v1/docs) | Finance | Unknown | Unknown | Unknown |
 | [OpenFIGI](https://www.openfigi.com/api) | Finance | Unknown | Unknown | Unknown |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | Finance | Unknown | Unknown | Unknown |
 | [Plaid](https://www.plaid.com/docs) | Finance | Unknown | Unknown | Unknown |
 | [Polygon](https://polygon.io) | Finance | Unknown | Unknown | Unknown |
 | [Portfolio Optimizer](https://portfoliooptimizer.io) | Finance | Unknown | Unknown | Unknown |
@@ -625,9 +663,11 @@ Last link check: Not run
 | [Styvio](https://www.styvio.com) | Finance | Unknown | Unknown | Unknown |
 | [Sugra](https://sugra.ai) | Finance | Unknown | Unknown | Unknown |
 | [Tax Data](https://apilayer.com/marketplace/tax_data-api) | Finance | Unknown | Unknown | Unknown |
+| [TickerLayer](https://tickerlayer.com) | Finance | Unknown | Unknown | Unknown |
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | Finance | Unknown | Unknown | Unknown |
 | [Tradier](https://developer.tradier.com) | Finance | Unknown | Unknown | Unknown |
 | [Twelve Data](https://twelvedata.com) | Finance | Unknown | Unknown | Unknown |
+| [US Mortgage Calculator](https://www.usmortgagecalc.com/developers/api) | Finance | Unknown | Unknown | Unknown |
 | [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Finance | Unknown | Unknown | Unknown |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api) | Finance | Unknown | Unknown | Unknown |
 | [Yahoo Finance](https://www.yahoofinanceapi.com) | Finance | Unknown | Unknown | Unknown |
@@ -684,6 +724,7 @@ Last link check: Not run
 | [Digimon TCG](https://documenter.getpostman.com/view/14059948/TzecB4fH) | Games & Comics | Unknown | Unknown | Unknown |
 | [Disney](https://disneyapi.dev) | Games & Comics | Unknown | Unknown | Unknown |
 | [Dota 2](https://docs.opendota.com) | Games & Comics | Unknown | Unknown | Unknown |
+| [DotaSense Timings](https://dotasense.com/cheat-sheet) | Games & Comics | Unknown | Unknown | Unknown |
 | [Dungeons and Dragons](https://www.dnd5eapi.co/docs) | Games & Comics | Unknown | Unknown | Unknown |
 | [Dungeons and Dragons (Alternate)](https://open5e.com) | Games & Comics | Unknown | Unknown | Unknown |
 | [Eve Online](https://esi.evetech.net/ui) | Games & Comics | Unknown | Unknown | Unknown |
@@ -731,12 +772,14 @@ Last link check: Not run
 | [Pokéapi](https://pokeapi.co) | Games & Comics | Unknown | Unknown | Unknown |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | Games & Comics | Unknown | Unknown | Unknown |
 | [Pokémon TCG](https://pokemontcg.io) | Games & Comics | Unknown | Unknown | Unknown |
+| [PokéSprite](https://msikma.github.io/pokesprite) | Games & Comics | Unknown | Unknown | Unknown |
 | [Psychonauts](https://psychonauts-api.netlify.app) | Games & Comics | Unknown | Unknown | Unknown |
 | [PUBG](https://developer.pubg.com) | Games & Comics | Unknown | Unknown | Unknown |
 | [Puyo Nexus](https://github.com/deltadex7/puyodb-api-deno) | Games & Comics | Unknown | Unknown | Unknown |
 | [quizapi.io](https://quizapi.io) | Games & Comics | Unknown | Unknown | Unknown |
 | [Raider](https://raider.io/api) | Games & Comics | Unknown | Unknown | Unknown |
 | [RAWG.io](https://rawg.io/apidocs) | Games & Comics | Unknown | Unknown | Unknown |
+| [Rblxdb](https://rblxdb.com/developers) | Games & Comics | Unknown | Unknown | Unknown |
 | [Rick and Morty](https://rickandmortyapi.com) | Games & Comics | Unknown | Unknown | Unknown |
 | [Riot Games](https://developer.riotgames.com) | Games & Comics | Unknown | Unknown | Unknown |
 | [RPS 101](https://rps101.pythonanywhere.com/api) | Games & Comics | Unknown | Unknown | Unknown |
@@ -746,6 +789,7 @@ Last link check: Not run
 | [SpaceTradersAPI](https://spacetraders.io?rel=pub-apis) | Games & Comics | Unknown | Unknown | Unknown |
 | [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Games & Comics | Unknown | Unknown | Unknown |
 | [Steam](https://steamapi.xpaw.me) | Games & Comics | Unknown | Unknown | Unknown |
+| [SteamGPT](https://steamgpt.net) | Games & Comics | Unknown | Unknown | Unknown |
 | [SuperHeroes](https://superheroapi.com) | Games & Comics | Unknown | Unknown | Unknown |
 | [TCGdex](https://www.tcgdex.net/docs) | Games & Comics | Unknown | Unknown | Unknown |
 | [Tebex](https://docs.tebex.io/plugin) | Games & Comics | Unknown | Unknown | Unknown |
@@ -756,6 +800,7 @@ Last link check: Not run
 | [Warface (non-official)](https://api.wfstats.cf) | Games & Comics | Unknown | Unknown | Unknown |
 | [Wargaming.net](https://developers.wargaming.net) | Games & Comics | Unknown | Unknown | Unknown |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Games & Comics | Unknown | Unknown | Unknown |
+| [Worth the Rip](https://worththerip.com/api) | Games & Comics | Unknown | Unknown | Unknown |
 | [xkcd](https://xkcd.com/json.html) | Games & Comics | Unknown | Unknown | Unknown |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide) | Games & Comics | Unknown | Unknown | Unknown |
 | [Actinia Grass GIS](https://actinia.mundialis.de/api_docs) | Geocoding | Unknown | Unknown | Unknown |
@@ -812,6 +857,7 @@ Last link check: Not run
 | [ipgeolocation](https://ipgeolocation.io) | Geocoding | Unknown | Unknown | Unknown |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Geocoding | Unknown | Unknown | Unknown |
 | [IPstack](https://ipstack.com) | Geocoding | Unknown | Unknown | Unknown |
+| [ipwhois](https://ipwhois.io/documentation) | Geocoding | Unknown | Unknown | Unknown |
 | [Kakao Maps](https://apis.map.kakao.com) | Geocoding | Unknown | Unknown | Unknown |
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo) | Geocoding | Unknown | Unknown | Unknown |
 | [Kiprio UK Postcode](https://kiprio.com/v1/postcode) | Geocoding | Unknown | Unknown | Unknown |
@@ -829,6 +875,7 @@ Last link check: Not run
 | [openrouteservice.org](https://openrouteservice.org) | Geocoding | Unknown | Unknown | Unknown |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | Geocoding | Unknown | Unknown | Unknown |
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | Geocoding | Unknown | Unknown | Unknown |
+| [PontoFato](https://pontofato.com/api) | Geocoding | Unknown | Unknown | Unknown |
 | [positionstack](https://positionstack.com) | Geocoding | Unknown | Unknown | Unknown |
 | [PostalCodes](https://postalcodes.info/api) | Geocoding | Unknown | Unknown | Unknown |
 | [Postali](https://postali.app/api) | Geocoding | Unknown | Unknown | Unknown |
@@ -854,6 +901,7 @@ Last link check: Not run
 | [AI Law Tracker](https://ai-law-tracker.com/developers) | Government | Unknown | Unknown | Unknown |
 | [Bank Negara Malaysia Open Data](https://apikijangportal.bnm.gov.my) | Government | Unknown | Unknown | Unknown |
 | [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | Government | Unknown | Unknown | Unknown |
+| [Bidledger](https://jaydemks.github.io/bidledger/api.html) | Government | Unknown | Unknown | Unknown |
 | [Brazil](https://brasilapi.com.br) | Government | Unknown | Unknown | Unknown |
 | [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br) | Government | Unknown | Unknown | Unknown |
 | [Brazil Receita WS](https://www.receitaws.com.br) | Government | Unknown | Unknown | Unknown |
@@ -878,7 +926,9 @@ Last link check: Not run
 | [Deutscher Bundestag DIP](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf) | Government | Unknown | Unknown | Unknown |
 | [Disclosed Capitol](https://www.disclosedcapitol.com/data-files/api) | Government | Unknown | Unknown | Unknown |
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Government | Unknown | Unknown | Unknown |
+| [DistrictAPI](https://districtapi.dev/docs) | Government | Unknown | Unknown | Unknown |
 | [eCourtsIndia](https://ecourtsindia.com/api) | Government | Unknown | Unknown | Unknown |
+| [EditalMD](https://editalmd.com/api) | Government | Unknown | Unknown | Unknown |
 | [EPA](https://www.epa.gov/developers/data-data-products) | Government | Unknown | Unknown | Unknown |
 | [FastDOL](https://www.fastdol.com/docs) | Government | Unknown | Unknown | Unknown |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | Government | Unknown | Unknown | Unknown |
@@ -945,6 +995,7 @@ Last link check: Not run
 | [OpenMercantil](https://openmercantil.es/api/documentacion) | Government | Unknown | Unknown | Unknown |
 | [OpenRegistry](https://openregistry.sophymarine.com) | Government | Unknown | Unknown | Unknown |
 | [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs) | Government | Unknown | Unknown | Unknown |
+| [Radar CNPJ](https://radar-cnpj.com/api) | Government | Unknown | Unknown | Unknown |
 | [Represent by Open North](https://represent.opennorth.ca) | Government | Unknown | Unknown | Unknown |
 | [Tollmint](https://api.tollmint.com) | Government | Unknown | Unknown | Unknown |
 | [UK Companies House](https://developer.company-information.service.gov.uk) | Government | Unknown | Unknown | Unknown |
@@ -952,6 +1003,7 @@ Last link check: Not run
 | [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api) | Government | Unknown | Unknown | Unknown |
 | [USA.gov](https://www.usa.gov/developer) | Government | Unknown | Unknown | Unknown |
 | [USAspending.gov](https://api.usaspending.gov) | Government | Unknown | Unknown | Unknown |
+| [Vett](https://wimberly.solutions/api/free-sanctions-check) | Government | Unknown | Unknown | Unknown |
 | [Clinical Trials Directory](https://trials.starfile.org/api) | Health | Unknown | Unknown | Unknown |
 | [CMS.gov](https://data.cms.gov/provider-data) | Health | Unknown | Unknown | Unknown |
 | [Coronavirus](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) | Health | Unknown | Unknown | Unknown |
@@ -972,6 +1024,7 @@ Last link check: Not run
 | [Dataflow Kit COVID-19](https://covid-19.dataflowkit.com) | Health | Unknown | Unknown | Unknown |
 | [Edamam](https://developer.edamam.com) | Health | Unknown | Unknown | Unknown |
 | [ERstat](https://erstat.ca/developers) | Health | Unknown | Unknown | Unknown |
+| [FindSaunaPlunge](https://findsaunaplunge.com/api) | Health | Unknown | Unknown | Unknown |
 | [FoodData Central](https://fdc.nal.usda.gov) | Health | Unknown | Unknown | Unknown |
 | [Healthcare.gov](https://www.healthcare.gov/developers) | Health | Unknown | Unknown | Unknown |
 | [Humanitarian Data Exchange](https://data.humdata.org) | Health | Unknown | Unknown | Unknown |
@@ -989,6 +1042,7 @@ Last link check: Not run
 | [openFDA](https://open.fda.gov) | Health | Unknown | Unknown | Unknown |
 | [Orion Health](https://developer.orionhealth.io) | Health | Unknown | Unknown | Unknown |
 | [Quarantine](https://quarantine.country/coronavirus/api) | Health | Unknown | Unknown | Unknown |
+| [Urgences Québec](https://sante.handled.tools/api) | Health | Unknown | Unknown | Unknown |
 | [Adzuna](https://developer.adzuna.com/overview) | Jobs | Unknown | Unknown | Unknown |
 | [AI Dev Jobs](https://aidevboard.com/openapi.yaml) | Jobs | Unknown | Unknown | Unknown |
 | [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | Jobs | Unknown | Unknown | Unknown |
@@ -1023,6 +1077,7 @@ Last link check: Not run
 | [DreamThreads](https://mydreamthreads.xyz/dream-interpretation-api) | Machine Learning | Unknown | Unknown | Unknown |
 | [EXUDE-API](http://uttesh.com/exude-api) | Machine Learning | Unknown | Unknown | Unknown |
 | [GoldBean](https://goldbean-api.xyz/docs) | Machine Learning | Unknown | Unknown | Unknown |
+| [Google Gemini](https://ai.google.dev/gemini-api/docs) | Machine Learning | Unknown | Unknown | Unknown |
 | [Groq](https://console.groq.com/docs/quickstart) | Machine Learning | Unknown | Unknown | Unknown |
 | [Hirak FaceAPI](https://faceapi.hirak.site) | Machine Learning | Unknown | Unknown | Unknown |
 | [Hugging Face](https://huggingface.co) | Machine Learning | Unknown | Unknown | Unknown |
@@ -1035,6 +1090,7 @@ Last link check: Not run
 | [Machinetutors](https://www.machinetutors.com/portfolio/MT_api.html) | Machine Learning | Unknown | Unknown | Unknown |
 | [MediaCraft AI](https://mediacraft-x402-api.onrender.com) | Machine Learning | Unknown | Unknown | Unknown |
 | [MessengerX.io](https://messengerx.rtfd.io) | Machine Learning | Unknown | Unknown | Unknown |
+| [Modelfax](https://bytebrujo.github.io/modelfax) | Machine Learning | Unknown | Unknown | Unknown |
 | [NLP Cloud](https://nlpcloud.io) | Machine Learning | Unknown | Unknown | Unknown |
 | [Not Human Search](https://nothumansearch.ai/openapi.yaml) | Machine Learning | Unknown | Unknown | Unknown |
 | [OpenVisionAPI](https://openvisionapi.com) | Machine Learning | Unknown | Unknown | Unknown |
@@ -1104,14 +1160,17 @@ Last link check: Not run
 | [TheNews](https://www.thenewsapi.com) | News | Unknown | Unknown | Unknown |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api) | News | Unknown | Unknown | Unknown |
 | [18F](http://18f.github.io/API-All-the-X) | Open Data | Unknown | Unknown | Unknown |
+| [49 Gallery Historical Data](https://api.181649.com/docs) | Open Data | Unknown | Unknown | Unknown |
 | [AcreLens](https://www.acrelens.com) | Open Data | Unknown | Unknown | Unknown |
 | [API Setu](https://www.apisetu.gov.in) | Open Data | Unknown | Unknown | Unknown |
 | [Archive.org](https://archive.readme.io/docs) | Open Data | Unknown | Unknown | Unknown |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | Open Data | Unknown | Unknown | Unknown |
 | [BotsArchive](https://botsarchive.com/docs.html) | Open Data | Unknown | Unknown | Unknown |
+| [BTU Graph](https://btugraph.com/data) | Open Data | Unknown | Unknown | Unknown |
 | [Callook.info](https://callook.info) | Open Data | Unknown | Unknown | Unknown |
 | [CARTO](https://carto.com) | Open Data | Unknown | Unknown | Unknown |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data) | Open Data | Unknown | Unknown | Unknown |
+| [CuttingToolsAI](https://cuttingtoolsai.eu/api) | Open Data | Unknown | Unknown | Unknown |
 | [Enigma Public](https://developers.enigma.com/docs) | Open Data | Unknown | Unknown | Unknown |
 | [EOSL](https://eosl.ai/api) | Open Data | Unknown | Unknown | Unknown |
 | [French Address Search](https://geo.api.gouv.fr/adresse) | Open Data | Unknown | Unknown | Unknown |
@@ -1136,7 +1195,9 @@ Last link check: Not run
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference) | Open Data | Unknown | Unknown | Unknown |
 | [OpenSanctions](https://www.opensanctions.org/docs/api) | Open Data | Unknown | Unknown | Unknown |
 | [Pan Africa Data](https://panafricadata.com) | Open Data | Unknown | Unknown | Unknown |
+| [PayCrunch](https://paycrunch.co/api.html) | Open Data | Unknown | Unknown | Unknown |
 | [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | Open Data | Unknown | Unknown | Unknown |
+| [PublicDataHub](https://publicdatahub.org/api) | Open Data | Unknown | Unknown | Unknown |
 | [Recreation Information Database](https://ridb.recreation.gov) | Open Data | Unknown | Unknown | Unknown |
 | [Registrum](https://api.registrum.co.uk/docs) | Open Data | Unknown | Unknown | Unknown |
 | [Scoop.it](http://www.scoop.it/dev) | Open Data | Unknown | Unknown | Unknown |
@@ -1215,6 +1276,7 @@ Last link check: Not run
 | [Imsea](https://imsea.herokuapp.com) | Photography | Unknown | Unknown | Unknown |
 | [Lorem Picsum](https://picsum.photos) | Photography | Unknown | Unknown | Unknown |
 | [ObjectCut](https://objectcut.com) | Photography | Unknown | Unknown | Unknown |
+| [Pexafy](https://docs.pexafy.com) | Photography | Unknown | Unknown | Unknown |
 | [Pexels](https://www.pexels.com/api) | Photography | Unknown | Unknown | Unknown |
 | [PhotoRoom](https://www.photoroom.com/api) | Photography | Unknown | Unknown | Unknown |
 | [Pixabay](https://pixabay.com/sk/service/about/api) | Photography | Unknown | Unknown | Unknown |
@@ -1239,6 +1301,7 @@ Last link check: Not run
 | [CodeCogs](https://editor.codecogs.com/docs/4-LaTeX_rendering.php) | Science & Math | Unknown | Unknown | Unknown |
 | [CORE](https://core.ac.uk/services) | Science & Math | Unknown | Unknown | Unknown |
 | [CycleCalcs](https://www.cyclecalcs.com/api.html) | Science & Math | Unknown | Unknown | Unknown |
+| [Europe PMC](https://europepmc.org/RestfulWebService) | Science & Math | Unknown | Unknown | Unknown |
 | [GBIF](https://www.gbif.org/developer/summary) | Science & Math | Unknown | Unknown | Unknown |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | Science & Math | Unknown | Unknown | Unknown |
 | [inspirehep.net](https://github.com/inspirehep/rest-api-doc) | Science & Math | Unknown | Unknown | Unknown |
@@ -1282,6 +1345,7 @@ Last link check: Not run
 | [Classify](https://classify-web.herokuapp.com) | Security | Unknown | Unknown | Unknown |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers) | Security | Unknown | Unknown | Unknown |
 | [CRXcavator](https://crxcavator.io/apidocs) | Security | Unknown | Unknown | Unknown |
+| [CSR.plus](https://csr.plus/docs/api) | Security | Unknown | Unknown | Unknown |
 | [dead-drop](https://api.dead-drop.xyz/api/v1/docs) | Security | Unknown | Unknown | Unknown |
 | [Dehash.lt](https://github.com/Dehash-lt/api) | Security | Unknown | Unknown | Unknown |
 | [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) | Security | Unknown | Unknown | Unknown |
@@ -1305,6 +1369,7 @@ Last link check: Not run
 | [Mozilla http scanner](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) | Security | Unknown | Unknown | Unknown |
 | [Mozilla tls scanner](https://github.com/mozilla/tls-observatory) | Security | Unknown | Unknown | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | Security | Unknown | Unknown | Unknown |
+| [Neetix Liveliness](https://liveliness.neetix.in/api-reference) | Security | Unknown | Unknown | Unknown |
 | [Passwordinator](https://github.com/fawazsullia/password-generator) | Security | Unknown | Unknown | Unknown |
 | [PhishStats](https://phishstats.info) | Security | Unknown | Unknown | Unknown |
 | [Privacy.com](https://privacy.com/developer/docs) | Security | Unknown | Unknown | Unknown |
@@ -1313,6 +1378,7 @@ Last link check: Not run
 | [Shodan](https://developer.shodan.io) | Security | Unknown | Unknown | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Security | Unknown | Unknown | Unknown |
 | [SSL Domain Health Check](https://rapidapi.com/goktugbk/api/ssl-domain-health-check) | Security | Unknown | Unknown | Unknown |
+| [SSL Labs](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v3.md) | Security | Unknown | Unknown | Unknown |
 | [Threat Jammer](https://threatjammer.com/docs/index) | Security | Unknown | Unknown | Unknown |
 | [UK Police](https://data.police.uk/docs) | Security | Unknown | Unknown | Unknown |
 | [URLhaus](https://urlhaus.abuse.ch/api) | Security | Unknown | Unknown | Unknown |
@@ -1333,6 +1399,7 @@ Last link check: Not run
 | [OLX Poland](https://developer.olx.pl/api/doc) | Shopping | Unknown | Unknown | Unknown |
 | [Rappi](https://dev-portal.rappi.com) | Shopping | Unknown | Unknown | Unknown |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopping | Unknown | Unknown | Unknown |
+| [Sparepilot](https://sparepilot.com/developers) | Shopping | Unknown | Unknown | Unknown |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide) | Shopping | Unknown | Unknown | Unknown |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs) | Shopping | Unknown | Unknown | Unknown |
 | [4chan](https://github.com/4chan/4chan-API) | Social | Unknown | Unknown | Unknown |
@@ -1370,6 +1437,7 @@ Last link check: Not run
 | [Revolt](https://developers.revolt.chat/api) | Social | Unknown | Unknown | Unknown |
 | [Saidit](https://www.saidit.net/dev/api) | Social | Unknown | Unknown | Unknown |
 | [Slack](https://api.slack.com) | Social | Unknown | Unknown | Unknown |
+| [SocialCrawl](https://www.socialcrawl.dev/docs) | Social | Unknown | Unknown | Unknown |
 | [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site) | Social | Unknown | Unknown | Unknown |
 | [TamTam](https://dev.tamtam.chat) | Social | Unknown | Unknown | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | Social | Unknown | Unknown | Unknown |
@@ -1385,6 +1453,7 @@ Last link check: Not run
 | [vk](https://vk.com/dev/sites) | Social | Unknown | Unknown | Unknown |
 | [xfetch](https://xfetch.io) | Social | Unknown | Unknown | Unknown |
 | [XFlux](https://www.xfluxapi.com/docs/api) | Social | Unknown | Unknown | Unknown |
+| [5DollarFootball](https://5dollarfootballapi.com) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [ApiMedic](https://apimedic.com) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [balldontlie](https://www.balldontlie.io) | Sports & Fitness | Unknown | Unknown | Unknown |
@@ -1398,6 +1467,7 @@ Last link check: Not run
 | [Fitbit](https://dev.fitbit.com) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [Football (Soccer) Videos](https://www.scorebat.com/video-api) | Sports & Fitness | Unknown | Unknown | Unknown |
+| [Football Charts](https://www.football-charts.com/developers) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [Football-Data](https://www.football-data.org) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [JCDecaux Bike](https://developer.jcdecaux.com) | Sports & Fitness | Unknown | Unknown | Unknown |
@@ -1409,6 +1479,7 @@ Last link check: Not run
 | [Odds-API](https://docs.odds-api.io) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [Oddsmagnet](https://data.oddsmagnet.com) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [OpenF1](https://openf1.org) | Sports & Fitness | Unknown | Unknown | Unknown |
+| [OpenFoot API](https://openfootapi.com/docs) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [OpenLigaDB](https://www.openligadb.de) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [Padel Snipe](https://padelsnipe.com/fr/world/api) | Sports & Fitness | Unknown | Unknown | Unknown |
 | [PlayerElo](https://playerelo.football/api-access) | Sports & Fitness | Unknown | Unknown | Unknown |
@@ -1438,8 +1509,10 @@ Last link check: Not run
 | [FakeJSON](https://fakejson.com) | Test Data | Unknown | Unknown | Unknown |
 | [FakerAPI](https://fakerapi.it/en) | Test Data | Unknown | Unknown | Unknown |
 | [FakeStoreAPI](https://fakestoreapi.com) | Test Data | Unknown | Unknown | Unknown |
+| [flaky](https://flakyapi.dev) | Test Data | Unknown | Unknown | Unknown |
 | [GeneradorDNI](https://api.generadordni.es) | Test Data | Unknown | Unknown | Unknown |
 | [ItsThisForThat](https://itsthisforthat.com/api.php) | Test Data | Unknown | Unknown | Unknown |
+| [JsonFabrica](https://jsonfabrica.com/docs/api-reference) | Test Data | Unknown | Unknown | Unknown |
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com) | Test Data | Unknown | Unknown | Unknown |
 | [Loripsum](http://loripsum.net) | Test Data | Unknown | Unknown | Unknown |
 | [Mailsac](https://mailsac.com/docs/api) | Test Data | Unknown | Unknown | Unknown |
@@ -1495,6 +1568,7 @@ Last link check: Not run
 | [Amadeus for Developers](https://developers.amadeus.com/self-service) | Transportation | Unknown | Unknown | Unknown |
 | [apilayer aviationstack](https://aviationstack.com) | Transportation | Unknown | Unknown | Unknown |
 | [Apimetro](https://apimetro.dev/swagger/index.html) | Transportation | Unknown | Unknown | Unknown |
+| [Aviation Safety Data](https://himaxym.com/developers) | Transportation | Unknown | Unknown | Unknown |
 | [AviationAPI](https://docs.aviationapi.com) | Transportation | Unknown | Unknown | Unknown |
 | [AZ511](https://www.az511.com/developers/doc) | Transportation | Unknown | Unknown | Unknown |
 | [Bay Area Rapid Transit](http://api.bart.gov) | Transportation | Unknown | Unknown | Unknown |
@@ -1514,6 +1588,7 @@ Last link check: Not run
 | [Impala Hotel Bookings](https://docs.impala.travel/docs/booking-api) | Transportation | Unknown | Unknown | Unknown |
 | [Izi](http://api-docs.izi.travel) | Transportation | Unknown | Unknown | Unknown |
 | [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | Transportation | Unknown | Unknown | Unknown |
+| [LiveTrafficCam](https://bzsasson.github.io/traffic-camera-sources/api.html) | Transportation | Unknown | Unknown | Unknown |
 | [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Transportation | Unknown | Unknown | Unknown |
 | [Navitia](https://doc.navitia.io) | Transportation | Unknown | Unknown | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Transportation | Unknown | Unknown | Unknown |
@@ -1566,6 +1641,7 @@ Last link check: Not run
 | [Tripadvisor](https://developer-tripadvisor.com/home) | Transportation | Unknown | Unknown | Unknown |
 | [Uber](https://developer.uber.com/products) | Transportation | Unknown | Unknown | Unknown |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Transportation | Unknown | Unknown | Unknown |
+| [Wander Atlas](https://wanderatlasguides.com/api) | Transportation | Unknown | Unknown | Unknown |
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | URL Shorteners | Unknown | Unknown | Unknown |
 | [Bitly](http://dev.bitly.com/get_started.html) | URL Shorteners | Unknown | Unknown | Unknown |
 | [CleanURI](https://cleanuri.com/docs) | URL Shorteners | Unknown | Unknown | Unknown |
@@ -1612,6 +1688,8 @@ Last link check: Not run
 | [IMDb-API](https://imdb-api.com) | Video | Unknown | Unknown | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | Video | Unknown | Unknown | Unknown |
 | [JSON2Video](https://json2video.com) | Video | Unknown | Unknown | Unknown |
+| [KinoPipe](https://kinopipe.com/docs) | Video | Unknown | Unknown | Unknown |
+| [KPainter](https://api.kpainter.ai/openapi/v1/docs) | Video | Unknown | Unknown | Unknown |
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes) | Video | Unknown | Unknown | Unknown |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | Video | Unknown | Unknown | Unknown |
 | [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com) | Video | Unknown | Unknown | Unknown |
@@ -1620,6 +1698,7 @@ Last link check: Not run
 | [Owen Wilson Wow](https://owen-wilson-wow-api.herokuapp.com) | Video | Unknown | Unknown | Unknown |
 | [Rendobar](https://rendobar.com) | Video | Unknown | Unknown | Unknown |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes) | Video | Unknown | Unknown | Unknown |
+| [Shotstack](https://shotstack.io) | Video | Unknown | Unknown | Unknown |
 | [Simkl](https://simkl.docs.apiary.io) | Video | Unknown | Unknown | Unknown |
 | [STAPI](http://stapi.co) | Video | Unknown | Unknown | Unknown |
 | [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes) | Video | Unknown | Unknown | Unknown |
@@ -1637,6 +1716,7 @@ Last link check: Not run
 | [TVDB](https://thetvdb.com/api-information) | Video | Unknown | Unknown | Unknown |
 | [TVMaze](http://www.tvmaze.com/api) | Video | Unknown | Unknown | Unknown |
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Video | Unknown | Unknown | Unknown |
+| [VidWords](https://vidwords.com/api-docs) | Video | Unknown | Unknown | Unknown |
 | [Vimeo](https://developer.vimeo.com) | Video | Unknown | Unknown | Unknown |
 | [Watchmode](https://api.watchmode.com) | Video | Unknown | Unknown | Unknown |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | Video | Unknown | Unknown | Unknown |
@@ -1659,7 +1739,7 @@ Last link check: Not run
 | [Micro Weather](https://m3o.com/weather/api) | Weather | Unknown | Unknown | Unknown |
 | [ODWeather](http://api.oceandrivers.com/static/docs.html) | Weather | Unknown | Unknown | Unknown |
 | [Oikolab](https://docs.oikolab.com) | Weather | Unknown | Unknown | Unknown |
-| [Open-Meteo](https://open-meteo.com) | Weather | Unknown | Unknown | Unknown |
+| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | Weather | Unknown | Unknown | Unknown |
 | [openSenseMap](https://api.opensensemap.org) | Weather | Unknown | Unknown | Unknown |
 | [OpenUV](https://www.openuv.io) | Weather | Unknown | Unknown | Unknown |
 | [OpenWeatherMap](https://openweathermap.org/api) | Weather | Unknown | Unknown | Unknown |
@@ -1675,6 +1755,8 @@ Last link check: Not run
 | [WeatherAPI](https://www.weatherapi.com) | Weather | Unknown | Unknown | Unknown |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | Unknown | Unknown | Unknown |
 | [Weatherstack](https://weatherstack.com) | Weather | Unknown | Unknown | Unknown |
+| [WeatherTotals](https://weathertotals.com/api) | Weather | Unknown | Unknown | Unknown |
+| [World Time & Weather](https://worldtimeweather.com/api.html) | Weather | Unknown | Unknown | Unknown |
 | [wttr.in](https://wttr.in/:help) | Weather | Unknown | Unknown | Unknown |
 | [Yandex.Weather](https://yandex.com/dev/weather) | Weather | Unknown | Unknown | Unknown |
 

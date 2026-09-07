@@ -4,21 +4,21 @@
 
 APIs related to photographs and image sources.
 
-**30 APIs** in this category.
+**31 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 6 |
-| Authentication | apiKey | 16 |
+| Authentication | apiKey | 17 |
 | Authentication | OAuth | 8 |
-| HTTPS | Yes | 29 |
+| HTTPS | Yes | 30 |
 | HTTPS | No | 1 |
-| CORS | Yes | 6 |
+| CORS | Yes | 7 |
 | CORS | No | 1 |
 | CORS | Unknown | 23 |
-| Browser ready | Yes | 6 |
+| Browser ready | Yes | 7 |
 
 ## Quick filters
 
@@ -47,6 +47,7 @@ APIs related to photographs and image sources.
 | [Imsea](https://imsea.herokuapp.com) | Free image search | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Lorem Picsum](https://picsum.photos) | Images from Unsplash | `No` | Yes | Unknown | Unknown | 3/11 |
 | [ObjectCut](https://objectcut.com) | Image Background removal | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Pexafy](https://docs.pexafy.com) | Semantic image search across 9+ free stock photo sources with a unified JSON schema | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Pexels](https://www.pexels.com/api) | Free Stock Photos and Videos | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [PhotoRoom](https://www.photoroom.com/api) | Remove background from images | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Pixabay](https://pixabay.com/sk/service/about/api) | Photography | `apiKey` | Yes | Unknown | Unknown | 1/11 |

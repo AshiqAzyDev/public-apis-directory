@@ -4,20 +4,20 @@
 
 APIs related to products, e-commerce catalogs, and shopping data.
 
-**17 APIs** in this category.
+**18 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
 | Authentication | No | 1 |
-| Authentication | apiKey | 10 |
+| Authentication | apiKey | 11 |
 | Authentication | OAuth | 6 |
-| HTTPS | Yes | 17 |
+| HTTPS | Yes | 18 |
 | HTTPS | No | 0 |
 | CORS | Yes | 4 |
 | CORS | No | 0 |
-| CORS | Unknown | 13 |
+| CORS | Unknown | 14 |
 | Browser ready | Yes | 4 |
 
 ## Quick filters
@@ -46,6 +46,7 @@ APIs related to products, e-commerce catalogs, and shopping data.
 | [OLX Poland](https://developer.olx.pl/api/doc) | Integrate with local sites by posting, managing adverts and communicating with OLX users | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Rappi](https://dev-portal.rappi.com) | Manage orders from Rappi's app | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Shopee](https://open.shopee.com/documents?version=1) | Shopee's official API for integration of various services from Shopee | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Sparepilot](https://sparepilot.com/developers) | Spare parts catalog, OEM cross-references & price comparison for garden power equipment | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes | Yes | Yes | 2/11 |
 

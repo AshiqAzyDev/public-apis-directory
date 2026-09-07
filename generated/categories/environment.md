@@ -4,21 +4,21 @@
 
 APIs related to environment, climate, and natural-world measurements.
 
-**19 APIs** in this category.
+**23 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 9 |
+| Authentication | No | 13 |
 | Authentication | apiKey | 10 |
 | Authentication | OAuth | 0 |
-| HTTPS | Yes | 17 |
+| HTTPS | Yes | 21 |
 | HTTPS | No | 2 |
-| CORS | Yes | 4 |
+| CORS | Yes | 8 |
 | CORS | No | 2 |
 | CORS | Unknown | 13 |
-| Browser ready | Yes | 3 |
+| Browser ready | Yes | 7 |
 
 ## Quick filters
 
@@ -37,10 +37,13 @@ APIs related to environment, climate, and natural-world measurements.
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | API calculates the impact of common carbon-intensive activities in real time | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [CO2 Offset](https://co2offset.io/api.html) | API calculates and validates the carbon footprint | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Danish data service Energi](https://www.energidataservice.dk) | Open energy data from Energinet to society | `No` | Yes | Unknown | Unknown | 3/11 |
+| [gridcarbon](https://gridcarbon.dev) | Hourly grid carbon intensity in gCO2eq/kWh for 45 zones in Europe, the US and Great Britain | `No` | Yes | Yes | Yes | 4/11 |
 | [GrünstromIndex](https://gruenstromindex.de) | Green Power Index for Germany (Grünstromindex/GSI) | `No` | No | Yes | No | 3/11 |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Air quality and weather data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [kanari](https://kanari.io/en/api) | Real-time worldwide wildfire detections, water bomber tracking and open fire archive | `No` | Yes | Yes | Yes | 4/11 |
 | [Luchtmeetnet](https://api-docs.luchtmeetnet.nl) | Predicted and actual air quality components for The Netherlands (RIVM) | `No` | Yes | Unknown | Unknown | 3/11 |
 | [National Grid ESO](https://data.nationalgrideso.com) | Open data from Great Britain’s Electricity System Operator | `No` | Yes | Unknown | Unknown | 3/11 |
+| [Open-Meteo](https://open-meteo.com) | Free weather API for non-commercial use | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenAQ](https://docs.openaq.org) | Open air quality data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org) | Open low-cost PM2.5 sensor data | `No` | Yes | Unknown | Unknown | 3/11 |
 | [PM25.in](http://www.pm25.in/api_doc) | Air quality of China | `apiKey` | No | Unknown | No | 0/11 |
@@ -49,6 +52,7 @@ APIs related to environment, climate, and natural-world measurements.
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Hourly usage energy report for Srp customers | `apiKey` | Yes | No | No | 1/11 |
 | [SustainMetrics](https://www.sustainmetrics.net/api) | 18,000+ GHG emission factors from DEFRA, EPA, ADEME, Ember | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions) | The Official Carbon Intensity API for Great Britain developed by National Grid | `No` | Yes | Unknown | Unknown | 3/11 |
+| [WattFigure](https://api.wattfigure.com) | US electricity rates by state, with appliance and EV charging running costs | `No` | Yes | Yes | Yes | 4/11 |
 | [Website Carbon](https://api.websitecarbon.com) | API to estimate the carbon footprint of loading web pages | `No` | Yes | Unknown | Unknown | 3/11 |
 
 **Related categories:** [Weather](weather.md), [Science & Math](science-and-math.md)

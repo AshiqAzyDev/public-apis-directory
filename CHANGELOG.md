@@ -4,6 +4,108 @@
 
 Catalog changes tracked in this repository.
 
+## 2026-09-07
+
+Catalog build: `29b7c2b`
+
+### Added
+- 49 Gallery Historical Data (Open Data)
+- 5DollarFootball (Sports & Fitness)
+- Aquanode (Development)
+- Attestwire (Data Validation)
+- Aviation Safety Data (Transportation)
+- BTCGlobe (Cryptocurrency)
+- BTU Graph (Open Data)
+- Bidledger (Government)
+- Bored (Development)
+- CSR.plus (Security)
+- Crawl Readiness (Development)
+- CurrencyBeacon (Currency Exchange)
+- CuttingToolsAI (Open Data)
+- DefiLlama (Cryptocurrency)
+- DistrictAPI (Government)
+- DotaSense Timings (Games & Comics)
+- EOD Historical Data (Finance)
+- EditalMD (Government)
+- Europe PMC (Science & Math)
+- FXNewsBias (Finance)
+- FarmDash (Finance)
+- FindSaunaPlunge (Health)
+- Football Charts (Sports & Fitness)
+- Futures Clock (Finance)
+- GcrawlAI (Development)
+- Get Started with Web3 (Blockchain)
+- Google Gemini (Machine Learning)
+- Helious (Finance)
+- IBAN Analyzer (Finance)
+- Iconify (Art & Design)
+- JsonFabrica (Test Data)
+- KPainter (Video)
+- Katalis UK Company Enrichment (Business)
+- KinoPipe (Video)
+- KmalServico Gold Price Dataset (Finance)
+- Labelixa (Development)
+- LiquiLens (Finance)
+- LiveTrafficCam (Transportation)
+- Micro-SaaS AI Suite (Development)
+- Modelfax (Machine Learning)
+- Neetix Liveliness (Security)
+- Open-Meteo Ensemble (Weather)
+- OpenFoot API (Sports & Fitness)
+- Orca Scan (Development)
+- PIT Financial State (Finance)
+- Packagist (Development)
+- PayCrunch (Open Data)
+- Pexafy (Photography)
+- PokéSprite (Games & Comics)
+- PontoFato (Geocoding)
+- PrintSocket (Documents & Productivity)
+- PublicDataHub (Open Data)
+- QR Codes (Development)
+- Radar CNPJ (Government)
+- Rblxdb (Games & Comics)
+- RubyGems (Development)
+- SMTPfast (Email)
+- SSL Labs (Security)
+- Scrax (Development)
+- Shotanvil (Development)
+- Shotstack (Video)
+- SocialCrawl (Social)
+- Sparepilot (Shopping)
+- SteamGPT (Games & Comics)
+- Temsor (Data Validation)
+- TickerLayer (Finance)
+- TradeDataHub (Business)
+- US Mortgage Calculator (Finance)
+- Urgences Québec (Health)
+- Vett (Government)
+- VidWords (Video)
+- Wander Atlas (Transportation)
+- WattFigure (Environment)
+- WeatherTotals (Weather)
+- World Time & Weather (Weather)
+- Worth the Rip (Games & Comics)
+- api-mint (Currency Exchange)
+- crates.io (Development)
+- flaky (Test Data)
+- gridcarbon (Environment)
+- ipwhois (Geocoding)
+- kanari (Environment)
+- uchecker (Email)
+
+### Removed
+- Bored (Development)
+
+### Updated
+- Open-Meteo — description changed
+
+### Category Changes
+- Open-Meteo moved from Weather to Environment
+
+# Changelog
+
+Catalog changes tracked in this repository.
+
 ## 2026-08-14
 
 Initial catalog: 1669 APIs (build `4f6e03b`).

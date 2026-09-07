@@ -6,7 +6,7 @@ APIs in Machine Learning or Text Analysis. Capabilities beyond the catalog descr
 
 **Criteria:** `Category is Machine Learning or Text Analysis`
 
-**53 APIs** match this filter. This is not a ranking.
+**55 APIs** match this filter. This is not a ranking.
 
 | API | Description | Category | Auth | HTTPS | CORS | Browser ready | Score |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ APIs in Machine Learning or Text Analysis. Capabilities beyond the catalog descr
 | [GeoScore](https://geoscoreapi.com) | Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [GoldBean](https://goldbean-api.xyz/docs) | OCR, Translation, NLP & ERNIE LLM via Baidu AI (free tier available) | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs) | Natural language understanding technology, including sentiment, entity and syntax analysis | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
+| [Google Gemini](https://ai.google.dev/gemini-api/docs) | Multimodal generative AI for text, vision, and code generation | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Groq](https://console.groq.com/docs/quickstart) | Fast AI inference API with free tier, supports Llama, Mixtral, Gemma models | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [Hirak FaceAPI](https://faceapi.hirak.site) | Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Hirak OCR](https://ocr.hirak.site) | Image to text -text recognition- from image more than 100 language, accurate, unlimited requests | [Text Analysis](../categories/text-analysis.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -48,6 +49,7 @@ APIs in Machine Learning or Text Analysis. Capabilities beyond the catalog descr
 | [Machinetutors](https://www.machinetutors.com/portfolio/MT_api.html) | AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [MediaCraft AI](https://mediacraft-x402-api.onrender.com) | Chinese content compliance review (17 platforms), EN↔CN translation, and SEO optimization. Pay-per-call via x402 (Solana USDC). | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
 | [MessengerX.io](https://messengerx.rtfd.io) | A FREE API for developers to build and monetize personalized ML based chat apps | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [Modelfax](https://bytebrujo.github.io/modelfax) | LLM pricing, context windows and deprecation dates, schema-validated and updated daily | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [NLP Cloud](https://nlpcloud.io) | NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more | [Machine Learning](../categories/machine-learning.md) | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Not Human Search](https://nothumansearch.ai/openapi.yaml) | AI tool discovery with agentic scoring for 8,600+ tools and MCP servers | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |
 | [OpenVisionAPI](https://openvisionapi.com) | Open source computer vision API based on open source models | [Machine Learning](../categories/machine-learning.md) | `No` | Yes | Yes | Yes | 4/11 |

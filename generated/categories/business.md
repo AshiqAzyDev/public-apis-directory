@@ -4,21 +4,21 @@
 
 APIs related to company data, business lookups, and commercial datasets.
 
-**30 APIs** in this category.
+**32 APIs** in this category.
 
 ## Breakdown
 
 | Dimension | Yes / value | Count |
 | --- | --- | --- |
-| Authentication | No | 9 |
-| Authentication | apiKey | 15 |
+| Authentication | No | 10 |
+| Authentication | apiKey | 16 |
 | Authentication | OAuth | 6 |
-| HTTPS | Yes | 28 |
+| HTTPS | Yes | 30 |
 | HTTPS | No | 2 |
-| CORS | Yes | 7 |
+| CORS | Yes | 8 |
 | CORS | No | 4 |
-| CORS | Unknown | 19 |
-| Browser ready | Yes | 7 |
+| CORS | Unknown | 20 |
+| Browser ready | Yes | 8 |
 
 ## Quick filters
 
@@ -41,6 +41,7 @@ APIs related to company data, business lookups, and commercial datasets.
 | [Google Analytics](https://developers.google.com/analytics) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Invovate](https://invovate.com/api) | Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST | `apiKey` | Yes | No | No | 1/11 |
+| [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | Verified UK company profiles with an AI summary and accuracy score, from Companies House data | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Find verified legal specialists in Georgia from natural-language queries | `No` | Yes | Yes | Yes | 4/11 |
 | [Mailchimp](https://mailchimp.com/developer) | Send marketing campaigns and transactional mails | `apiKey` | Yes | Unknown | Unknown | 1/11 |
 | [mailjet](https://www.mailjet.com) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | `apiKey` | Yes | Unknown | Unknown | 1/11 |
@@ -59,6 +60,7 @@ APIs related to company data, business lookups, and commercial datasets.
 | [Tenders in Spain](https://tenders.guru/es/api) | Get data for procurements in Spain in JSON format | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tenders in Ukraine](https://tenders.guru/ua/api) | Get data for procurements in Ukraine in JSON format | `No` | Yes | Unknown | Unknown | 3/11 |
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | `apiKey` | Yes | Yes | Yes | 2/11 |
+| [TradeDataHub](https://www.tradedatahub.net) | U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews | `No` | Yes | Yes | Yes | 4/11 |
 | [Trello](https://developers.trello.com) | Boards, lists and cards to help you organize and prioritize your projects | `OAuth` | Yes | Unknown | Unknown | 1/11 |
 | [Village](https://docs.village.ai) | Person and company enrichment plus warm introduction paths through your network | `apiKey` | Yes | Yes | Yes | 2/11 |
 
